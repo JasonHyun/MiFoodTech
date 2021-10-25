@@ -42,6 +42,21 @@
 8. What are your three favorite competitors or similar organizations' sites? Why?
 
     TODO
+9. How often would you like to meet or receive updates?
+TODO
+
+9a. If yes would you prefer email, zoom, or other?
+TODO
+
+10. Are you going to provide content (images, etc.)for your site?
+TODO
+
+11. Do you have any potential user interviewees you would like us to reach out to?
+TODO
+
+
+
+
 
 
 TODO: Revise this questionnaire. Add/remove questions. etc.
