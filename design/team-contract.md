@@ -10,7 +10,7 @@ Working together as a team is critical for your success on this project. Conflic
 
 1. To what goals do we all commit?
 
-We want to be finished with the milestone the day before.
+We want to be finished with all of the milestones the day before.
 
 
 2. What are our “ground rules”? (Don't make an exhaustive list—stick with just a few.)
@@ -26,6 +26,7 @@ We want to be finished with the milestone the day before.
 4. How will we communicate and work with our client?
 
     - communicate via email, work with client via Zoom meetings + email (update after first client mtg)
+    - we will respond to client emails within 24 hrs of receiving them.
 
 5. What roles will we create? Include a description of exactly what each role is responsible for. (**NO "CODER" OR "DESIGNER" ROLES!**)
 
@@ -41,16 +42,8 @@ We want to be finished with the milestone the day before.
     Content organizer: Jason
     - collect and organize content from client
 
-    TODO: Role: Claire
-    - description
-
-    potential other roles:
-    - github submitter
-    - meeting agenda planner:
-      - comes up with what we want to get done during a work session / mtg + sends in gc before mtg so everyone is on the same page
-      - writes a post-mtg summary right after mtg + action items for team members
-        - that is, write brief bullet points of what we did (in case someone wasn't able to make the mtg) + next steps for each team member
-
+    Meeting Planner: Claire
+    - come up with meeting agenda/direct weekly team meetings; send brief summary of meeting to members after each meeting.
 
 6. How will we hold ourselves and one another accountable? What (exactly) will we say to a team member who appears not to be contributing equally? To a team member who fails to deliver what was promised?
 
