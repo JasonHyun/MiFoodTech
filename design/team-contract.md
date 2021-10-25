@@ -10,7 +10,7 @@ Working together as a team is critical for your success on this project. Conflic
 
 1. To what goals do we all commit?
 
-We want to be finished  with the milestone the day before.
+We want to be finished with the milestone the day before.
 
 
 2. What are our “ground rules”? (Don't make an exhaustive list—stick with just a few.)
@@ -44,7 +44,7 @@ We want to be finished  with the milestone the day before.
     TODO: Role: Claire
     - description
 
-    potential roles:
+    potential other roles:
     - github submitter
     - meeting agenda planner:
       - comes up with what we want to get done during a work session / mtg + sends in gc before mtg so everyone is on the same page
