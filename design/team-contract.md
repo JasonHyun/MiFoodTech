@@ -10,23 +10,47 @@ Working together as a team is critical for your success on this project. Conflic
 
 1. To what goals do we all commit?
 
-    TODO
+We want to be finished  with the milestone the day before.
+
 
 2. What are our “ground rules”? (Don't make an exhaustive list—stick with just a few.)
 
-    TODO
+  - Commit messages include what we changed (use action verbs ie added, changed, etc)
+  - Status updates in gc: send something before & after project work (ex: before - I am planning to work on ... in ... file; after: I pushed ... that included ... changes)
+    - Text in gc when stuff doesn’t work
 
 3. By what means and how frequently will we meet or communicate?
 
-    TODO
+    - meet (ideally in person) at least 1x a week; communicate through Messenger
 
 4. How will we communicate and work with our client?
 
-    TODO
+    - communicate via email, work with client via Zoom meetings + email (update after first client mtg)
 
 5. What roles will we create? Include a description of exactly what each role is responsible for. (**NO "CODER" OR "DESIGNER" ROLES!**)
 
-    TODO
+    Meeting creator: Danielle
+    - sets up LettuceMeet on Wednesdays for group project work times
+
+    Client liaison: Michellle
+    - point person for emails with client; respond within 24 hours
+
+    Secretary: Melissa
+    - takes notes during meetings with client  
+
+    Content organizer: Jason
+    - collect and organize content from client
+
+    TODO: Role: Claire
+    - description
+
+    potential roles:
+    - github submitter
+    - meeting agenda planner:
+      - comes up with what we want to get done during a work session / mtg + sends in gc before mtg so everyone is on the same page
+      - writes a post-mtg summary right after mtg + action items for team members
+        - that is, write brief bullet points of what we did (in case someone wasn't able to make the mtg) + next steps for each team member
+
 
 6. How will we hold ourselves and one another accountable? What (exactly) will we say to a team member who appears not to be contributing equally? To a team member who fails to deliver what was promised?
 
@@ -34,13 +58,9 @@ Working together as a team is critical for your success on this project. Conflic
 
 7. What do we do when we disagree? What approach to conflict to we all agree to uphold?
 
-    TODO
+    vote, majority wins
 
-8. What are our procedures for re-visiting this contract?
-
-    TODO
-
-9. What else do we want to include in this contract? (Think about a *fun* clause... not everything is always about work! Sometimes you need to celebrate your accomplishments!)
+8. What else do we want to include in this contract? (Think about a *fun* clause... not everything is always about work! Sometimes you need to celebrate your accomplishments!)
 
     TODO
 
