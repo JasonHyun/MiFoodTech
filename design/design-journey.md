@@ -40,8 +40,8 @@
     TODO
 
 8. What are your three favorite competitors or similar organizations' sites? Why?
-
     TODO
+
 9. How often would you like to meet or receive updates?
 TODO
 

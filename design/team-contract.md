@@ -44,6 +44,7 @@ We want to be finished with all of the milestones the day before.
 
     Meeting Planner: Claire
     - come up with meeting agenda/direct weekly team meetings; send brief summary of meeting to members after each meeting.
+    
 
 6. How will we hold ourselves and one another accountable? What (exactly) will we say to a team member who appears not to be contributing equally? To a team member who fails to deliver what was promised?
 
