@@ -13,46 +13,69 @@
 
 1. Describe your organization and its purpose.
 
-    TODO
+Purpose: designing different robots to help prepare chinese cuisine
+
+Chinese food is very difficult and time consuming. The labor cost is increasing after the pandemic and chinese restaurants depend on chinese chefs. However, because of the immigration policy, chinese chefs cannot work. MiFoodTech plans to solve this problem by designing robots to cook chinese food.
+
+The team includes hotelies, ECE, and CS students for marketing and robotics purposes. The plan is for the ECE and CS students to develop the software and hardware. There will be a talking machine, along with the cooking machines. The software will be able to facilitate management and can connect the robots to work automatically.
+
+An example of a dish that will the robots will be able to make is fried shredded potato with green pepper. The idea is that a chef will no longer be needed, but the restaurant may need prepping staff. The use of robots will save lots of money.
+
+The team is looking into the market size, customer acquisition strategy, and competition benchmark. In the future, we will work on prototype validation, R&D, and market expansion.
 
 2. What makes your organization and its services special or unique?
 
-    TODO
+The organization is special because the use of robots will replace the need of chefs and reduce labor costs. Looking at the competition, other companies have not yet developed fully automatic robots, which MiFoodTech is aiming towards.
 
 3. Why are you looking for a new website or updating your existing site?
 
-    TODO
+MiFoodTech currently does not have a website. We would like a website introduce the problems and solutions to them, introduce the team, show the technology, and future steps.
 
 4. Who do you want to visit your site? Who is your site's target audience?
 
-    TODO
+We would like investors to visit the site. Our site's target audience is investors.
 
 5. When visiting your site, what actions do you want your visitors to take?
 
-    TODO
+MiFoodTech wants visitors to see their mission and technology, and hopes that  will want to become part of the founding team. We hope that user will invest in our company to help fund our progress.
 
 6. What are your goals for this site?
 
-    TODO
+Our goals for the site are to present information about our project that will attract investors.
 
 7. Is there a "feel" that you want for your site? Are there colors or imagery that you have in mind?
 
-    TODO
+We want a very simple, neat and clean website. We want brightly colored images on a simplistic website. Additionally, we want a big image on the homepage.
 
 8. What are your three favorite competitors or similar organizations' sites? Why?
 
-    TODO
+**Junzi**
+https://www.junzi.kitchen/
+Junzi is another chinese restaurant that already has 5 restaurants. We like this site because of how simple and clean it looks. There is a big image at the top that really shows the food.
+
+**Canary Technologies**
+https://www.canarytechnologies.com/
+Canary technologies is a hotel company, and restaurant is a similar industry. We also like how simplistic the website is. Specifically, we like how the website includes problems and solutions, client testimonials, and other related companies on the homepage.
+
+**Doordash**
+https://www.doordash.com/
+Doordash is a really popular company. The website also has a really big image at the top of the homepage. The website is simplistic and has bright images.
+
 9. How often would you like to meet or receive updates?
-TODO
+
+We would like to meet once a week.
 
 9a. If yes would you prefer email, zoom, or other?
-TODO
+
+If you have any questions, we can talk over Slack. We do not have any preferences.
 
 10. Are you going to provide content (images, etc.)for your site?
-TODO
+
+We don't have many images right now. You can search online and find images. The design of the website is most important, and we can change the images once we have more images. You can use images and text from the slides presentation on your website and contact me if you need more information.
 
 11. Do you have any potential user interviewees you would like us to reach out to?
-TODO
+
+Not at the moment.
 
 
 
@@ -109,9 +132,114 @@ TODO
 ## First Client Meeting Minutes/Notes (Milestone 1)
 > Include your notes/minutes from the client meeting.
 
-TODO
+**Introduction**
+- master's students in department of natural resources in CALS
+- wants to open up restaurant
 
+**MiFoodTech General Info**
+- mi food tech
+- designing differnet robots to help   - prepare chinese quizine
+- chinese cuisine more complex than other cuisines
+- stir and fry
 
+**Slide Presentation**
+Present slide:
+- prepare food
+- chinese food time consuming
+- labor coast increasing, after pandemic
+- chinese restaurant depends on chef
+- chinese chefs from china cannot work because of immigration policy ==> lack of chinese chefs
+- solve problem by robots
+- students in ECE, CS with experience in robotics working in team
+- big picture: software and hardware
+    - talking machine + cooking machine
+    - software can facilitate management and connect everything to work automatically
+- fried shredded potato with green pepper
+    - chef will not be needed anymore
+    - maybe prepping staff
+    - save lots of money
+- market size
+- customer acquisition strategy
+- cimpetition benchmark
+    - other competition not fully automatic
+- team has hotelies
+- milestones for future
+    - prototype validation, R&D, Market Expansion
+- submit presentation
+
+**Other Notes**
+- we introduce ourselves
+- we have 5 ppl =  5 pages
+
+- what are u more interested in for website? (technology or consumer side)
+
+**Example websites**
+- Junzi: https://www.junzi.kitchen/
+- Canary Technologies:https://www.canarytechnologies.com/
+    - homepage shows the problem on the homepage
+    - covid want to reduce human to human problem
+    - challenges in industry and show how we can provide solution to industry
+    - testimonial from customes
+    - application of technology to other companies
+    - hotel is simalar to restaurant
+- Doordash: https://www.doordash.com/
+
+**Theme/Aesthetic**
+- simple and neat and clean aesthetic
+- colorful and bright
+
+**Webpage ideas**
+- homepage
+- with big picture
+- prototypes
+- page about technology.. currently working on
+- going to have a new restaurant in ithaca
+    - have a menu
+-introduct team
+- next stems
+- cornellians who are interested can invest ==> page about investment
+
+**Possible pages**
+1. homepage
+    - opportunities/problems
+    - what makes you differnet and important
+    - not lots of text on homepage
+2. team  
+3. menu
+4. technology
+5. investment
+
+**Goals for Audience**
+- most important thing: after they visit website, the feel interested in idea and become investors
+- for investors (target audience)
+
+**Images?**
+- not many images
+- sample images... where to put what kind of information
+- prototype images
+
+**Communication**
+slack:
+- prefer to continue over zoom?
+- slack or email
+- how often do you want to meet?
+    - meet once a week
+- send emails with questions
+
+**User Interviews**
+- any users to reach out to?
+- talk about it at a later date
+- interview team members
+ - one team memeber is a chef
+ - another worked at michelin star restaurant
+ - reach out to people in industry
+
+**How to get more content**
+- google labor costs in restuarants
+- you'll see lots of reports
+- rephrase sentences from
+- let know if need more text
+- use prototype images for technology page
 
 # Plan/Schedule (Milestone 1)
 > Make a plan of when you will complete all parts of this assignment.
