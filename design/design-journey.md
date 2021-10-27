@@ -13,9 +13,9 @@
 
 1. Describe your organization and its purpose.
 
-Purpose: designing different robots to help prepare chinese cuisine
+Purpose: designing different robots to help prepare Chinese cuisine
 
-Chinese food is very difficult and time consuming. The labor cost is increasing after the pandemic and chinese restaurants depend on chinese chefs. However, because of the immigration policy, chinese chefs cannot work. MiFoodTech plans to solve this problem by designing robots to cook chinese food.
+Chinese food is very difficult and time consuming. The labor cost is increasing after the pandemic and Chinese restaurants depend on Chinese chefs. However, because of the immigration policy, Chinese chefs cannot work. MiFoodTech plans to solve this problem by designing robots to cook Chinese food.
 
 The team includes hotelies, ECE, and CS students for marketing and robotics purposes. The plan is for the ECE and CS students to develop the software and hardware. There will be a talking machine, along with the cooking machines. The software will be able to facilitate management and can connect the robots to work automatically.
 
@@ -107,7 +107,7 @@ Our client is Mi Yan, a grad student who is hoping to launch his FoodTech startu
 > Tell us about the website that your client wants. Tell us the purpose of the website and what it is all about.
 > NOTE: **If you are redesigning an existing website, give us the current URL and some screenshots of the current site.** (FireFox makes it easy to take a full screenshot of a page.) Tell us how you plan to update the site in a significant way that meets the project's requirements.
 
-Our client wants a website that they can show to future potential investors and demonstrates their product well. They are hoping 
+Our client wants a website that they can show to future potential investors and demonstrates their product well. They are hoping that, through the contents presented on the website, they will be able to not only show who they are as a team, but also what they hope to achieve in their future, as well as provide details about their projects. Accordingly, the website will be about the team's background and purpose, the members, and ongoing projects; the website will also be designed in order to convince potential investors to join their mission
 
 
 ## Client Website Scope (Milestone 1)
