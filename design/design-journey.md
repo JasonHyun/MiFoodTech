@@ -107,14 +107,12 @@ Our client is Mi Yan, a grad student who is hoping to launch his FoodTech startu
 > Tell us about the website that your client wants. Tell us the purpose of the website and what it is all about.
 > NOTE: **If you are redesigning an existing website, give us the current URL and some screenshots of the current site.** (FireFox makes it easy to take a full screenshot of a page.) Tell us how you plan to update the site in a significant way that meets the project's requirements.
 
-Our client wants a website that they can show to future potential investors and demonstrates their product well. They are hoping 
+Our client wants a website that they can show to future potential investors and demonstrates their product well. They are hoping
 
 
 ## Client Website Scope (Milestone 1)
-> Your project should be ambitious, but not too large. A good rule-of-thumb is that you should have about 1 content-full page for each team member.
-> Explain why the website you will create for your client isn't too small and isn't too big. Explain why you think it's the right size for this project.
 
-TODO
+We plan on making 5 pages for the client as they suggested in the meeting. This will not be too big as we have 5 team members so each one of us can take ownership of one page. We also want to make sure to include everything that the client mentioned in the meeting as making sure that they get the website they need should be our first priority. Additionally, we want the website to portray what our client thinks investors should know in a way that is not too cluttered (meaning there is not too much on each page) and there is a lot of material in the slides that can be organized into about 5 pages. 
 
 
 ## Client Goals (Milestone 1)
