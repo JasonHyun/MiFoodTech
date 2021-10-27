@@ -51,7 +51,7 @@ We want a very simple, neat and clean website. We want brightly colored images o
 
 **Junzi**
 https://www.junzi.kitchen/
-Junzi is another chinese restaurant that already has 5 restaurants. We like this site because of how simple and clean it looks. There is a big image at the top that really shows the food.
+Junzi is another chinese restaurant that already has 5 restaurants. We like this site because of how simple and clean it looks. There is a big image at the top that really displays the food.
 
 **Canary Technologies**
 https://www.canarytechnologies.com/
@@ -59,7 +59,7 @@ Canary technologies is a hotel company, and restaurant is a similar industry. We
 
 **Doordash**
 https://www.doordash.com/
-Doordash is a really popular company. The website also has a really big image at the top of the homepage. The website is simplistic and has bright images.
+Doordash is a really popular company. The website also has a really large image at the top of the homepage. The website is simplistic and has bright images that are appealing and eye-catching.
 
 9. How often would you like to meet or receive updates?
 
@@ -117,10 +117,10 @@ We plan on making 5 pages for the client as they suggested in the meeting. This 
 > What kind of website do they want? What are their goals for the site?
 > There is no required number of goals. You need as many goals as necessary to reflect your client's desires.
 
-- Goal A: TODO
-- Goal B: TODO
-- Goal C: TODO
-- ...
+- Goal A: A polished, professional static (the content does not change) website.
+- Goal B:  A site with around 5 reasonably sized pages.
+- Goal C: A design that works on desktop computers, tablets, and mobile devices.
+- Goal D: A website refined and tested with users who are part of your intended audience.
 
 
 ## First Client Meeting Minutes/Notes (Milestone 1)
