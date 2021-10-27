@@ -109,12 +109,12 @@ Our client is Mi Yan, a grad student who is hoping to launch his FoodTech startu
 
 Our client wants a website that they can show to future potential investors and demonstrates their product well. They are hoping that, through the contents presented on the website, they will be able to not only show who they are as a team, but also what they hope to achieve in their future, as well as provide details about their projects. Accordingly, the website will be about the team's background and purpose, the members, and ongoing projects; the website will also be designed in order to convince potential investors to join their mission
 
+Our client wants a website that they can show to future potential investors and demonstrates their product well. They are hoping
+
 
 ## Client Website Scope (Milestone 1)
-> Your project should be ambitious, but not too large. A good rule-of-thumb is that you should have about 1 content-full page for each team member.
-> Explain why the website you will create for your client isn't too small and isn't too big. Explain why you think it's the right size for this project.
 
-TODO
+We plan on making 5 pages for the client as they suggested in the meeting. This will not be too big as we have 5 team members so each one of us can take ownership of one page. We also want to make sure to include everything that the client mentioned in the meeting as making sure that they get the website they need should be our first priority. Additionally, we want the website to portray what our client thinks investors should know in a way that is not too cluttered (meaning there is not too much on each page) and there is a lot of material in the slides that can be organized into about 5 pages.
 
 
 ## Client Goals (Milestone 1)
