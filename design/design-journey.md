@@ -99,17 +99,15 @@ Things that cannot be part of the project website:
 -  Hosting for your website; putting your website on the internet.
 
 ## Client Description (Milestone 1)
-> Tell us about your client. Who is your client?
-> Explain why your client meets the client rules in the project requirements.
 
-TODO
+Our client is Mi Yan, a grad student who is hoping to launch his FoodTech startup soon. He is hoping to create and sell robotic kitchen assistants, specifically for Chinese restaurants. Our client meets the client rules in the project requirements because they are external. They are not one of our group, no team member in the group is a member of this organization, and none of us have a personal relationship with our client.
 
 
 ## Client Website (Milestone 1)
 > Tell us about the website that your client wants. Tell us the purpose of the website and what it is all about.
 > NOTE: **If you are redesigning an existing website, give us the current URL and some screenshots of the current site.** (FireFox makes it easy to take a full screenshot of a page.) Tell us how you plan to update the site in a significant way that meets the project's requirements.
 
-TODO
+Our client wants a website that they can show to future potential investors and demonstrates their product well. They are hoping 
 
 
 ## Client Website Scope (Milestone 1)
@@ -130,8 +128,6 @@ TODO
 
 
 ## First Client Meeting Minutes/Notes (Milestone 1)
-> Include your notes/minutes from the client meeting.
-
 **Introduction**
 - master's students in department of natural resources in CALS
 - wants to open up restaurant
