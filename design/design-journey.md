@@ -259,9 +259,18 @@ TODO
 ### User Interview Questions (Milestone 2)
 > Plan the user interview which you'll use to identify the goals of your site's audience.
 
-**User Interview Briefing & Consent:** Hi, I am a student at Cornell University. I'm currently taking a class on web design and for a project I am (re-)designing a web site for _client's name_. I'm trying to learn more about the people that might use this site. May I ask you a few questions? It will take about 10-15 minutes. You are free to quit at any time.
+**User Interview Briefing & Consent:** Hi, I am a student at Cornell University. I'm currently taking a class on web design and for a project I am (re-)designing a web site for Mi Yang of MiTechFood. I'm trying to learn more about the people that might use this site. May I ask you a few questions? It will take about 10-15 minutes. You are free to quit at any time.
 
-TODO: Your user interview questions
+1. Have you ever invested in a restaurant?
+1a. Have you ever invested in a restaurant like MiTechFood?
+
+2. Does the idea of investing in MiTechFood appeal to you? Why or why not?
+3. What is an important piece of information that you always want to know before investing in a company, brand or restaurant?
+4. When investing, is learning about your investees background important? Why or why not?
+5. How long or how well do you have to know an individual or startup like MiTechFood before you would feel comfortable investing in them?
+6. Do you have any considerations or reservations, if any, about investing in MiTechFood? Why or why not?
+
+
 
 **After the interview:** This was really helpful. Thank you so much for agreeing to speak with me today. Have a great day!
 
