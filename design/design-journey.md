@@ -194,7 +194,7 @@ Present slide:
 **Possible pages**
 1. homepage
     - opportunities/problems
-    - what makes you differnet and important
+    - what makes you different and important
     - not lots of text on homepage
 2. team  
 3. menu
@@ -237,7 +237,7 @@ slack:
 > Make a plan of when you will complete all parts of this assignment.
 > This plan is for your team. There is no required format. Format it so that it works for you!
 
-TODO
+We have assigned all group members positions. We will send out a let us meet each every week. We will also meet with our clients once as week as they requested and communicate with them through email and slack. The team has decided to us facebook messenger as the primary form of communication, where everyone notifies group members if anything has been pushed to Git. 
 
 
 
