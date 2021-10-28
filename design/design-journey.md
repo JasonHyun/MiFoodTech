@@ -239,6 +239,19 @@ slack:
 
 We have assigned all group members positions. We will send out a let us meet each every week. We will also meet with our clients once as week as they requested and communicate with them through email and slack. The team has decided to us facebook messenger as the primary form of communication, where everyone notifies group members if anything has been pushed to Git.
 
+Recruit user interviewees:
+Write user interview questions:
+Conduct user interviews:
+Synthesize user interviews and write goals:
+Plan content:
+Content organization / card sorting:
+Design and plan interactivity + sketches:
+Client feedback mtg:
+Draft website:
+Recruit user testing people:
+User testing:
+Changes based on user testing:
+Deliver website:
 
 
 # Site Design/Plan (Milestone 2)
