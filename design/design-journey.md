@@ -85,18 +85,6 @@ Not at the moment.
 TODO: Revise this questionnaire. Add/remove questions. etc.
 TODO: Make sure the site's scope is the right "size" for this project: not too big, not too small.
 
-Things that you should expect from the project website:
-  - A polished, professional static (the content does not change) website.
-  - A site with around 5 reasonably sized pages.
-  - A design that works on desktop computers, tablets, and mobile devices.
-  - A website refined and tested with users who are part of your intended audience.
-Things that cannot be part of the project website:
-- Forms. Any type of form; contact forms; mailing list forms; request forms; etc.
--  Search. Search is beyond on introductory level course.
-- Complex interaction like an e-commerce system; no shopping carts.
-- Anything that needs "login/logout functionally.
-- Centralized storage (e.g. web server and/or database) of information collected from users.
--  Hosting for your website; putting your website on the internet.
 
 ## Client Description (Milestone 1)
 
@@ -237,7 +225,6 @@ slack:
 > Make a plan of when you will complete all parts of this assignment.
 > This plan is for your team. There is no required format. Format it so that it works for you!
 
-We have assigned all group members positions. We will send out a let us meet each every week. We will also meet with our clients once as week as they requested and communicate with them through email and slack. The team has decided to us facebook messenger as the primary form of communication, where everyone notifies group members if anything has been pushed to Git.
 
 Recruit user interviewees: 10/27 - 11/2
 Write user interview questions: 10/29
@@ -251,7 +238,7 @@ Draft website: On your own time, ASAP after feedback meeting, done by 11/16
 
 Recruit user testing people: 11/17-11/19
 User testing: Done by the 22nd
-Changes based on user testing: Finish on your own time 
+Changes based on user testing: Finish on your own time
 Deliver website: done by 12/1
 
 
