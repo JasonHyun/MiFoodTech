@@ -239,19 +239,20 @@ slack:
 
 We have assigned all group members positions. We will send out a let us meet each every week. We will also meet with our clients once as week as they requested and communicate with them through email and slack. The team has decided to us facebook messenger as the primary form of communication, where everyone notifies group members if anything has been pushed to Git.
 
-Recruit user interviewees:
-Write user interview questions:
-Conduct user interviews:
-Synthesize user interviews and write goals:
-Plan content:
-Content organization / card sorting:
-Design and plan interactivity + sketches:
-Client feedback mtg:
-Draft website:
-Recruit user testing people:
-User testing:
-Changes based on user testing:
-Deliver website:
+Recruit user interviewees: 10/27 - 11/2
+Write user interview questions: 10/29
+Conduct user interviews: ASAP before the 5th
+Synthesize user interviews and write goals: Team Meeting ASAP
+Plan content: Team Meeting ASAP (Same one)
+Content organization / card sorting: After lab 11/5
+Design and plan interactivity + sketches: After lab 11/12
+Client feedback mtg: TBD, Between 12th and 13th, 14th if neccesary
+Draft website: On your own time, ASAP after feedback meeting, done by 11/16
+
+Recruit user testing people: 11/17-11/19
+User testing: Done by the 22nd
+Changes based on user testing: Finish on your own time 
+Deliver website: done by 12/1
 
 
 # Site Design/Plan (Milestone 2)
