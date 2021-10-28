@@ -117,10 +117,10 @@ We plan on making 5 pages for the client as they suggested in the meeting. This 
 > What kind of website do they want? What are their goals for the site?
 > There is no required number of goals. You need as many goals as necessary to reflect your client's desires.
 
-- Goal A: A polished, professional static (the content does not change) website.
-- Goal B:  A site with around 5 reasonably sized pages.
-- Goal C: A design that works on desktop computers, tablets, and mobile devices.
-- Goal D: A website refined and tested with users who are part of your intended audience.
+- Goal A: A polished website that compares favorably with competitors such as Junzi.
+- Goal B: Present information about restaurant that will attract investors.
+- Goal C: Very simple, neat and clean website. Include brightly colored images on a simplistic website. Big image on the homepage.
+- Goal D: Website that showcases MiTechFood team, shows the technology, and future steps.
 
 
 ## First Client Meeting Minutes/Notes (Milestone 1)
@@ -237,7 +237,7 @@ slack:
 > Make a plan of when you will complete all parts of this assignment.
 > This plan is for your team. There is no required format. Format it so that it works for you!
 
-We have assigned all group members positions. We will send out a let us meet each every week. We will also meet with our clients once as week as they requested and communicate with them through email and slack. The team has decided to us facebook messenger as the primary form of communication, where everyone notifies group members if anything has been pushed to Git. 
+We have assigned all group members positions. We will send out a let us meet each every week. We will also meet with our clients once as week as they requested and communicate with them through email and slack. The team has decided to us facebook messenger as the primary form of communication, where everyone notifies group members if anything has been pushed to Git.
 
 
 
