@@ -25,8 +25,9 @@ We want to be finished with all of the milestones the day before.
 
 4. How will we communicate and work with our client?
 
-    - communicate via email, work with client via Zoom meetings + email (update after first client mtg)
-    - we will respond to client emails within 24 hrs of receiving them.
+    - work on feedback with client via Zoom meetings
+    - ask questions and provide updates via Slack or email
+    - we will respond to client emails within 24 hrs of receiving them
 
 5. What roles will we create? Include a description of exactly what each role is responsible for. (**NO "CODER" OR "DESIGNER" ROLES!**)
 
@@ -58,7 +59,7 @@ We want to be finished with all of the milestones the day before.
 
 8. What else do we want to include in this contract? (Think about a *fun* clause... not everything is always about work! Sometimes you need to celebrate your accomplishments!)
 
-    After we submit each milestone, we will get bubble tea together! :) 
+    After we submit each milestone, we will get bubble tea together! :)
 
 
 ## Using your Contract
