@@ -44,11 +44,13 @@ We want to be finished with all of the milestones the day before.
 
     Meeting Planner: Claire
     - come up with meeting agenda/direct weekly team meetings; send brief summary of meeting to members after each meeting.
-    
+
 
 6. How will we hold ourselves and one another accountable? What (exactly) will we say to a team member who appears not to be contributing equally? To a team member who fails to deliver what was promised?
 
-    TODO
+    Team member who appears to not be contributing equally: Hi, how are you? We feel like you haven't been doing as much recently towards the project and we were wondering if anything was going on or if you needed some advice or help? We just want to make sure that we're all doing our part and the division of work has been fair to all parties.
+
+    Team member who fails to deliver what was promised: Hi, how are you? We noticed that you didn't finish this part of the project. Did something happen that made you unable to do this? We just want to make sure we get everything that we need to get done done and we would be happy to help if you can't finish it on your own.
 
 7. What do we do when we disagree? What approach to conflict to we all agree to uphold?
 
@@ -56,7 +58,7 @@ We want to be finished with all of the milestones the day before.
 
 8. What else do we want to include in this contract? (Think about a *fun* clause... not everything is always about work! Sometimes you need to celebrate your accomplishments!)
 
-    TODO
+    After we submit each milestone, we will get bubble tea together! :) 
 
 
 ## Using your Contract
