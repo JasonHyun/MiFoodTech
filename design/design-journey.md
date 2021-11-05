@@ -253,31 +253,27 @@ You can use bullet points and lists, or full paragraphs, or a combo, whichever i
 ### Audience (Milestone 2)
 > Briefly explain your site's audience. Be specific and justify why this audience is a cohesive group with regard to your client's site. This audience should not be overly broad nor arbitrarily specific. It should be a cohesive group with similar _goals_.
 
-Our site's audience is potential investors in MiFoodTech. This is a cohesive group as any investors would want to know where their money is going and how it is being used. Therefore, the information they would be trying to find is similar across the board and can be organized in a  way to target MiFoodTech's website towards this audience. 
+Our site's audience is potential investors in MiFoodTech. This is a cohesive group as any investors would want to know where their money is going and how it is being used. Therefore, the information they would be trying to find is similar across the board and can be organized in a  way to target MiFoodTech's website towards this audience.
 
 ### User Interview Questions (Milestone 2)
 > Plan the user interview which you'll use to identify the goals of your site's audience.
 
 **User Interview Briefing & Consent:** Hi, I am a student at Cornell University. I'm currently taking a class on web design and for a project I am designing a web site for Mi Yang of MiTechFood. I'm trying to learn more about the people that might use this site. May I ask you a few questions? It will take about 10-15 minutes. You are free to quit at any time.
 
-1. Have you ever invested in a restaurant?
-1a. Have you ever invested in a restaurant like MiTechFood?
-
-2. Does the idea of investing in MiTechFood appeal to you? Why or why not?
-3. What is an important piece of information that you always want to know before investing in a company, brand or restaurant?
-4. When investing, is learning about your investees background important? Why or why not?
-5. How long or how well do you have to know an individual or startup like MiTechFood before you would feel comfortable investing in them?
-6. Do you have any considerations or reservations, if any, about investing in MiTechFood? Why or why not?
-
-md's questions:
-1. Have you ever invested before?
-	- If yes, what did you invest in most recently and why?
-	- If not, ...
+1. Have you ever invested before? Have you ever invested in a restaurant?
+    - Have you ever invested in a restaurant like MiTechFood?
+    - If yes, what did you invest in most recently and why?
+    - If not, ...
 2. Did you seek out any information before deciding to invest?  If yes, what was that information? How did you obtain it?
-3. What is the most important piece of information that influenced your decision to invest?
-4. How did you feel about the {business, company, startup, etc} you decided to invest in?
-5. Is there any information you wish you had known about your investment beforehand or information you weren’t able to find?
-6. What haven’t I asked you today that you think would be valuable for me to know?
+    - What is the most important piece of information that influenced your decision to invest?
+    - How did you feel about the {business, company, startup, etc} you decided to invest in?
+3. Is there any information you wish you had known about your investment beforehand or information you weren’t able to find?
+4. Does the idea of investing in MiTechFood appeal to you? Why or why not?
+5. What is an important piece of information that you always want to know before investing in a company, brand or restaurant?
+6. When investing, is learning about your investees background important? Why or why not?
+7. How long or how well do you have to know an individual or startup like MiTechFood before you would feel comfortable investing in them?
+8. Do you have any considerations or reservations, if any, about investing in MiTechFood? Why or why not?
+9. What haven’t I asked you today that you think would be valuable for me to know?
 
 
 **After the interview:** This was really helpful. Thank you so much for agreeing to speak with me today. Have a great day!
