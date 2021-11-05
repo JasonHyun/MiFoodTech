@@ -290,8 +290,27 @@ TODO: notes
 
 **Interviewee 2:**
 
-TODO: description
-TODO: notes
+TODO:
+
+Iris Li, junior studying Computer Science, is a member of Cornell Cup Robotics. She works in system engineering. She is working on a lab assisted robot (like R2D2). She is a member of our intended audience because she works in teams to create effective robots. She has knowledge of MiTechFoods technology and why it may appeal to consumers and investors.
+
+1. Have you ever invested in a restaurant?
+No, not a restaurant but have used Doordash frequently.
+1a. Have you ever invested in a restaurant like MiTechFood?
+
+2. Does the idea of investing in MiTechFood appeal to you? Why or why not?
+Yes appeals. Seems about the same. It doesn't appeal because of the novelty. She's been to a robot chef restaurant but it was underwhelming. She went with the robotics team in high shcool but was not significantly different from other restaurants. Called Spyce in Boston.
+3. What is an important piece of information that you always want to know before investing in a company, brand or restaurant?
+Models how they get people to buy food and how they are profitable over the long term. Maybe good because of its consistent quality. People may not have job opportunities. May be nice to slowly transition but places aren’t ready for that right now, people might not be upset.
+
+4. When investing, is learning about your founders background important? Why or why not?
+Yes she cares, very important. As a startup you aren’t going to have that many people so leadership should be good and have expertise in both technical in marketing and finance.
+
+5. How long or how well do you have to know an individual or startup like MiTechFood before you would feel comfortable investing in them?
+It depends on how much money she would invest. If it is a lot she would want to have a lot of familiarity and contact them frequently. She would like to have say and give her input, otherwise if she is a regular investor, if they had a stock or republic offering she wouldn’t need to know them personally.
+6. Do you have any considerations or reservations, if any, about investing in MiTechFood? Why or why not?
+No jobs for people in the community.
+
 
 
 **Interviewee 3:**
