@@ -283,7 +283,7 @@ Our site's audience is potential investors in MiFoodTech. This is a cohesive gro
 
 **Interviewee 1:**
 
-Interviewee 1 is a sophomore at Cornell University. She is studying Applied Economics and Management and is a member of the Cornell Venture Capital Club. She is a member of our intended audience as MiFoodTech would like us to make a website that they can show investors and Interviewee 1 analyzes companies for her business club to invest in and learn about regularly and has knowledge of business concepts that we would need to feature.
+Roopanshi Ramapal is a sophomore at Cornell University. She is studying Applied Economics and Management and is a member of the Cornell Venture Capital Club. She is a member of our intended audience as MiFoodTech would like us to make a website that they can show investors and she analyzes companies for her business club to invest in and learn about regularly and has knowledge of business concepts that we would need to feature on our website to attract investors.
 
 1. Have you ever invested before? Have you ever invested in a restaurant?
     - Have you ever invested in a restaurant like MiTechFood?
