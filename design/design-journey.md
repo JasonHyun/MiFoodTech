@@ -258,7 +258,7 @@ Our site's audience is potential investors in MiFoodTech. This is a cohesive gro
 ### User Interview Questions (Milestone 2)
 > Plan the user interview which you'll use to identify the goals of your site's audience.
 
-**User Interview Briefing & Consent:** Hi, I am a student at Cornell University. I'm currently taking a class on web design and for a project I am designing a web site for Mi Yang of MiFoodTech. I'm trying to learn more about the people that might use this site. May I ask you a few questions? It will take about 10-15 minutes. You are free to quit at any time.
+**User Interview Briefing & Consent:** Hi, I am a student at Cornell University. I'm currently taking a class on web design and for a project I am designing a web site for Mi Yang of MiFoodTech. MiFoodTech is a startup that uses robots to help Chinese restaurants reduce labor costs and improve food quality. I'm trying to learn more about the people that might use this site. May I ask you a few questions? It will take about 10-15 minutes. You are free to quit at any time.
 
 1. Have you ever invested before? Have you ever invested in a restaurant?
     - Have you ever invested in a restaurant like MiTechFood?
