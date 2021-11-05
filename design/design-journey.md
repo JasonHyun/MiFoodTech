@@ -332,7 +332,20 @@ TODO: ...
 ### Your Site's Planned Content (Milestone 2)
 > List the content you plan to include your personal website. This should be a comprehensive list.
 
-TODO
+- Background Information
+- Logo
+- Preferred stock images
+- Current problems in the industry
+- Mi's solution
+- Mi's business model
+- Mi's customer acquisition strategy
+- What differentiate's his solutions
+- Diagrams comparing his product to other products
+- Cad pictures of product
+- Diagrams of Market trends
+- Team members
+- Team member bios and qualifications
+- Plans for next steps in his process
 
 
 ### Content Justification (Milestone 2)
