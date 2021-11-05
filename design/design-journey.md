@@ -289,7 +289,8 @@ md's questions:
 
 **Interviewee 1:**
 
-TODO: description
+Interviewee 1 is a sophomore at Cornell University. She is studying Applied Economics and Management and is a member of the Cornell Venture Capital Club. She is a member of our intended audience as MiFoodTech would like us to make a website that they can show investors and Interviewee 1 analyzes companies for her business club to invest in and learn about regularly.
+
 TODO: notes
 
 
