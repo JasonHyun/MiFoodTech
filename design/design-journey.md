@@ -253,8 +253,7 @@ You can use bullet points and lists, or full paragraphs, or a combo, whichever i
 ### Audience (Milestone 2)
 > Briefly explain your site's audience. Be specific and justify why this audience is a cohesive group with regard to your client's site. This audience should not be overly broad nor arbitrarily specific. It should be a cohesive group with similar _goals_.
 
-TODO
-
+Our site's audience is potential investors in MiFoodTech. This is a cohesive group as any investors would want to know where their money is going and how it is being used. Therefore, the information they would be trying to find is similar across the board and can be organized in a  way to target MiFoodTech's website towards this audience. 
 
 ### User Interview Questions (Milestone 2)
 > Plan the user interview which you'll use to identify the goals of your site's audience.
