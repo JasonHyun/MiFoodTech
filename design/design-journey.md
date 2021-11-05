@@ -268,13 +268,12 @@ Our site's audience is potential investors in MiFoodTech. This is a cohesive gro
     - What is the most important piece of information that influenced your decision to invest?
     - How did you feel about the {business, company, startup, etc} you decided to invest in?
 3. Is there any information you wish you had known about your investment beforehand or information you weren’t able to find?
-4. Does the idea of investing in MiTechFood appeal to you? Why or why not?
+4. (Optional) Does the idea of investing in MiTechFood appeal to you? Why or why not?
 5. What is an important piece of information that you always want to know before investing in a company, brand or restaurant?
 6. When investing, is learning about your investees background important? Why or why not?
-7. How long or how well do you have to know an individual or startup like MiTechFood before you would feel comfortable investing in them?
+7. (Optional) How long or how well do you have to know an individual or startup like MiTechFood before you would feel comfortable investing in them?
 8. Do you have any considerations or reservations, if any, about investing in MiTechFood? Why or why not?
 9. What haven’t I asked you today that you think would be valuable for me to know?
-
 
 **After the interview:** This was really helpful. Thank you so much for agreeing to speak with me today. Have a great day!
 
