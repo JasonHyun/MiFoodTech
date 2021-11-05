@@ -283,9 +283,51 @@ Our site's audience is potential investors in MiFoodTech. This is a cohesive gro
 
 **Interviewee 1:**
 
-Interviewee 1 is a sophomore at Cornell University. She is studying Applied Economics and Management and is a member of the Cornell Venture Capital Club. She is a member of our intended audience as MiFoodTech would like us to make a website that they can show investors and Interviewee 1 analyzes companies for her business club to invest in and learn about regularly.
+Interviewee 1 is a sophomore at Cornell University. She is studying Applied Economics and Management and is a member of the Cornell Venture Capital Club. She is a member of our intended audience as MiFoodTech would like us to make a website that they can show investors and Interviewee 1 analyzes companies for her business club to invest in and learn about regularly and has knowledge of business concepts that we would need to feature.
 
-TODO: notes
+1. Have you ever invested before? Have you ever invested in a restaurant?
+    - Have you ever invested in a restaurant like MiTechFood?
+    - If yes, what did you invest in most recently and why?
+    - If not, ...
+No- she has not personally invested before. However, she is explaining through the lens of someone who often looks at companies for her club as an analyst.
+
+
+2. Did you seek out any information before deciding to invest?  If yes, what was that information? How did you obtain it?
+    - What is the most important piece of information that influenced your decision to invest?
+    - How did you feel about the {business, company, startup, etc} you decided to invest in?
+
+She has not invested yet, but she says that when she is looking at companies, she would seek out market trends and how the industry is doing pre and post covid. She wants to know if a product is something that a market would even need (saturation?) and if a product is something that people would be open to implementing. She alsos say that she would want to see a lot more information about competitors and logistics of the product.
+
+
+3. Is there any information you wish you had known about your investment beforehand or information you weren’t able to find?
+
+She says that she finds it hard to find quantitative information about smaller companies, especially ones that are in a more niche industry like food tech.
+
+
+5. What is an important piece of information that you always want to know before investing in a company, brand or restaurant?
+
+Interviewee one says that when she is analyzing a company, she always wants to know about incumbents and how realistic it is for this small company to make a space and a name for themselves.
+
+She mentions the Fintech industry: Paypal is the incumbent and they have literally 48% of the market share. She would only be looking at small startups that have a wild differentiating factor becuase brand and reputation, which incumbents already have is super valuable.
+
+
+6. When investing, is learning about your investees background important? Why or why not?
+
+Yes 100%. She wants to make sure that the investee is reputable and their past work has been successful. Especially for startups that she looks at (ie Seed and Series A), she does not know what profitability margins are and so she has to gain trust. She wants to see as many past transactions as possible.
+
+7. (Optional) How long or how well do you have to know an individual or startup like MiTechFood before you would feel comfortable investing in them?
+
+She would need to understand the business model completely and know each member of the team, not just the person running it. She also says that she needs to see a game plan and where her money would be going for the next few years.
+
+
+8. Do you have any considerations or reservations, if any, about investing in MiFoodTech? Why or why not?
+
+She thinks that she personally does not know as much about the foodtech industry as she would like to and wants to know more about how MiFoodTech fits in.
+
+
+9. What haven’t I asked you today that you think would be valuable for me to know?
+
+She re-emphasizes the differentiating factor. She wants to see an in depth analysis of how a company tackles an issue in the industry in comparison to other startups and incumbents.
 
 
 **Interviewee 2:**
