@@ -383,60 +383,77 @@ Jason Ng is a sophomore at Cornell University in Dyson. He is part of Cornell's 
 
 1. Have you ever invested before? Have you ever invested in a restaurant?
 
-Yes, most recently i am looking into invest into cryptocurrency mining, specifically Bitcoin or Script mining. These miners are called ASIC miners, which are specialized computers used only for mining and not anything else.
+Yes
 
-Why? I feel like cryptocurrency is in a rise bc many companies are starting to use cryptocurrency as a form of transaction. an example would be Tesla. Also it is very passive, so you set it up and you don’t have to worry about it anymore.
-i’ve been investing into index funds. Index funds are a stock that owns multiple shares of other companies. an example is S&P 500. that single stock owns top 500 stocks in US. i chose index funds , example is QQQ, because they are the safest way to increase your ROI(return on investment). For example, if one company tanks and goes bankrupt, there’s still 499 other companies.
+- looking to invest into cryptocurrency mining (specifically Bitcoin or Script mining). Miners are called ASIC miners, specialized computers used only for mining
+    - feel like cryptocurrency is in a rise, many companies using cryptocurrency as a form of transaction (eg. Tesla), also very passive, you set it up and don’t have to worry about it anymore.
+- been investing into index funds. Index funds are a stock that owns multiple shares of other companies. (eg. S&P 500). the safest way to increase your ROI(return on investment). For example, if one company tanks and goes bankrupt, there’s still 499 other companies.
 
-I have never invested in a restaurant before, however, I have invested into a restaurant chain stock known as Yum China which is a company that owns brands such as KFC, Pizza Hut, and Taco Bell in China. So far, the stock has so far been declining a bit due to covid in China.
+- never invested in a restaurant before
+- I have invested into a restaurant chain stock known as Yum China - company that owns brands such as KFC, Pizza Hut, and Taco Bell in China.
+- the stock has so far been declining a bit due to covid in China.
 
-- Have you ever invested in a restaurant like MiTechFood?
+1a. Have you ever invested in a restaurant like MiTechFood?
 N/A
-- If yes, what did you invest in most recently and why?
+1b. If yes, what did you invest in most recently and why?
 N/A
 
 2. Did you seek out any information before deciding to invest?  If yes, what was that information? How did you obtain it?
 
-Yes, so for crypto mining, i did a lot of research via youtube or asking one of my friends who does specifically GPU mining. but GPU mining is too expensive for the roi, so i used youtube to find ways to optimize mining through specific outlets that need to be configured at my “house” as well as the most optimal/efficient miners available in 2021.
-a thing that i learned was that ..one of the most popular/efficient miners for price is a Bitmain miner called L3+ and it’s return is roughly around $10/day.
+Yes
 
-I did seek out info, bc beforehand i didn’t know about index funds. i just started investing around 2 years ago. to obtain info i watched youtube videos from this guy named Graham Stephen (who is very popular!) he emphasized the benefits and cons of index funds vs owning stock in one company. being in college i wanted to invest in a safe and passive way, therefore index funds were the safest way for me bc i didn’t want to actively manage my stock portfolio
+- for crypto mining, did a lot of research via youtube or asking one of my friends who does GPU mining
+- used youtube to find ways to optimize mining through specific outlets that need to be configured at my “house”, as well as the most optimal/efficient miners available in 2021.
+- beforehand i didn’t know about index funds. i just started investing around 2 years ago. i watched youtube videos from this guy named Graham Stephen. he emphasized the pros and cons of index funds vs owning stock in one company.
+- i want to invest in a safe and passive way==> index funds are safest way for me because i didn’t want to actively manage my stock portfolio
 
 2a. What is the most important piece of information that influenced your decision to invest?
-Time Value of Money. because i realized that the idea of TVM and compound growth plays a huge part when investing while you are young (19-20s) versus when you are older. an example would be investing into the stock market at 5% roi annually. you invest that money when you are 18 versus 40. that amount would be 2-3x greater earlier than at the later time.
-also, i realized that at my age, i don’t have the risk that my parents have when making decisions. so it’s important to risk as much as possible when i don’t have anything to lose versus when i have more risk when  i’m older, such as food/house/car/family - i only have to worry about myself
+
+- Time Value of Money ==> i realized that the idea of TVM and compound growth plays a huge part when investing young vs older
+- investing money at 18 vs 40, amount much greater earlier than at later time
+- at young age, don't have same risk as parents,  important to risk as much as possible when i don’t have anything to lose
 
 2b.  How did you feel about the {business, company, startup, etc} you decided to invest in?
 
-i felt that there could be a potential for growth and with enough due diligence that it was a worth wild investment for the future even if it ended up not working. An example of this would be my investment into bitcoin miners since there is still a possibility that it could crash tomorrow however with the potential benefits, i was willing to risk the initial investment to buy the hardware needed. On the note of stocks, i felt that there was a safe place to simply store my money without the fear of it being consumed by inflation.
+- i felt that there could be a potential for growth and it was a worth wild investment for the future even if it ended up not working.
+- eg. my investment into bitcoin miners since there is still a possibility that it could crash tomorrow. i was willing to risk the initial investment to buy the hardware needed. I felt that there was a safe place to simply store my money without fear of it being consumed by inflation.
 
 3. Is there any information you wish you had known about your investment beforehand or information you weren’t able to find?
 
-for both investments, i wish i would’ve entered the market earlier since bitcoin prices have skyrocketed to around 61,000 and just 2 years ago, it was only 8000. In addition, with stocks, qqq 2 years ago was worth 200 while now it is at 400.
+- for both investments ==> i wish i would’ve entered the market earlier. bitcoin prices have skyrocketed to around 61,000 and just 2 years ago, it was only 8000. stocks prices, QQQ 2 years ago was worth 200 while now it is at 400.
 
 4. (Optional) Does the idea of investing in MiTechFood appeal to you? Why or why not?
 
-MiTechFood does sound like an appealing investment for me because I feel like the robots could be applied to the whole restaurant industry and not just Chinese food. With the high demand in restaurant food and low supply of workers in the workforce, I believe that the next step to combating the rise of unemployment from the pandemic is robot workers for the restaurant industry. In addition, it also solves the issue regarding sanitation issues within the industry from COVID-19.
+- MiTechFood does sound like an appealing investment for me. robots could be applied to the whole restaurant industry and not just Chinese food
+- With the high demand in restaurant food and low supply of workers in the workforce, I believe that the next step to combating the rise of unemployment from the pandemic is robot workers for the restaurant industry. also solves the issue regarding sanitation issues within the industry from COVID-19.
 
 5. What is an important piece of information that you always want to know before investing in a company, brand or restaurant?
 
-Some important information that I look at before investing into a company is their overall growth in the past 5 years, financial statements to analyze if they are in debt or profit, and their future ventures that they are attempting to make. In analyzing all of these information, it allows me to throughly see where the company is headed and if they would utilize my investment for the growth of the company.
+- important information that I look at before investing into a company:
+- their overall growth in the past 5 years
+- financial statements to analyze if they are in debt or profit
+- their future ventures that they are attempting to make.
+==> it allows me to throughly see if they would utilize my investment for the growth of the company.
 
 6. When investing, is learning about your investees background important? Why or why not?
 
-For the most part yes, usually by looking at my invests background, I can have a full scope of what I am getting into. For example, with current markets of cryptocurrency regarding the shiba coin, most investees are children trading off of their parents accounts therefore I would categories that type of investment a high risk and most likely a lost for me.  
+- For the most part yes, I can have a full scope of what I am getting into.
+- eg. with current markets of cryptocurrency regarding the shiba coin, most investees are children trading off of their parents accounts therefore ==> would categories that type of investment a high risk and most likely a lost for me.  
 
 7. (Optional) How long or how well do you have to know an individual or startup like MiTechFood before you would feel comfortable investing in them?
 
-When investing into startups, it would mostly likely require a lot of research and analysis before investing into it. A reason why is because through most of my costly investment, it required me to plan everything out for around 3 months before pulling the trigger. For example, when I learned about crypto mining, it took me time to research the current industry, miners, and future profitability if the market plummets tomorrow.
+- it would mostly likely require a lot of research and analysis before investing into it.
+- plan everything out for around 3 months before pulling the trigger.
+- eg. when I learned about crypto mining, it took me time to research the current industry, miners, and future profitability if the market plummets tomorrow.
 
 8. Do you have any considerations or reservations, if any, about investing in MiTechFood? Why or why not?
 
-Some considerations I have about investing in MiTechFood is the possibility that it can’t grow outside of the Chinese food industry because if it can’t then their potential growth for the future will decline. I think that if it can grow into the fast food industry, it would be a high return investment specifically if the robots can accomplish jobs more efficiently than workers.
+- Some considerations I have about investing in MiTechFood is the possibility that it can’t grow outside of the Chinese food industry
+- if it can’t then their potential growth for the future will decline ==> I think that if it can grow into the fast food industry...it would be a high return investment if the robots can accomplish jobs more efficiently than workers.
 
 9. What haven’t I asked you today that you think would be valuable for me to know?
 
-bitcoin miners at cornell could possibly be illegal. i haven’t been caught yet. Also with stocks, fair warning that there could be a crash soon due to how the economy is shaped from high inflation and a rise in real estate, stocks, and gas prices. the future of the stock market should be approached carefully
+- with stocks, fair warning that there could be a crash soon due to how the economy is shaped from high inflation and a rise in real estate, stocks, and gas prices
 
 
 ### Goals (Milestone 2)
