@@ -379,7 +379,7 @@ Interviewee 3 is a senior at Cornell studying Computer Science and is a member o
 
 **Interviewee 4:**
 
-Jason Ng is a sophomore at Cornell University in Dyson. He is part of Cornell's Grub Venture.
+Jason Ng is a sophomore at Cornell University in Dyson. He is part of Cornell's Grub Venture. He is part of our intended audience because he is a potential investor with knowledge of investing in general, as well as investing in the food industry. Grub Ventures specifically focuses on impacting the food and agriculture industry. They also partner with food, technology, and agriculture focused venture-capital firms. This works well since our audience is potential investors in MiFoodTech, which is a food+robotics startup company.
 
 1. Have you ever invested before? Have you ever invested in a restaurant?
 
