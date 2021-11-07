@@ -78,14 +78,6 @@ We don't have many images right now. You can search online and find images. The 
 Not at the moment.
 
 
-
-
-
-
-TODO: Revise this questionnaire. Add/remove questions. etc.
-TODO: Make sure the site's scope is the right "size" for this project: not too big, not too small.
-
-
 ## Client Description (Milestone 1)
 
 Our client is Mi Yan, a grad student who is hoping to launch his FoodTech startup soon. He is hoping to create and sell robotic kitchen assistants, specifically for Chinese restaurants. Our client meets the client rules in the project requirements because they are external. They are not one of our group, no team member in the group is a member of this organization, and none of us have a personal relationship with our client.
@@ -315,8 +307,32 @@ No jobs for people in the community.
 
 **Interviewee 3:**
 
-TODO: description
-TODO: notes
+Interviewee 3 is a senior at Cornell studying Computer Science and is a member of Cornell AppDev, Cornell Chinese Students Association, and Women in Computing at Cornell. She has experience investing and is knowledgeable about the finance field. 
+
+1. Have you ever invested before? Have you ever invested in a restaurant?
+  - Have you ever invested in a restaurant like MiTechFood?
+  - If yes, what did you invest in most recently and why?
+  * yes - robinhood for investing, roth ira (that is managed by her dad)
+  * no restaurants before
+2. Did you seek out any information before deciding to invest?  If yes, what was that information? How did you obtain it?
+- listens to podcast snacksdaily , talking to parents about it who have experience with investing, low stakes investing with robinhood, keeping up with news
+- What is the most important piece of information that influenced your decision to invest?
+  - internship at fidelity two summers ago, talked ab money + finance + investing, how important compounding investing was
+- How did you feel about the {business, company, startup, etc} you decided to invest in?
+  - big, well known, companies so pretty guaranteed to get returns ; not a personal connection
+3. Is there any information you wish you had known about your investment beforehand or information you weren’t able to find?
+ - a lot that companies don’t tell you, high barriers to entry ie technical jargon, companies’ performance
+4. (Optional) Does the idea of investing in MiTechFood appeal to you? Why or why not?
+5. What is an important piece of information that you always want to know before investing in a company, brand or restaurant?
+ - looks at past performance, with different time scales
+ - not going to spend hours before researching a restaurant
+6. When investing, is learning about your investees background important? Why or why not?
+ - yes, to some extent if you have time; could align on personal values and estimated returns ; looking at what they working on , more potential in future for newer companies
+7. (Optional) How long or how well do you have to know an individual or startup like MiTechFood before you would feel comfortable investing in them?
+8. Do you have any considerations or reservations, if any, about investing in MiFoodTech? Why or why not?
+  - would want to talk to ppl behind it, see why they are doing it, “Story behind company is really interesting”, how they plan on achieving their goals, what they are doing does influence , product roadmap, how they want to scale it, if it’s viable or not
+9. What haven’t I asked you today that you think would be valuable for me to know?
+- NA
 
 
 **Interviewee 4:**
