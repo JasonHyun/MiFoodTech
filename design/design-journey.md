@@ -349,7 +349,7 @@ No jobs for people in the community.
 
 **Interviewee 3:**
 
-Interviewee 3 is a senior at Cornell studying Computer Science and is a member of Cornell AppDev, Cornell Chinese Students Association, and Women in Computing at Cornell. She has experience investing and is knowledgeable about the finance field. 
+Interviewee 3 is a senior at Cornell studying Computer Science and is a member of Cornell AppDev, Cornell Chinese Students Association, and Women in Computing at Cornell. She has experience investing and is knowledgeable about the finance field.
 
 1. Have you ever invested before? Have you ever invested in a restaurant?
   - Have you ever invested in a restaurant like MiTechFood?
