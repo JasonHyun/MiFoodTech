@@ -455,6 +455,50 @@ Yes
 
 - with stocks, fair warning that there could be a crash soon due to how the economy is shaped from high inflation and a rise in real estate, stocks, and gas prices
 
+**Interviewee 5:**
+
+Oliver Chung is a junior student attending DigiPen Institute of Technology, pursuing a Bachelor of Arts in game design. He falls under our target audience, because one of his general interests and hobbies include investments and stocks. He was also involved with cryptocurrency at some point in the past.
+
+1. Have you ever invested before? Have you ever invested in a restaurant?
+    - Have you ever invested in a restaurant like MiTechFood?
+    - If yes, what did you invest in most recently and why?
+    - If not, ...
+
+Have invested in the past, but not in a restaurant. The most recent investment was for Apple and Amazon because they seemed "reliable" bets compared to other candidates, also had the suggestion of a friend.
+
+2. Did you seek out any information before deciding to invest?  If yes, what was that information? How did you obtain it?
+    - What is the most important piece of information that influenced your decision to invest?
+    - How did you feel about the {business, company, startup, etc} you decided to invest in?
+
+Did seek out information before investing, the information was obtained through observing and organizing various stock prices. The most important piece of information was another suggestion from his dad. At the time of the investment, he felt satisfied with his choices because they were safe choices and seemed to promise profit from their past prices.
+
+3. Is there any information you wish you had known about your investment beforehand or information you weren’t able to find?
+
+One information that he wish he had known about more is the concept of hedge funds, knowing and being aware of more details would have helped and possibly changed his initial decisions about investments, no particular information that he wanted to find but could not at the time
+
+4. (Optional) Does the idea of investing in MiTechFood appeal to you? Why or why not?
+
+While robotics have shown general development, he is not particularly appealed with the idea of investing in MiTechFood, because he knowns and has personal experience with investments in restaurants being comparably more volatile and therefore unstable, but idea of MiTechFood itself is appealing nonetheless.
+
+5. What is an important piece of information that you always want to know before investing in a company, brand or restaurant?
+
+The past activities and price values of the companies are the most crucial information that he prioritizes before making investments, because while making entirely accurate predictions is difficult he can somewhat deduce whether or not the investment will be profitable by looking at past trends, the more detailed the spanned out the information, the better
+
+6. When investing, is learning about your investees background important? Why or why not?
+
+Definitely important, because investees are part of the company you'd be investing for and they will in one way or the other affect the furture trends of the company itself, especially if they're a representative or a director
+
+7. (Optional) How long or how well do you have to know an individual or startup like MiTechFood before you would feel comfortable investing in them?
+
+For restaurants, you'd need at least about five years to know that they are doing well before you can start looking into actually investing for the company like MiTechFood
+
+8. Do you have any considerations or reservations, if any, about investing in MiTechFood? Why or why not?
+
+No for reasons already mentioned, because restaurant investments tend to be more volatile and riskier than an electronics company, for example
+
+9. What haven’t I asked you today that you think would be valuable for me to know?
+
+N/a
 
 ### Goals (Milestone 2)
 > Analyze your audience's goals from your notes above. List each goal below. There is no specific number of goals required for this, but you need enough to do the job (Hint: It's more than 1 and probably more than 2).
