@@ -608,6 +608,9 @@ The content will address the goal of learning about company history because we i
 
 2. Second Iteration of Cardsorting
 ![Second Iteration of Cardsorting](/design/cardsort2.png)
+-sorted into 5 distinct sections: about the company, team background, industry advantages, robot technology, and future plans
+-the sorting is logical and help create distinct focuses for each web page
+-pages will have an appropriate amount of content which features images and graphs provided by MiTechFood to best illustrate what their startup can offer
 
 3. Third Iteration of Cardsorting
 ![Third Iteration of Cardsorting](/design/cardsort3.png)
