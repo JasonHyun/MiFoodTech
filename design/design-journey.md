@@ -601,6 +601,11 @@ The content will address the goal of learning about company history because we i
 1. First Iteration of Cardsorting
 ![First Iteration of Cardsorting](/design/cardsort1.png)
 
+- sorted by background, about team, robot/technology, industry, and future plans
+- wages graph helps explain background/issues
+- competitor benchmark and customer acquisiton strategy fall under the industry outlook section that many of our users wanted to see
+- future plans include labor costs because we want to show how effective our product will be through a "before and after"
+
 2. Second Iteration of Cardsorting
 ![Second Iteration of Cardsorting](/design/cardsort2.png)
 
