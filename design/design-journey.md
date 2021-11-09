@@ -535,26 +535,7 @@ Goal 6: learn about company history
 ### Your Site's Planned Content (Milestone 2)
 > List the content you plan to include your personal website. This should be a comprehensive list.
 
-- Company Background
-- Problems (covid-19, employment, etc)
-- Solution (their product)
-- Team member bios
-- Robot Technology (description of wok robot)
-- Customer acquisition strategy
-- Future plans and milestones
-- Customer acquisition strategy
-Images:
-- Market size graph
-- Industry outlook graph
-- Automatic wok image
-- Milestones graphic
-- Appealing images of chinese food
-- Headshots of team members
-- Wages as a share of revenue graph
-- Cooking shredded potatoes graphic
-- Competitor benchmarking table
-- Labor costs table 
-
+TODO
 
 
 ### Content Justification (Milestone 2)
