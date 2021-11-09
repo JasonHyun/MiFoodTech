@@ -598,7 +598,14 @@ The content will address the goal of learning about company history because we i
 > Document your iterations of card sorting here.
 > Include photographic evidence of each iteration of card sorting and description of your thought process for each iteration.
 
-TODO
+1. First Iteration of Cardsorting
+![First Iteration of Cardsorting](/design/cardsort1.png)
+
+2. Second Iteration of Cardsorting
+![Second Iteration of Cardsorting](/design/cardsort2.png)
+
+3. Third Iteration of Cardsorting
+![Third Iteration of Cardsorting](/design/cardsort3.png)
 
 
 ### Final Content Organization (Milestone 2)
