@@ -324,7 +324,6 @@ She re-emphasizes the differentiating factor. She wants to see an in depth analy
 
 **Interviewee 2:**
 
-TODO:
 
 Iris Li, junior studying Computer Science, is a member of Cornell Cup Robotics. She works in system engineering. She is working on a lab assisted robot (like R2D2). She is a member of our intended audience because she works in teams to create effective robots. She has knowledge of MiTechFoods technology and why it may appeal to consumers and investors.
 
