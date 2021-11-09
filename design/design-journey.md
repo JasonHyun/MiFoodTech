@@ -545,7 +545,7 @@ Goal 6: learn about company history
   - Include a compelling personal story about the company’s background and how the founder and team got involved in the project
 - **Rationale & Additional Notes** _Justify your decisions; add notes._
   - Interviewee 4 and 1 both mentioned that they would want to know about past history to judge future success
-  - Many Interviewees wanted to know a bit more personal backstory as this would help them see the company in a different perspective. 
+  - Many Interviewees wanted to know a bit more personal backstory as this would help them see the company in a different perspective.
 
 
 ## Content Planning (Milestone 2)
@@ -579,7 +579,11 @@ Images:
 ### Content Justification (Milestone 2)
 > Explain (about a paragraph) why this content is the right content for your site's audience and how its addressed their goals..
 
-TODO
+Our content is appropriate and addresses user goals. It the user needs by demonstrating to the intended audience how unique MiTechFoods is as a Chinese restaurant that employs robot technology. This is a revolutionary method in food service and is not only more sanitary, especially in COVID-19 times, but also more efficient. To get this across to users the site includes many images and descriptions of the robot technology and how it is beneficial to consumers. Content about how this niche area of interest is competitive against its competitors and why it will succeed in the long run is detailed through graphs and more infographics and text. These images, graphs and text descriptions all point to the novelty and value of MiTechFood and will effectively appeal to investors looking to make money.
+Additionally, a textual background on this restaurant industry will be provided to give investors and better idea of the market/industry. Founder and team member backgrounds will also be provided to give investors confidence about the team’s abilities, experience, and knowledge in this industry setting. It will demonstrate to investors how MiTechFood has the potential to disrupt the industry and will thrive, creating incentive for investors to put  resources toward growing this startup. It also gives them a better sense of the people behind the business and what motivates them to pursue their goals. 
+
+Furthermore, stats and numbers on how MiTech Food compares to its competitors will also be provided in large text in bullet points. This draws investor attention to the numbers and will show them how promising MiTechFood is and their projection in the long run. It again drives how unique this company is and what they have to offer to the restaurant industry.
+
 
 
 
