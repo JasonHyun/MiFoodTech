@@ -525,7 +525,7 @@ Goal 5: learn about the product and business plan
 Goal 6: learn about company history
 
   - Interviewee 4 and 1 both mentioned that they would want to know about past history to judge future success
-  - Many Interviewees wanted to know a bit more personal backstory as this would help them see the company in a different perspective. 
+  - Many Interviewees wanted to know a bit more personal backstory as this would help them see the company in a different perspective.
 
 
 ## Content Planning (Milestone 2)
@@ -535,7 +535,26 @@ Goal 6: learn about company history
 ### Your Site's Planned Content (Milestone 2)
 > List the content you plan to include your personal website. This should be a comprehensive list.
 
-TODO
+- Company Background
+- Problems (covid-19, employment, etc)
+- Solution (their product)
+- Team member bios
+- Robot Technology (description of wok robot)
+- Customer acquisition strategy
+- Future plans and milestones
+- Customer acquisition strategy
+Images:
+- Market size graph
+- Industry outlook graph
+- Automatic wok image
+- Milestones graphic
+- Appealing images of chinese food
+- Headshots of team members
+- Wages as a share of revenue graph
+- Cooking shredded potatoes graphic
+- Competitor benchmarking table
+- Labor costs table 
+
 
 
 ### Content Justification (Milestone 2)
