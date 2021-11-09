@@ -503,20 +503,30 @@ N/a
 ### Goals (Milestone 2)
 > Analyze your audience's goals from your notes above. List each goal below. There is no specific number of goals required for this, but you need enough to do the job (Hint: It's more than 1 and probably more than 2).
 
-Goal 1: TODO: Brief Title
+Goal 1: differentiate MiFoodTech
 - **Design Ideas and Choices** _How will you meet those goals in your design?_
-  - TODO
+  - Have either a page or an infographic/table dedicated to comparison between MiFoodTech and other similar companies
+  - This image should be the primary content of the page for ease of reading purposes and because this is such an important thing for most users
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
-  - TODO
+  - Many of the user interviewees noted that if they were putting their money somewhere, they would want to know what makes this company unique and therefore likely to suceed. Interviewee 1 specifically said that she would need the company to be wildly different from any incumbents as that would signify the possibility of capturing a niche to her.
 
-Goal 2: TODO
-TODO
+Goal 2: understand the market/industry
+- **Design Ideas and Choices** _How will you meet those goals in your design?_  
+  - Have a page dedicated to "what is foodtech?" that we can include the content from Mi's slides on so that users can get good background on the industry
+  - This can also introduce incumbents that MiFoodTech is seeking to disrupt
+- **Rationale & Additional Notes** _Justify your decisions; additional notes._
+  -
 
-Goal 3: TODO
-TODO
+Goal 3: interpret stats and numbers
 
-TODO: ...
+Goal 4: learn about who works at MiFoodTech
 
+Goal 5: learn about the product and business plan
+
+Goal 6: learn about company history
+
+  - Interviewee 4 and 1 both mentioned that they would want to know about past history to judge future success
+  - Many Interviewees wanted to know a bit more personal backstory as this would help them see the company in a different perspective. 
 
 
 ## Content Planning (Milestone 2)
