@@ -526,15 +526,26 @@ Goal 3: interpret stats and numbers
   - User interviewee 4 specifically mentioned past prices being important information to him when investing
   - While this information is not public for a small startup like MiFoodTech, any quantitative data they have available seems to be valuable to potential investors
 
-
 Goal 4: learn about who works at MiFoodTech
+- **Design Ideas and Choices** _How will you meet those goals in your design?_  
+  - Include team member headshots and bios in a page dedicated to learning about the team behind MiFoodTech
+- **Rationale & Additional Notes** _Justify your decisions; add notes._
+  - Interviewees 1,2,3,and 5 mention how they want to understand the team members’ backgrounds as it would make them more confident and comfortable in deciding to invest in a startup
 
 Goal 5: learn about the product and business plan
+- **Design Ideas and Choices** _How will you meet those goals in your design?_
+  - Include images of the product itself and graphics that illustrate the viability of the product with concrete examples
+- **Rationale & Additional Notes** _Justify your decisions; add notes._
+  - Interviewees 1, 2, 3, 4, and 5 all mentioned that they would need to see exactly what the product is and where the company plans on going with the product
+  - They want to know where exactly their money would be going not just now but also in the future
+  - Images would be helpful as it is difficult to visualize without them
 
 Goal 6: learn about company history
-
+- **Design Ideas and Choices** _How will you meet those goals in your design?_
+  - Include a compelling personal story about the company’s background and how the founder and team got involved in the project
+- **Rationale & Additional Notes** _Justify your decisions; add notes._
   - Interviewee 4 and 1 both mentioned that they would want to know about past history to judge future success
-  - Many Interviewees wanted to know a bit more personal backstory as this would help them see the company in a different perspective.
+  - Many Interviewees wanted to know a bit more personal backstory as this would help them see the company in a different perspective. 
 
 
 ## Content Planning (Milestone 2)
