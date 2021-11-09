@@ -514,9 +514,18 @@ Goal 2: understand the market/industry
   - Have a page dedicated to "what is foodtech?" that we can include the content from Mi's slides on so that users can get good background on the industry
   - This can also introduce incumbents that MiFoodTech is seeking to disrupt
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
-  -
+  - Interviewees 1 and 3 were specific in saying that they wanted to know more about the market and the industry before they invested in it.
+- User interviewee 4 also talked about how he watched lots of youtube videos about crypto currency before deciding to invest in it
 
 Goal 3: interpret stats and numbers
+- **Design Ideas and Choices** _How will you meet those goals in your design?_  
+  - make sure to put numbers in large text and separate bullet points when giving background information
+  - have a section dedicated to specifically these numbers on a page, possible background page, but this should be its own section
+- **Rationale & Additional Notes** _Justify your decisions; add notes._
+  - many people who had invested before in public companies said that they looked at financial statements and stock prices
+  - User interviewee 4 specifically mentioned past prices being important information to him when investing
+  - While this information is not public for a small startup like MiFoodTech, any quantitative data they have available seems to be valuable to potential investors
+
 
 Goal 4: learn about who works at MiFoodTech
 
@@ -553,7 +562,7 @@ Images:
 - Wages as a share of revenue graph
 - Cooking shredded potatoes graphic
 - Competitor benchmarking table
-- Labor costs table 
+- Labor costs table
 
 
 ### Content Justification (Milestone 2)
