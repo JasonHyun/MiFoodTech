@@ -601,10 +601,7 @@ The content will address the goal of learning about company history because we i
 1. First Iteration of Cardsorting
 ![First Iteration of Cardsorting](/design/cardsort1.png)
 
-- sorted by background, about team, robot/technology, industry, and future plans
-- wages graph helps explain background/issues
-- competitor benchmark and customer acquisiton strategy fall under the industry outlook section that many of our users wanted to see
-- future plans include labor costs because we want to show how effective our product will be through a "before and after"
+We grouped content into 5 categories: background, about the team, about the robot/technology, the industry, and future plans. The wages graph is part of the background since it can illustrate the context of MiFoodTech's solution. The industry outlook section includes the competitor benchmark and customer acquisition strategy since many of our user interviewees were interested in understanding the market and viability of the startup before investing. The future plans include labor costs because that content could show the effectiveness of MiFoodTech's product by demonstrating the estimated benefits of implementing MiFoodTech in a restaurant. 
 
 2. Second Iteration of Cardsorting
 ![Second Iteration of Cardsorting](/design/cardsort2.png)
