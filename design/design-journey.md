@@ -611,7 +611,7 @@ We grouped content into 5 categories: background, about the team, about the robo
 
 3. Third Iteration of Cardsorting
 ![Third Iteration of Cardsorting](/design/cardsort3.png)
-The five categories from the second iteration are maintained, except the specific contents of robot technology, problems and solutions, and automatic wok image are swapped between their previous categories. As such, we also maintain the same extent of distributing the information across the pages; the only change that have occurred is swapping the scope of the company background page and the robot/technology webpage. What this achieves is a bit more narrow and specific presentation of content from the company background, and a wider and general portrayal of content for the technology webpage. 
+The five categories from the second iteration are maintained, except the specific contents of robot technology, problems and solutions, and automatic wok image are swapped between their previous categories. As such, we also maintain the same extent of distributing the information across the pages; the only change that have occurred is swapping the scope of the company background page and the robot/technology webpage. What this achieves is a bit more narrow and specific presentation of content from the company background, and a wider and general portrayal of content for the technology webpage.
 
 ### Final Content Organization (Milestone 2)
 > Which iteration of card sorting will you use for your website?
@@ -645,7 +645,38 @@ These names make sense for the site's audience, because each name appropriately 
 > Discuss several (more than two) ideas about styling your site's theme. Explain why the theme ideas are appropriate for your target audiences.
 > Note the theme you selected for you site and why it's appropriate for the audience and their goals.
 
-TODO
+Theme 1: Clean and Bright
+- Appropriate because it matches the kind of website that Mi gave us as examples
+- Also matches startup/robotics energy - looks modern and sleek
+- Sans Serif Font (looks modern)
+- 2-3 Accent colors
+    - Keeps the theme interesting but not too busy
+- Big Font, lots of space in between lines
+    - Mi's examples all have lots of white space
+    - Easier to read for potential investors
+- Combination of circular and square images
+    - We don't have a lot of content so this will keep the website interesting
+
+Theme 2: Geometric
+- Appropraite because it is futuristic and matches the robot logo
+- Sans Serif Font (looks modern)
+- Sharp edges (rectangle pictures)
+    - structured like robotics
+- Darker colors
+    - to emphasize contrast
+    - Easier to read for potential investors
+- Compact font (less space between lines)
+    - looks like explicit shapes/rectangles to match the images
+
+Theme 3: Homey/Rustic
+- Appropraite because restaurants and chinese food are comforting
+- Bold/Jewel tone colors
+    - less white space (because white space feels cold)
+- warmer, more welcoming and inviting feeling
+    - Evokes emotion in potential investors that might influence them towards investing
+    - Sentimental value and positive association
+- Serif or Monospace Font (rustic)
+- No circular images (They look too modern and would leave too much white space)
 
 
 ### Interactivity Ideas (Milestone 2)
