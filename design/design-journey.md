@@ -678,6 +678,7 @@ Theme 3: Homey/Rustic
 - Serif or Monospace Font (rustic)
 - No circular images (They look too modern and would leave too much white space)
 
+We chose Theme 1, mainly because its features most resembled the examples that we were provided with from our client. As such, Theme 1 rests closest with the direction to which our client wants us to design our website, with respect to its theme. Furthermore, the features from Theme 1 best fit the idea of a startup company, as compared to those from Theme 2 and 3. 
 
 ### Interactivity Ideas (Milestone 2)
 > Brainstorm several ideas for your site's interactivity.
