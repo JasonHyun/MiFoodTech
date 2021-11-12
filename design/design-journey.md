@@ -696,12 +696,11 @@ Theme 3: Homey/Rustic
     - titles of stages on timeline and when you click on each stage the drop down with more details shows up
     - useful for investors to see bigger picture before looking for more details
 - Hover on timeline titles (future page)
-    - titles of stages on timeline, when you hover over the details show up 
+    - titles of stages on timeline, when you hover over the details show up
     - useful for investors to see bigger picture before looking for more details
 - Timed Carousel of lots of chinese food pictures (home page)
     - clearly communicates what we are trying to make
     - dynamic and interesting
-
 
 ### Layout Exploration (Milestone 2)
 > Iterate on your site's design through sketching.
@@ -709,8 +708,33 @@ Theme 3: Homey/Rustic
 > Here you are just exploring your layout ideas. You don't need to sketch every page.
 > Provide an explanation for each sketch explaining the idea and the design patterns you are leveraging.
 
-TODO
+#### Home Page (Michelle)
 
+![First Iteration of Desktop Home Page](/design/homeDesk1.jpg)
+
+![Second Iteration of Desktop Home Page](/design/homeDesk2.jpg)
+
+![Third Iteration of Desktop Home Page](/design/homeDesk3.jpg)
+
+![Fourth Iteration of Desktop Home Page](/design/homeDesk4.jpg)
+
+![Fifth Iteration of Desktop Home Page](/design/homeDesk5.jpg)
+
+![Sixth Iteration of Desktop Home Page](/design/homeDesk6.jpg)
+
+#### Market/Industry Outlook Page (Claire)
+![First Iteration of Desktop Market Page](/design/marketDesk1.jpg)
+
+![First Iteration of Mobile Market Page](/design/marketMobile1.jpg)
+
+#### Team Page (Jason)
+![First Iteration of Desktop Team Page](/design/teamDesk1.jpg)
+
+![First Iteration of Mobile Team Page](/design/teamMobile1.jpg)
+
+#### Future Page (Danielle)
+
+#### Why Us Page (Melissa)
 
 ### Final Interactivity Design (Milestone 2)
 > Explain and/or provide annotated sketches of the interactivity you will implement for your site.
