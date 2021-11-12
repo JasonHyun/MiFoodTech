@@ -601,7 +601,7 @@ The content will address the goal of learning about company history because we i
 1. First Iteration of Cardsorting
 ![First Iteration of Cardsorting](/design/cardsort1.png)
 
-We grouped content into 5 categories: background, about the team, about the robot/technology, the industry, and future plans. The wages graph is part of the background since it can illustrate the context of MiFoodTech's solution. The industry outlook section includes the competitor benchmark and customer acquisition strategy since many of our user interviewees were interested in understanding the market and viability of the startup before investing. The future plans include labor costs because that content could show the effectiveness of MiFoodTech's product by demonstrating the estimated benefits of implementing MiFoodTech in a restaurant. 
+We grouped content into 5 categories: background, about the team, about the robot/technology, the industry, and future plans. The wages graph is part of the background since it can illustrate the context of MiFoodTech's solution. The industry outlook section includes the competitor benchmark and customer acquisition strategy since many of our user interviewees were interested in understanding the market and viability of the startup before investing. The future plans include labor costs because that content could show the effectiveness of MiFoodTech's product by demonstrating the estimated benefits of implementing MiFoodTech in a restaurant.
 
 2. Second Iteration of Cardsorting
 ![Second Iteration of Cardsorting](/design/cardsort2.png)
@@ -611,7 +611,7 @@ We grouped content into 5 categories: background, about the team, about the robo
 
 3. Third Iteration of Cardsorting
 ![Third Iteration of Cardsorting](/design/cardsort3.png)
-
+The five categories from the second iteration are maintained, except the specific contents of robot technology, problems and solutions, and automatic wok image are swapped between their previous categories. As such, we also maintain the same extent of distributing the information across the pages; the only change that have occurred is swapping the scope of the company background page and the robot/technology webpage. What this achieves is a bit more narrow and specific presentation of content from the company background, and a wider and general portrayal of content for the technology webpage. 
 
 ### Final Content Organization (Milestone 2)
 > Which iteration of card sorting will you use for your website?
@@ -626,14 +626,16 @@ TODO
 ### Navigation (Milestone 2)
 > Please list the pages you will include in your personal website navigation.
 
-- TODO
-- TODO
-- TODO
-- TODO
+- Home
+- Team
+- What is FoodTech?
+- Why Us?
+- Future
+
 
 > Explain why the names of these pages make sense for your site's audience and their goals.
 
-TODO
+These names make sense for the site's audience, because each name appropriately categorizes the user's goals. For the potential investors who are thinking on making investments and thus wishing to find out how MiTechFoods differs from other companies, they would navigate to the "Why Us?" webpage. Similarly, for investors who are more curious to see who and what kind of people are involved, they would navigate to the "Team" webpage, and so on. In other words, each name of the webpages semantically correspond to the goals that we have already identified as the user's goals when they visit our website.
 
 
 
