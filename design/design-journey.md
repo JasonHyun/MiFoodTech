@@ -683,7 +683,24 @@ Theme 3: Homey/Rustic
 > Brainstorm several ideas for your site's interactivity.
 > Provide a very brief summary how each idea improves the usability of the site for the site's audience.
 
-TODO
+- Hamburger menu for mobile site (all pages)
+    - ease of use when tapping with fingers because menue expands
+- Hovering/Clicking on sections of graphs/images provide explanation of what that section is (market outlook page)
+    - less scrolling when trying to figure out what certain areas mean
+- Carousel for robot (why us page)
+    - easy to see how robot moves/is used which would be helpful to investors
+- Modal design pattern (team page)
+    - when you click on an image of someone, that person's bio shows up
+    - easy to learn more details about a specific team memver
+- Drop down timeline (future page)
+    - titles of stages on timeline and when you click on each stage the drop down with more details shows up
+    - useful for investors to see bigger picture before looking for more details
+- Hover on timeline titles (future page)
+    - titles of stages on timeline, when you hover over the details show up 
+    - useful for investors to see bigger picture before looking for more details
+- Timed Carousel of lots of chinese food pictures (home page)
+    - clearly communicates what we are trying to make
+    - dynamic and interesting
 
 
 ### Layout Exploration (Milestone 2)
