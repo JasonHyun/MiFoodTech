@@ -736,13 +736,13 @@ Mobile sketch: The navigation bar is replaced with a hamburger menu that expands
 
 #### Team Page (Jason)
 ![First Iteration of Desktop Team Page](/design/teamDesk1.jpg)
-
+This sketch places the team members' headshots and names in an array below the navigation bar and the caption for the page. Each slot of the array will consist of the image of the member and their name, such that there are three rows and two columns. The content themselves are presented this way to make navigation within the page more accessible and convenient.
 ![First Iteration of Mobile Team Page](/design/teamMobile1.jpg)
-
+This sketch shows the same adjustments for the navigation bar as all other pages, but considering the limited space on mobile platforms, the array that holds the contents will be reduced one column.
 ![Second Iteration of Desktop Team Page](/design/teamDesk2.jpg)
-
+This sketch maintains the same array idea from the first iteration, except each slot now consists of vertically oriented pairs of headshots and names, instead of horizontal. This way, we can make more efficient use of white space.
 ![Second Iteration of Mobile Team Page](/design/teamMobile2.jpg)
-
+Accordingly, the array for this iteration has been expanded to two columns, with each slot consisting of a headshot of a member and their name below said headshot. This allows for free use of space horizontally, where we can fit another slot for another member. 
 
 #### Future Page (Danielle)
 
@@ -761,7 +761,7 @@ In the second iteration, the content is the same, but we decided that using a li
 ![First Iteration of Mobile Why Us Page](/design/whyus_mobile1.jpg)
 The mobile design keeps the same content as the desktop design, but places the images after the descriptive paragraphs to use an optimal amount of screen space. Keeping them horizontally next to each other might look squished. We keep the lightbox images because then the user does not have to scroll up and down to see the images, but they can be viewed side by side together and then be viewed even closer in a light-box. The shredded potatoes image will not be a lightbox since mobile screens are not very wide and the diagram is very horizontal.
 
-**Second Iteration Mobile** 
+**Second Iteration Mobile**
 ![Second Iteration of Mobile Why Us Page](/design/whyus_mobile2.jpeg)
 This sketch changes the lightbox images into three images vertically. The images will be regular block figures. This may be better so the three images do not end up squished horizontally on a mobile screen. The user will have to scroll through the images up and down, but the images will be larger originally.
 
@@ -769,7 +769,7 @@ This sketch changes the lightbox images into three images vertically. The images
 > Explain and/or provide annotated sketches of the interactivity you will implement for your site.
 > Explain how the interactivity improves the usability of the site and helps the site's audiences meet their goals.
 
-Team Page: this page will allow for users to click on either the names or headshots of the team's members, which will cause a pop-up banner to show up. Said banner will include the same headshot and name of the member, as well as more detailed descriptions of who they are and what they do in the team. 
+Team Page: this page will allow for users to click on either the names or headshots of the team's members, which will cause a pop-up banner to show up. Said banner will include the same headshot and name of the member, as well as more detailed descriptions of who they are and what they do in the team.
 
 
 ### Final Design (Milestone 2)
