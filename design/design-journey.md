@@ -616,7 +616,9 @@ The five categories from the second iteration are maintained, except the specifi
 ### Final Content Organization (Milestone 2)
 > Which iteration of card sorting will you use for your website?
 
-TODO
+
+We will be using Cardsort 2 as it is the most appropriate for our website. We believe it is the most logically sorted with five distinct sections: about the company, team background, industry advantages, robot technology, and future plans. This organization creates distinct focuses and helps the audience clearly pinpoint the information they may be seeking. The website makes use of graphics, images, and projections of MiTechFood success in the future. All of this content is spaced out evenly across all of the pages so that no one page is too congested or bare. Cardsort 2 is preferable to Cardsort 1 because the wages graph is not part of the background. The idea behind this was to keep the background more focused on the Company background and the solutions they are solving with their innovative restaurant idea. We decided that the wages graph would better suit the page about industry outlook with more financial information. Also, Cardsort 2 is preferable to Cardsort 3 because it does not swap the scope of the company background page and the robot/technology webpage. We decided that introducing robotic technology information and image all on one webpage was more streamlined.
+
 
 > Explain how the final organization of content is appropriate for your site's audiences and their goals.
 
@@ -742,7 +744,7 @@ This sketch shows the same adjustments for the navigation bar as all other pages
 ![Second Iteration of Desktop Team Page](/design/teamDesk2.jpg)
 This sketch maintains the same array idea from the first iteration, except each slot now consists of vertically oriented pairs of headshots and names, instead of horizontal. This way, we can make more efficient use of white space.
 ![Second Iteration of Mobile Team Page](/design/teamMobile2.jpg)
-Accordingly, the array for this iteration has been expanded to two columns, with each slot consisting of a headshot of a member and their name below said headshot. This allows for free use of space horizontally, where we can fit another slot for another member. 
+Accordingly, the array for this iteration has been expanded to two columns, with each slot consisting of a headshot of a member and their name below said headshot. This allows for free use of space horizontally, where we can fit another slot for another member.
 
 #### Future Page (Danielle)
 
