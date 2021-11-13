@@ -678,14 +678,14 @@ Theme 3: Homey/Rustic
 - Serif or Monospace Font (rustic)
 - No circular images (They look too modern and would leave too much white space)
 
-We chose Theme 1, mainly because its features most resembled the examples that we were provided with from our client. As such, Theme 1 rests closest with the direction to which our client wants us to design our website, with respect to its theme. Furthermore, the features from Theme 1 best fit the idea of a startup company, as compared to those from Theme 2 and 3. 
+We chose Theme 1, mainly because its features most resembled the examples that we were provided with from our client. As such, Theme 1 rests closest with the direction to which our client wants us to design our website, with respect to its theme. Furthermore, the features from Theme 1 best fit the idea of a startup company, as compared to those from Theme 2 and 3.
 
 ### Interactivity Ideas (Milestone 2)
 > Brainstorm several ideas for your site's interactivity.
 > Provide a very brief summary how each idea improves the usability of the site for the site's audience.
 
 - Hamburger menu for mobile site (all pages)
-    - ease of use when tapping with fingers because menue expands
+    - ease of use when tapping with fingers because menu expands
 - Hovering/Clicking on sections of graphs/images provide explanation of what that section is (market outlook page)
     - less scrolling when trying to figure out what certain areas mean
 - Carousel for robot (why us page)
@@ -712,16 +712,22 @@ We chose Theme 1, mainly because its features most resembled the examples that w
 #### Home Page (Michelle)
 
 ![First Iteration of Desktop Home Page](/design/homeDesk1.jpg)
+Sketch 1: This sketch makes use of a carousel to display the images of Chinese food that MiFoodTech aims to produce. This gives the audience of investors a sense of the end goal and can increase the appeal of the company by bringing the end product into the forefront of the page. I tried to break up the company background, problems, and solution paragraphs of content with images to the right of the text, leveraging the way in which our audience reads from left to right by keeping the content on the left side.
 
 ![Second Iteration of Desktop Home Page](/design/homeDesk2.jpg)
+Sketch 2: I had the company background be the first content the audience would read about on the page with images of Chinese food on the right. I attempted to make use of white space by centering the problems content and solution content. The image next to the solution content would be an image of the robot technology of MiFoodTech and provide the audience an immediate visual of the product after reading about it.
 
 ![Third Iteration of Desktop Home Page](/design/homeDesk3.jpg)
+Sketch 3: This sketch includes a full-width image of Chinese food and makes use of white space for the company background, problems, and solution sections by having the content be centered on the page without taking up the whole width of the page. I also added a contact information footer at the bottom of the page.
 
 ![Fourth Iteration of Desktop Home Page](/design/homeDesk4.jpg)
+Sketch 4: In this sketch I explored removing the full-width image and just having the content be formatted with the image to the right and the text on the left. This looked too column-like and was difficult to think of ways to add interactivity but leverages common design patterns in the placement of the content.
 
 ![Fifth Iteration of Desktop Home Page](/design/homeDesk5.jpg)
+Sketch 5: In this iteration I incorporated a full-width timed slideshow of food images right under the navigation bar to capture the attention of potential investors and give them a sense of the vision of MiFoodTech's solution. I organized the company background and solution such that the text content is on the left, and the image on the right to leverage the left-to-right reading of our audience. I included a short quote on the left side of the problems content to highlight the key issue that MiFoodTech solves. There is also a footer with contact information on the bottom of the page so that potential investors can reach out to Mi with questions or express their interest in investing.
 
-![Sixth Iteration of Desktop Home Page](/design/homeDesk6.jpg)
+![First Iteration of Mobile Home Page](/design/homeMobile1.jpg)
+Mobile sketch: The navigation bar is replaced with a hamburger menu that expands when tapped on with the navigation bar; this is a common design pattern used on mobile devices since it is easier to tap on full-width buttons on smaller devices. The content is the same as the fifth iteration of the desktop page, but is instead oriented such that the content is stacked in one column. This aligns with existing design patterns due to the limited screen width of mobile devices.
 
 #### Market/Industry Outlook Page (Claire)
 ![First Iteration of Desktop Market Page](/design/marketDesk1.jpg)
