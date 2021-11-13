@@ -749,15 +749,20 @@ Accordingly, the array for this iteration has been expanded to two columns, with
 #### Future Page (Danielle)
 **First Iteration Desktop**
 ![First Iteration of Desktop Future](/design/future1.jpg)
+This page uses a streamlined layout which focuses on investment and the future company outlook. This page will use a hover timeline which increases audience interactivity and engagement. Additional information will be provided for interested investors and other uses who want to learn more or are seeking to contact MiTechFood. This design aligns with the overall layout and theme of the other pages and fits seamlessly with our overall design.
 
 **Second Iteration Desktop**
 ![Second Iteration of Desktop Future](/design/future2.jpg)
+The second design is slightly less interactive than the first design and employs a more straightforward and basic layout. The timeline will be listed in a horizontal format and remain static. There will also be two paragraphs one focusing on future planning and another of acquisition strategy. This will appeal to the audience because it is both straightforward and functional, but its also full of important investing and outlook information.
 
 **First Iteration Mobile**
 ![First Iteration of Desktop Future](/design/future3.jpg)
 
+The mobile design closely follows design and layout ideas used in future 1. However, a hamburger menu is employed for the nav bar to help account for the lack of screen size. A carousel is also used to help consolidate the timeline in the desktop version so that the audience a=can easily glance through the years projections with relative ease.
+
 **Second Iteration Mobile**
 ![Second Iteration of Desktop Future](/design/future4.jpg)
+The second iteration is similar to the first but instead splits the customer acquisition into a paragraph and an image, This breaks up the page more and make it more readable. There is less text and the information is more easily digestible. A slideshow will be used instead of a carousel to help create a moving timeline that audience members can click through and view. 
 
 
 #### Why Us Page (Melissa)
