@@ -747,6 +747,18 @@ This sketch maintains the same array idea from the first iteration, except each 
 Accordingly, the array for this iteration has been expanded to two columns, with each slot consisting of a headshot of a member and their name below said headshot. This allows for free use of space horizontally, where we can fit another slot for another member.
 
 #### Future Page (Danielle)
+**First Iteration Desktop**
+![First Iteration of Desktop Future](/design/future1.jpg)
+
+**Second Iteration Desktop**
+![Second Iteration of Desktop Future](/design/future2.jpg)
+
+**First Iteration Mobile**
+![First Iteration of Desktop Future](/design/future3.jpg)
+
+**Second Iteration Mobile**
+![Second Iteration of Desktop Future](/design/future4.jpg)
+
 
 #### Why Us Page (Melissa)
 **First Iteration Desktop**
