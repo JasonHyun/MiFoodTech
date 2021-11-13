@@ -739,6 +739,11 @@ Mobile sketch: The navigation bar is replaced with a hamburger menu that expands
 
 ![First Iteration of Mobile Team Page](/design/teamMobile1.jpg)
 
+![Second Iteration of Desktop Team Page](/design/teamDesk2.jpg)
+
+![Second Iteration of Mobile Team Page](/design/teamMobile2.jpg)
+
+
 #### Future Page (Danielle)
 
 #### Why Us Page (Melissa)
@@ -747,7 +752,7 @@ Mobile sketch: The navigation bar is replaced with a hamburger menu that expands
 > Explain and/or provide annotated sketches of the interactivity you will implement for your site.
 > Explain how the interactivity improves the usability of the site and helps the site's audiences meet their goals.
 
-TODO
+Team Page: this page will allow for users to click on either the names or headshots of the team's members, which will cause a pop-up banner to show up. Said banner will include the same headshot and name of the member, as well as more detailed descriptions of who they are and what they do in the team. 
 
 
 ### Final Design (Milestone 2)
@@ -755,18 +760,22 @@ TODO
 > The sketches must include enough detail that another 1300 student could implement them.
 > Provide a explanation for each sketch.
 
+
+
 **Mobile Design:**
-TODO
+![Final sketch of Desktop Team Page](/design/teamMobile2.jpg)
+
 
 
 **Desktop Design:**
-TODO
+![Final sketch of Desktop Team Page](/design/teamDesk2.jpg)
+
 
 
 ### Design Rationale (Milestone 2)
 > Explain why your design is appropriate for your audience. Specially, why does your content organization, navigation, and site design/layout meet the goals of your users? How did you employ design patterns to improve the familiarity of the site for your audience?
 
-TODO
+Team Page: this design is appropriate for our audience, because it presents the members of the team in a space-efficient manner, consistent with the overall theme we've chose on. It also helps with the goals of the users, specifically for those who wish to know more about the team, both collectively and individually.
 
 
 
