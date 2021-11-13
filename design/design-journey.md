@@ -742,19 +742,23 @@ Mobile sketch: The navigation bar is replaced with a hamburger menu that expands
 #### Future Page (Danielle)
 
 #### Why Us Page (Melissa)
+**First Iteration Desktop**
 ![First Iteration of Desktop Why Us Page](/design/whyus_desktop1.jpg)
 
 The sketch starts with the reasons that make MiFoodTech unique, with the competitor benchmarking table. Then we add the content which explains the technology that the company is working on. This makes sense because the page is called "Why Us", so we tell the user why MiFoodTech is special and then describe the company further. The paragraphs will be right next to the images because then the user can visually see what the company is working on and they they should invest, as they are reading. This sketch puts the images of automatic wok images into a carousel so the user can explore images of the technology. At the bottom of the page, we added the image of the process of cooking the shredded potatoes dish because cooking comes after developing the technology, so it should come after.
 
+**Second Iteration Desktop**
 ![Second Iteration of Desktop Why Us Page](/design/whyus_desktop2.jpg)
 
 In the second iteration, the content is the same, but we decided that using a lightbox may be better so that users can see a closeup of the product. We thought that the images would be better side by side as well, rather than one by one in a carousel. Users can view the automatic wok images in detail, which also places more emphasis on the technology since the images will be viewed in detail. Additionally, the diagram on cooking shredded potatoes is detailed so it will be easier to see closeup using the lightbox interactivity.
 
+**First Iteration Mobile**
 ![First Iteration of Mobile Why Us Page](/design/whyus_mobile1.jpg)
 The mobile design keeps the same content as the desktop design, but places the images after the descriptive paragraphs to use an optimal amount of screen space. Keeping them horizontally next to each other might look squished. We keep the lightbox images because then the user does not have to scroll up and down to see the images, but they can be viewed side by side together and then be viewed even closer in a light-box. The shredded potatoes image will not be a lightbox since mobile screens are not very wide and the diagram is very horizontal.
 
+**Second Iteration Mobile** 
 ![Second Iteration of Mobile Why Us Page](/design/whyus_mobile2.jpeg)
-This sketch changes the lightbox images into three images vertically. The images will be regular block figures. This may be better so the three images do not end up squished horizontally on a mobile screen. The user will have to scroll through the images up and down, but the images will be larger originally. 
+This sketch changes the lightbox images into three images vertically. The images will be regular block figures. This may be better so the three images do not end up squished horizontally on a mobile screen. The user will have to scroll through the images up and down, but the images will be larger originally.
 
 ### Final Interactivity Design (Milestone 2)
 > Explain and/or provide annotated sketches of the interactivity you will implement for your site.
