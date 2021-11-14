@@ -733,8 +733,11 @@ Mobile sketch: The navigation bar is replaced with a hamburger menu that expands
 
 #### Market/Industry Outlook Page (Claire)
 ![First Iteration of Desktop Market Page](/design/marketDesk1.jpg)
+In this iteration, I chose to use circular images (which I could create myself with the content that Mi gives us.) This helps preserve a more modern and clean/bright feeling and makes the website unique. It also works with the fact that the original market size image Mi gave us was circular. The text switches from side to side in order to keep the website looking interesting.
+
 
 ![First Iteration of Mobile Market Page](/design/marketMobile1.jpg)
+In this version, the navigation bar is replaced by a hamurger menu becuase it is a common design pattern that is prominent on many mobile websies. The content is the same, but it is stacked in one column with the images and headders above the relevant paragraphs/explanation. 
 
 #### Team Page (Jason)
 ![First Iteration of Desktop Team Page](/design/teamDesk1.jpg)
@@ -762,7 +765,7 @@ The mobile design closely follows design and layout ideas used in future 1. Howe
 
 **Second Iteration Mobile**
 ![Second Iteration of Desktop Future](/design/future4.jpg)
-The second iteration is similar to the first but instead splits the customer acquisition into a paragraph and an image, This breaks up the page more and make it more readable. There is less text and the information is more easily digestible. A slideshow will be used instead of a carousel to help create a moving timeline that audience members can click through and view. 
+The second iteration is similar to the first but instead splits the customer acquisition into a paragraph and an image, This breaks up the page more and make it more readable. There is less text and the information is more easily digestible. A slideshow will be used instead of a carousel to help create a moving timeline that audience members can click through and view.
 
 
 #### Why Us Page (Melissa)
