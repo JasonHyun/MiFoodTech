@@ -616,13 +616,12 @@ The five categories from the second iteration are maintained, except the specifi
 ### Final Content Organization (Milestone 2)
 > Which iteration of card sorting will you use for your website?
 
-
-We will be using Cardsort 2 as it is the most appropriate for our website. We believe it is the most logically sorted with five distinct sections: about the company, team background, industry advantages, robot technology, and future plans. This organization creates distinct focuses and helps the audience clearly pinpoint the information they may be seeking. The website makes use of graphics, images, and projections of MiTechFood success in the future. All of this content is spaced out evenly across all of the pages so that no one page is too congested or bare. Cardsort 2 is preferable to Cardsort 1 because the wages graph is not part of the background. The idea behind this was to keep the background more focused on the Company background and the solutions they are solving with their innovative restaurant idea. We decided that the wages graph would better suit the page about industry outlook with more financial information. Also, Cardsort 2 is preferable to Cardsort 3 because it does not swap the scope of the company background page and the robot/technology webpage. We decided that introducing robotic technology information and image all on one webpage was more streamlined.
+We will be using Cardsort 2 as it is the most appropriate for our website.
 
 
 > Explain how the final organization of content is appropriate for your site's audiences and their goals.
 
-TODO
+We believe it is the most logically sorted with five distinct sections: about the company, team background, industry advantages, robot technology, and future plans. This organization creates distinct focuses and helps the audience clearly pinpoint the information they may be seeking. The website makes use of graphics, images, and projections of MiTechFood success in the future. All of this content is spaced out evenly across all of the pages so that no one page is too congested or bare. Cardsort 2 is preferable to Cardsort 1 because the wages graph is not part of the background. The idea behind this was to keep the background more focused on the Company background and the solutions they are solving with their innovative restaurant idea. We decided that the wages graph would better suit the page about industry outlook with more financial information. Also, Cardsort 2 is preferable to Cardsort 3 because it does not swap the scope of the company background page and the robot/technology webpage. We decided that introducing robotic technology information and image all on one webpage was more streamlined.
 
 
 ### Navigation (Milestone 2)
@@ -737,7 +736,7 @@ In this iteration, I chose to use circular images (which I could create myself w
 
 
 ![First Iteration of Mobile Market Page](/design/marketMobile1.jpg)
-In this version, the navigation bar is replaced by a hamurger menu becuase it is a common design pattern that is prominent on many mobile websies. The content is the same, but it is stacked in one column with the images and headders above the relevant paragraphs/explanation. 
+In this version, the navigation bar is replaced by a hamurger menu becuase it is a common design pattern that is prominent on many mobile websies. The content is the same, but it is stacked in one column with the images and headders above the relevant paragraphs/explanation.
 
 #### Team Page (Jason)
 ![First Iteration of Desktop Team Page](/design/teamDesk1.jpg)
@@ -791,7 +790,9 @@ This sketch changes the lightbox images into three images vertically. The images
 > Explain and/or provide annotated sketches of the interactivity you will implement for your site.
 > Explain how the interactivity improves the usability of the site and helps the site's audiences meet their goals.
 
-Team Page: this page will allow for users to click on either the names or headshots of the team's members, which will cause a pop-up banner to show up. Said banner will include the same headshot and name of the member, as well as more detailed descriptions of who they are and what they do in the team.
+Home: There is a slideshow/timed carosuel beneath the header that gives the audience of potential investors a sense of what to expect as they navigate through the website. There are left and right arrows that lead to the next slide if the users want to skim through the slides, and indicator dots that show the user which slide they are on. The image being displayed will change after a specific time interval and the active indicator dot will also change position. The interactivity improves the usability of the site and helps the audience of potential investors to meet their goal of understanding MiFoodTech's product and how it is unique with engaging large images that tell MiFoodTech's story which help form the first impression the audience has of the company. 
+
+Team: this page will allow for users to click on either the names or headshots of the team's members, which will cause a pop-up banner to show up. Said banner will include the same headshot and name of the member, as well as more detailed descriptions of who they are and what they do in the team.
 
 
 ### Final Design (Milestone 2)
@@ -802,11 +803,17 @@ Team Page: this page will allow for users to click on either the names or headsh
 
 
 **Mobile Design:**
+![Final sketch of Mobile Home Page](/design/homeMobile-final.jpg)
+At the top of the page is the logo of MiFoodTech next to the company name and a hamburger menu on the right side of the screen. The hamburger menu expands when tapped on with the navigation bar; this is a common design pattern used on mobile devices since it is easier to tap on full-width buttons on smaller devices. Below the header is the slideshow with arrows for the user to skip to the next slide and dots to indicate the current slide that is being displayed. This slideshow is meant to be timed to increase user engagement but includes the left and right arrows in case users want to quickly skim through the slides. Under the slideshow is the company background, an image of a chef cooking, a short quote that represents the problem space, a paragraph on the problems, a paragraph on the solution, and an image of the solution. At the bottom of the page is the footer with the contact information so that the audience of potential investors can reach out to Mi after learning more about his startup.
+
 ![Final sketch of Desktop Team Page](/design/teamMobile2.jpg)
 
 
 
 **Desktop Design:**
+![Final sketch of Desktop Home Page](/design/homeDesk-final.jpg)
+The desktop design of the home page has the logo and name of the website on the right side of the screen, and the navigation bar with the page names side-by-side in the same line to maximize screen space. The slideshow takes up the full width of the page to to capture the attention of potential investors and give them a sense of the vision of MiFoodTech's solution, and includes the same left and right arrows and indicator dots as the mobile version. I organized the company background and solution such that the text content is on the left, and the image on the right to leverage the left-to-right reading of our audience. I included a short quote on the left side of the problems content to highlight the key issue that MiFoodTech solves. There is also a footer with contact information on the bottom of the page so that potential investors can reach out to Mi with questions or express their interest in investing.
+
 ![Final sketch of Desktop Team Page](/design/teamDesk2.jpg)
 
 
