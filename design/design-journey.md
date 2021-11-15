@@ -802,7 +802,7 @@ This page will allow for the users to click on  different sections of the market
 this page will allow for users to click on either the names or headshots of the team's members, which will cause a pop-up banner to show up. Said banner will include the same headshot and name of the member, as well as more detailed descriptions of who they are and what they do in the team.
 
 #### Future:
-Future will enable investors to see how MiTechFood will progress and develop in the future. Users will be able to use a hover feature on a timeline where when they hover the mouse over the year they will be able to view descriptions of future outlook and progression. For the mobile version the timeline will be a carousel where users can click through arrows or dots to go to a specific slide which features certain information for a year. These aspects improve the usability of the site by making it more engaging and interactive. It also presents information logically and in an appealing manner.
+Future will enable investors to see how MiTechFood will progress and develop in the future. Users will be able to use a hover feature on a timeline where when they hover the mouse over the year they will be able to view descriptions of future outlook and progression. For the mobile version the timeline will be a carousel where users can click through arrows or dots to go to a specific slide which features certain information for a year. A hamburger menu will also be used for mobile design because of smaller screen size limitations. These aspects improve the usability of the site by making it more engaging and interactive. It also presents information logically and in an appealing manner.
 
 #### Why Us:
 
@@ -822,6 +822,12 @@ At the top of the page is the logo of MiFoodTech next to the company name and a 
 ![Final sketch of Mobile Team Page](/design/teamMobile2.jpg)
 
 
+![Final Iteration of Desktop Future](/design/future3.jpg)
+
+The mobile design utilizes a hamburger menu for the nav bar. This helps account for the lack of screen size. A carousel is also used to help consolidate the timeline in the desktop version so that the audience a=can easily glance through the years projections with relative ease. This layout is sleek and effective, investors will be able to access important information with ease.
+
+
+
 
 **Desktop Design:**
 ![Final sketch of Desktop Home Page](/design/homeDesk-final.jpg)
@@ -833,6 +839,9 @@ The final desktop design for the market/industry page is the first iteration fro
 ![Final sketch of Desktop Team Page](/design/teamDesk2.jpg)
 
 
+
+![Final Iteration of Desktop Future](/design/future1.jpg)
+This streamlined layout uses a hover timeline which increases audience interactivity and engagement. When an investor or other user hover the mouse over a year on the timeline additional information will appear. Also, additional information in paragraph form will be provided for interested investors and other uses who want to learn more or are seeking to contact MiTechFood. These design choices allow for content that is appropriately spaced and includes the appropriate amount of interactivity. 
 
 ### Design Rationale (Milestone 2)
 > Explain why your design is appropriate for your audience. Specially, why does your content organization, navigation, and site design/layout meet the goals of your users? How did you employ design patterns to improve the familiarity of the site for your audience?
