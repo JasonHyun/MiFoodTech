@@ -802,6 +802,7 @@ This page will allow for the users to click on  different sections of the market
 this page will allow for users to click on either the names or headshots of the team's members, which will cause a pop-up banner to show up. Said banner will include the same headshot and name of the member, as well as more detailed descriptions of who they are and what they do in the team.
 
 #### Future:
+Future will enable investors to see how MiTechFood will progress and develop in the future. Users will be able to use a hover feature on a timeline where when they hover the mouse over the year they will be able to view descriptions of future outlook and progression. For the mobile version the timeline will be a carousel where users can click through arrows or dots to go to a specific slide which features certain information for a year. These aspects improve the usability of the site by making it more engaging and interactive. It also presents information logically and in an appealing manner.
 
 #### Why Us:
 
