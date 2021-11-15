@@ -795,11 +795,15 @@ This sketch changes the lightbox images into three images vertically. The images
 #### Home:
 There is a slideshow/timed carosuel beneath the header that gives the audience of potential investors a sense of what to expect as they navigate through the website. There are left and right arrows that lead to the next slide if the users want to skim through the slides, and indicator dots that show the user which slide they are on. The image being displayed will change after a specific time interval and the active indicator dot will also change position. The interactivity improves the usability of the site and helps the audience of potential investors to meet their goal of understanding MiFoodTech's product and how it is unique with engaging large images that tell MiFoodTech's story which help form the first impression the audience has of the company.
 
-####Team:
+#### Market:
+This page will allow for the users to click on  different sections of the market sizing graph to learn about what they stand for and why they are significant. The labels of the sections will be like buttons themselves and when clicked on, little pop up boxes will appear.
+
+#### Team:
 this page will allow for users to click on either the names or headshots of the team's members, which will cause a pop-up banner to show up. Said banner will include the same headshot and name of the member, as well as more detailed descriptions of who they are and what they do in the team.
 
-####Market/Industry Outlook:
-This page will allow for the users to click on  different sections of the market sizing graph to learn about what they stand for and why they are significant. The labels of the sections will be like buttons themselves and when clicked on, little pop up boxes will appear.
+#### Future:
+
+#### Why Us:
 
 ### Final Design (Milestone 2)
 > Include the final sketches for **each** of your site's pages.
@@ -812,7 +816,9 @@ This page will allow for the users to click on  different sections of the market
 ![Final sketch of Mobile Home Page](/design/homeMobile-final.jpg)
 At the top of the page is the logo of MiFoodTech next to the company name and a hamburger menu on the right side of the screen. The hamburger menu expands when tapped on with the navigation bar; this is a common design pattern used on mobile devices since it is easier to tap on full-width buttons on smaller devices. Below the header is the slideshow with arrows for the user to skip to the next slide and dots to indicate the current slide that is being displayed. This slideshow is meant to be timed to increase user engagement but includes the left and right arrows in case users want to quickly skim through the slides. Under the slideshow is the company background, an image of a chef cooking, a short quote that represents the problem space, a paragraph on the problems, a paragraph on the solution, and an image of the solution. At the bottom of the page is the footer with the contact information so that the audience of potential investors can reach out to Mi after learning more about his startup.
 
-![Final sketch of Desktop Team Page](/design/teamMobile2.jpg)
+![Final sketch of Mobile Market Page](/design/marketMobile1.jpg)
+
+![Final sketch of Mobile Team Page](/design/teamMobile2.jpg)
 
 
 
@@ -820,25 +826,42 @@ At the top of the page is the logo of MiFoodTech next to the company name and a 
 ![Final sketch of Desktop Home Page](/design/homeDesk-final.jpg)
 The desktop design of the home page has the logo and name of the website on the right side of the screen, and the navigation bar with the page names side-by-side in the same line to maximize screen space. The slideshow takes up the full width of the page to to capture the attention of potential investors and give them a sense of the vision of MiFoodTech's solution, and includes the same left and right arrows and indicator dots as the mobile version. I organized the company background and solution such that the text content is on the left, and the image on the right to leverage the left-to-right reading of our audience. I included a short quote on the left side of the problems content to highlight the key issue that MiFoodTech solves. There is also a footer with contact information on the bottom of the page so that potential investors can reach out to Mi with questions or express their interest in investing.
 
+![Final sketch of Desktop Market/Industry Page](/design/marketDesk1.jpg)
+The final desktop design for the market/industry page is the first iteration from above. The graphs are spaced out around the page in a way that breaks up the blocks of text and also the positioning of the headers mirrors the positioning in the home page, which creates cohesion between the two pages.
+
 ![Final sketch of Desktop Team Page](/design/teamDesk2.jpg)
 
 
 
 ### Design Rationale (Milestone 2)
 > Explain why your design is appropriate for your audience. Specially, why does your content organization, navigation, and site design/layout meet the goals of your users? How did you employ design patterns to improve the familiarity of the site for your audience?
+#### Home Page
 
-Team Page: this design is appropriate for our audience, because it presents the members of the team in a space-efficient manner, consistent with the overall theme we've chose on. It also helps with the goals of the users, specifically for those who wish to know more about the team, both collectively and individually.
+#### Market Page
+This design is appropriate for our audience because it presents information in a way that is easy for investors to get the quantitative data they are looking for. It also maintains consistency with the design of the home page.
 
+#### Team Page:
+this design is appropriate for our audience, because it presents the members of the team in a space-efficient manner, consistent with the overall theme we've chose on. It also helps with the goals of the users, specifically for those who wish to know more about the team, both collectively and individually.
 
+#### Future Page:
+
+#### Why Us Page:
 
 ## Interactivity Plan (Milestone 2)
 > Now that you've designed your interactivity for your site, you need to plan how you will implement it.
 > Describe how you will implement the interactivity. This should be a complete plan that another 1300 student could use to implement the interactivity.
 > You should list the elements, any CSS classes, events, pseudocode, and the initial state.
 
-#### Market Page (Claire)
+#### Home Page
+
+#### Market Page
 - I will be using the idea of having an interactive market size graph. I think that it is quite ambitious as I will be positioning buttons over images which is something I have never done before and it is appropriate because the content that we got from Mi only has acronyms over sections of the graph and that graph is not as self explanatory as the other ones on the page.
 
+#### Team Page
+
+#### Future Page
+
+#### Why Us Page:
 
 ## Client Feedback & Minutes (Milestone 2)
 > You should meet with your client again to obtain feedback on your design.
