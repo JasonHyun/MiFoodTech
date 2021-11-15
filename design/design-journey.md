@@ -734,9 +734,11 @@ Mobile sketch: The navigation bar is replaced with a hamburger menu that expands
 ![First Iteration of Desktop Market Page](/design/marketDesk1.jpg)
 In this iteration, I chose to use circular images (which I could create myself with the content that Mi gives us.) This helps preserve a more modern and clean/bright feeling and makes the website unique. It also works with the fact that the original market size image Mi gave us was circular. The text switches from side to side in order to keep the website looking interesting.
 
+![Second Iteration of Desktop Market Page](/design/marketDesk2.jpg)
+In this iteration, I moved the headers for each section to above the section instead of next to the graph in the section. This might make it more clear which section is what.
 
 ![First Iteration of Mobile Market Page](/design/marketMobile1.jpg)
-In this version, the navigation bar is replaced by a hamurger menu becuase it is a common design pattern that is prominent on many mobile websies. The content is the same, but it is stacked in one column with the images and headders above the relevant paragraphs/explanation.
+In this version, the navigation bar is replaced by a hamurger menu becuase it is a common design pattern that is prominent on many mobile websies. The content is the same, but it is stacked in one column with the images and headders above the relevant paragraphs/explanation. I based this sketch off of the first iteration of the Desktop page as I liked that version more.
 
 #### Team Page (Jason)
 ![First Iteration of Desktop Team Page](/design/teamDesk1.jpg)
@@ -790,10 +792,14 @@ This sketch changes the lightbox images into three images vertically. The images
 > Explain and/or provide annotated sketches of the interactivity you will implement for your site.
 > Explain how the interactivity improves the usability of the site and helps the site's audiences meet their goals.
 
-Home: There is a slideshow/timed carosuel beneath the header that gives the audience of potential investors a sense of what to expect as they navigate through the website. There are left and right arrows that lead to the next slide if the users want to skim through the slides, and indicator dots that show the user which slide they are on. The image being displayed will change after a specific time interval and the active indicator dot will also change position. The interactivity improves the usability of the site and helps the audience of potential investors to meet their goal of understanding MiFoodTech's product and how it is unique with engaging large images that tell MiFoodTech's story which help form the first impression the audience has of the company. 
+#### Home:
+There is a slideshow/timed carosuel beneath the header that gives the audience of potential investors a sense of what to expect as they navigate through the website. There are left and right arrows that lead to the next slide if the users want to skim through the slides, and indicator dots that show the user which slide they are on. The image being displayed will change after a specific time interval and the active indicator dot will also change position. The interactivity improves the usability of the site and helps the audience of potential investors to meet their goal of understanding MiFoodTech's product and how it is unique with engaging large images that tell MiFoodTech's story which help form the first impression the audience has of the company.
 
-Team: this page will allow for users to click on either the names or headshots of the team's members, which will cause a pop-up banner to show up. Said banner will include the same headshot and name of the member, as well as more detailed descriptions of who they are and what they do in the team.
+####Team:
+this page will allow for users to click on either the names or headshots of the team's members, which will cause a pop-up banner to show up. Said banner will include the same headshot and name of the member, as well as more detailed descriptions of who they are and what they do in the team.
 
+####Market/Industry Outlook:
+This page will allow for the users to click on  different sections of the market sizing graph to learn about what they stand for and why they are significant. The labels of the sections will be like buttons themselves and when clicked on, little pop up boxes will appear.
 
 ### Final Design (Milestone 2)
 > Include the final sketches for **each** of your site's pages.
@@ -830,9 +836,8 @@ Team Page: this design is appropriate for our audience, because it presents the 
 > Describe how you will implement the interactivity. This should be a complete plan that another 1300 student could use to implement the interactivity.
 > You should list the elements, any CSS classes, events, pseudocode, and the initial state.
 
-```
-TODO
-```
+#### Market Page (Claire)
+- I will be using the idea of having an interactive market size graph. I think that it is quite ambitious as I will be positioning buttons over images which is something I have never done before and it is appropriate because the content that we got from Mi only has acronyms over sections of the graph and that graph is not as self explanatory as the other ones on the page.
 
 
 ## Client Feedback & Minutes (Milestone 2)
