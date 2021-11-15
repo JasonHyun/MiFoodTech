@@ -838,7 +838,7 @@ The final desktop design for the market/industry page is the first iteration fro
 #### Home Page
 
 #### Market Page
-This design is appropriate for our audience because it presents information in a way that is easy for investors to get the quantitative data they are looking for. It also maintains consistency with the design of the home page.
+This design is appropriate for our audience because it presents information in a way that is easy for investors to get the quantitative data they are looking for. It also maintains consistency with the design of the home page. The interactivity is  ambitious as I will be positioning buttons over images which is something I have never done before and it is appropriate because the content that we got from Mi only has acronyms over sections of the graph and that graph is not as self explanatory as the other ones on the page.
 
 #### Team Page:
 this design is appropriate for our audience, because it presents the members of the team in a space-efficient manner, consistent with the overall theme we've chose on. It also helps with the goals of the users, specifically for those who wish to know more about the team, both collectively and individually.
@@ -855,7 +855,36 @@ this design is appropriate for our audience, because it presents the members of 
 #### Home Page
 
 #### Market Page
-- I will be using the idea of having an interactive market size graph. I think that it is quite ambitious as I will be positioning buttons over images which is something I have never done before and it is appropriate because the content that we got from Mi only has acronyms over sections of the graph and that graph is not as self explanatory as the other ones on the page.
+elements:
+- div for the graph and the three buttons
+- img for the graph itself
+- buttons for the different sections of the graph
+- div for each box that will appear when the corresponding button in the graph is clicked on
+- button in each box that will appear/disappear for closing the box
+- <p> for the text boxes
+
+- .hidden class for the box that explains what is going on in the graph
+    - text box divs default to hidden
+- event: clicking on the buttons on the graph
+
+when(button 1 clicked){
+    show text box 1
+}
+when(x button in text box 1 clicked){
+    hide text box 1
+}
+when(button 2 clicked){
+    show text box 2
+}
+when(x button in text box 2 clicked){
+    hide text box 2
+}
+when(button 3 clicked){
+    show text box 3
+}
+when(x button in text box 3 clicked){
+    hide text box 3
+}
 
 #### Team Page
 
