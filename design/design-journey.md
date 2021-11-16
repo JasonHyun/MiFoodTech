@@ -879,7 +879,7 @@ this design is appropriate for our audience, because it presents the members of 
 #### Future Page:
 
 #### Why Us Page:
-This design is appropriate for our audience because investors the content is organized in a way that investors can easily find all of the information they need to know before investing. It helps them reach their goals because they will be able to easily understand and navigate the website to answer their questions. The Why Us page tells investors about the product, why they are unique, and the business model. This is a really important part of the company that needs its own page, and so investors can easily find this information before investing. This site employs design patterns to improve the familiarity with a navigation bar for the desktop design, and a hamburger menu for the mobile design. Additionally, lightboxes are used on many sites, so users will know how to use this feature. 
+This design is appropriate for our audience because investors the content is organized in a way that investors can easily find all of the information they need to know before investing. It helps them reach their goals because they will be able to easily understand and navigate the website to answer their questions. The Why Us page tells investors about the product, why they are unique, and the business model. This is a really important part of the company that needs its own page, and so investors can easily find this information before investing. This site employs design patterns to improve the familiarity with a navigation bar for the desktop design, and a hamburger menu for the mobile design. Additionally, lightboxes are used on many sites, so users will know how to use this feature.
 
 ## Interactivity Plan (Milestone 2)
 > Now that you've designed your interactivity for your site, you need to plan how you will implement it.
@@ -930,9 +930,87 @@ when(x button in text box 3 clicked){
 > You should meet with your client again to obtain feedback on your design.
 > Provide a summary of the client's feedback and your meeting's minutes.
 
-TODO
+Branding Colors?
+- Bright
+- Young and fresh
+- Blue, green, yellow red
+- Doesn’t care
+- Red is too warm ⇒ chinese food is linked with red.. Might be too intense
+
+Cardsorting feedback
+Feedback for names of pages:
+    - Team can have a part for future recruitment
+    - Have a paragraph say with openings they can take interns, mechanical engineering
+    - Send a CV to an email
+    - Recruitment
+    - Separate from investor’s getting involved
+- Change Future to Investors
+- Why people care about your future?
+- For Investors
+
+Going through sketches:
+**Home Page:**
+    - Any content of images?
+    - A story to tell with images?
+    - Use images of food from slides
+    - Company background ⇒ story of how you and team thought of MiFoodTech.. Personal story
+    - He will write a paragraph to send.. My story is after pandemic and after wife was pregnant, he was incharge of cooking. 30-40 minutes to prep. Very time consuming. Another 30 minutes for cooking. Spend another 2 hours every day. It’s a lot. Let’s use technology
+    More images of robot tech?
+    - Several more, but not a lot
+    - Currently using work to prototype the work?
+
+    For slide show:
+    - Latest news
+    - Looking for new members and investors, kind of like an announcement
+    - Send content about what you want in the slideshow
+    - Picture for recruitment
+    - Picture for investors
 
 
+**Why Us Page:**
+    - Business model may be too small?
+    - Put business model, separate from robot technology
+    - Business model in a separate div with it’s own information
+    - Likes style in the mobile version
+    - Put business model in the bottom ⇒ after the technology
+
+**Team:**
+- Have more team members
+- 2 groups ⇒ one on engineering, one on the management  development
+- 2 categories
+- 2 captions for each team? Or branch from 1 team caption
+- At bottom add section about recruiting  
+- Have 3 categories
+- Mi is at top
+- 2 groups below
+    - Restaurant and engineering
+- He will prepare headshots and bio
+
+**Future:**
+    - Will rename
+    - Timeline⇒ hover and dropdown
+    - Plan to open kitchen
+    - When get  location information.. Add location information
+    - Looks good
+
+
+**Market/Industry Outlook:**
+- https://www.startengine.com/blendid
+- Has section with market size if scroll down
+- Take a look at example and mimic
+- He can fix the deck
+- He will let us know when he finishes it
+- Replace new graph?  No.. he likes placement
+- For the chart⇒ u can design based on color theme or copy and paste
+- Match color of graphs to color of website
+- Let him know when we choose a color and he will change color of charts
+
+Additional content needed:
+- Team photo? ⇒ have not had a chance
+- First slide ⇒ has logo
+- Is there a jpeg version/better resolution?
+    - Made a new logo.. He will send
+- He will ry to make a slide for recruitment for homepage
 
 # Evaluation (Final Submission)
 
