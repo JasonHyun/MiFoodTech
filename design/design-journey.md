@@ -780,6 +780,11 @@ The sketch starts with the reasons that make MiFoodTech unique, with the competi
 
 In the second iteration, the content is the same, but we decided that using a lightbox may be better so that users can see a closeup of the product. We thought that the images would be better side by side as well, rather than one by one in a carousel. Users can view the automatic wok images in detail, which also places more emphasis on the technology since the images will be viewed in detail. Additionally, the diagram on cooking shredded potatoes is detailed so it will be easier to see closeup using the lightbox interactivity.
 
+**Third Iteration Desktop**
+![Third Iteration of Desktop Why Us Page](/design/whyus_desktop3.jpeg)
+
+Our client went over our designs and wanted more information on the business model. He requested that the business model information goes under all of the information on the technology. I added this to design. The business model information is at the bottom of the page.
+
 **First Iteration Mobile**
 ![First Iteration of Mobile Why Us Page](/design/whyus_mobile1.jpg)
 The mobile design keeps the same content as the desktop design, but places the images after the descriptive paragraphs to use an optimal amount of screen space. Keeping them horizontally next to each other might look squished. We keep the lightbox images because then the user does not have to scroll up and down to see the images, but they can be viewed side by side together and then be viewed even closer in a light-box. The shredded potatoes image will not be a lightbox since mobile screens are not very wide and the diagram is very horizontal.
@@ -787,6 +792,11 @@ The mobile design keeps the same content as the desktop design, but places the i
 **Second Iteration Mobile**
 ![Second Iteration of Mobile Why Us Page](/design/whyus_mobile2.jpeg)
 This sketch changes the lightbox images into three images vertically. The images will be regular block figures. This may be better so the three images do not end up squished horizontally on a mobile screen. The user will have to scroll through the images up and down, but the images will be larger originally.
+
+**Third Iteration Mobile**
+![Third Iteration of Mobile Why Us Page](/design/whyus_mobile3.jpeg)
+
+I added the business model information to the sketch. The mobile version has the paragraph of information over the image to use space effectively. The information should go first so the user is informed before the read the diagram.
 
 ### Final Interactivity Design (Milestone 2)
 > Explain and/or provide annotated sketches of the interactivity you will implement for your site.
@@ -805,6 +815,7 @@ this page will allow for users to click on either the names or headshots of the 
 Future will enable investors to see how MiTechFood will progress and develop in the future. Users will be able to use a hover feature on a timeline where when they hover the mouse over the year they will be able to view descriptions of future outlook and progression. For the mobile version the timeline will be a carousel where users can click through arrows or dots to go to a specific slide which features certain information for a year. A hamburger menu will also be used for mobile design because of smaller screen size limitations. These aspects improve the usability of the site by making it more engaging and interactive. It also presents information logically and in an appealing manner.
 
 #### Why Us:
+This page uses a lightbox for interactivity. This will be used on the images of the technology. This includes the three images of the automatic wok and the diagram of cooking shredded potatoes. The user will be able to click on the image and a bigger image will pop up and the user can see it in more detail. The image will go away when the user x's out of the larger images. This improves the usability because the user can examine the technology and get more familiar with the technology. This is important because the intended audience is investors, so they need to understand the technology before investing. This helps them meet their goals because the investor is trying to learn about the company's product, so helping the audience get a closer look at the diagrams will help them achieve this goal. The mobile design will have a hamburger menu to use space more effectively. This design is common amongst many mobile website designs.
 
 ### Final Design (Milestone 2)
 > Include the final sketches for **each** of your site's pages.
@@ -841,7 +852,19 @@ The final desktop design for the market/industry page is the first iteration fro
 
 
 ![Final Iteration of Desktop Future](/design/future1.jpg)
-This streamlined layout uses a hover timeline which increases audience interactivity and engagement. When an investor or other user hover the mouse over a year on the timeline additional information will appear. Also, additional information in paragraph form will be provided for interested investors and other uses who want to learn more or are seeking to contact MiTechFood. These design choices allow for content that is appropriately spaced and includes the appropriate amount of interactivity. 
+This streamlined layout uses a hover timeline which increases audience interactivity and engagement. When an investor or other user hover the mouse over a year on the timeline additional information will appear. Also, additional information in paragraph form will be provided for interested investors and other uses who want to learn more or are seeking to contact MiTechFood. These design choices allow for content that is appropriately spaced and includes the appropriate amount of interactivity.
+
+**Why Us Page**
+
+*Desktop*
+![Final sketch of Why Us Desktop Design](/design/whyus_desktop3.jpeg)
+
+We chose this design because the site's information is organized in the best way to explain why the company is unique, the technology, and the business model. This order was important to help investors understand the company's product. Additionally, we chose the lightbox interactivity because it will display all of the images at the same time, unlike a carousel, so investors can easily browse and get a close-up view of the technology.
+
+*Mobile*
+![Final sketch of Why Us Mobile Design](/design/whyus_mobile3.jpeg)
+
+The mobile design has information organized in the same way as the desktop design. The space is used effectively by making horizontal elements go vertically in order instead. There will not be a lightbox in the mobile design because the images would be squeezed and small if they were horizontally next to each other on a mobile screen, even if they could be made bigger. Instead, the images will fill the mobile screen and be larger pictures to start. The final sketch has a hamburger menu instead of a navigation bar to use space more effectively.
 
 ### Design Rationale (Milestone 2)
 > Explain why your design is appropriate for your audience. Specially, why does your content organization, navigation, and site design/layout meet the goals of your users? How did you employ design patterns to improve the familiarity of the site for your audience?
@@ -856,6 +879,7 @@ this design is appropriate for our audience, because it presents the members of 
 #### Future Page:
 
 #### Why Us Page:
+This design is appropriate for our audience because investors the content is organized in a way that investors can easily find all of the information they need to know before investing. It helps them reach their goals because they will be able to easily understand and navigate the website to answer their questions. The Why Us page tells investors about the product, why they are unique, and the business model. This is a really important part of the company that needs its own page, and so investors can easily find this information before investing. This site employs design patterns to improve the familiarity with a navigation bar for the desktop design, and a hamburger menu for the mobile design. Additionally, lightboxes are used on many sites, so users will know how to use this feature. 
 
 ## Interactivity Plan (Milestone 2)
 > Now that you've designed your interactivity for your site, you need to plan how you will implement it.
