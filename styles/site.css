@@ -1,0 +1,48 @@
+body{
+
+}
+
+/* why us CSS */
+h1, h2, h3{
+    text-align: center;
+}
+/* .unique{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin:0 auto;
+} */
+
+/* #comp-chart{
+    min-width: 50%;
+    max-width: 500px;
+} */
+
+.whyus-info{
+    width: 90%;
+    margin: 0px auto;
+}
+
+/* .technology{
+    margin: 0px auto;
+    text-align: center;
+    width: 80%;
+} */
+
+#comp-chart{
+    width: 90%;
+}
+
+.figure{
+    width:90%;
+    margin: 0px auto;
+}
+
+#cooking-diagram{
+    width: 100%;
+    margin: 0px auto;
+}
+
+#app-model{
+    width: 100%;
+}
