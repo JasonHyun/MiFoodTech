@@ -977,7 +977,49 @@ css classes
 
 
 #### Why Us Page:
+**HTML Classes**
+<!-- lightbox -->
+wok a: `<figure class = "wok panel" id = "wok_a">`
+wok b: `<figure class = "wok panel" id = "wok_b">`
+wok c: `<figure class = "wok panel" id = "wok_c">`
+cooking potatoes diagram: `<figure class = "cooking panel" id = "cooking-diagram">`
+entire lightbox: `<div class = "tech-images lightbox">`
 
+<!-- hamburger menu -->
+- hamburger menu: `button id="hamburger"`
+- close button: `button class="hidden-m" id="close"`
+
+<!-- navigation -->
+each button has class `nav-button`
+
+**CSS Classes**
+- `.hidden`- use to hide elements
+- `.large` - use to make images bigger when lightbox appears
+- `.dim` - use to dim background when lightbox appears
+- `.panel:hover` - outline of panel appears when hovered over
+- `.exit` - button used to ex out of lightbox (hidden)
+
+- `#hamburger` - hidden on desktop screens
+- `nav-button:hover` - navigation buttons darken when hovered over
+
+**Pseudocode**
+```
+when user clicks on #wok_a element:
+    add .large class to #wok_a;
+    show .dim class;     
+
+when user clicks on #wok_b element:
+    add .large class to #wok_b;
+    show .dim class;     
+
+when user clicks on #wok_c element:
+    add .large class to #wok_c;
+    show .dim class;  
+
+when user clicks on #cooking element:
+    add .large class to #cooking;
+    show .dim class;  
+```
 ## Client Feedback & Minutes (Milestone 2)
 > You should meet with your client again to obtain feedback on your design.
 > Provide a summary of the client's feedback and your meeting's minutes.
