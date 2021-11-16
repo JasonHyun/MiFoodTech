@@ -878,6 +878,7 @@ This design is appropriate for our audience because it presents information in a
 this design is appropriate for our audience, because it presents the members of the team in a space-efficient manner, consistent with the overall theme we've chose on. It also helps with the goals of the users, specifically for those who wish to know more about the team, both collectively and individually.
 
 #### Future Page:
+This design is appropriate for our audience because it presents important information on company outlook and future projections. It also has connect information and other opportunities if investors of other interested individuals want to reach out to connect with MiTechFood. It is a straightforward way for investors to get information they need to assess whether or not/ how much money and time they would like to invest in MiTechFood. The organization, navigation, and site design/layout meet the goals of my users and employs design patterns such as a timelines hover, carousel, and hamburger menu nav bar (mobile layout) to create an interactive and engaging experience. The use of the hover and carousel feature also draws user attention to important aspects about future trajectory and investment which is an emphasis especially for an audience of investors.
 
 #### Why Us Page:
 This design is appropriate for our audience because investors the content is organized in a way that investors can easily find all of the information they need to know before investing. It helps them reach their goals because they will be able to easily understand and navigate the website to answer their questions. The Why Us page tells investors about the product, why they are unique, and the business model. This is a really important part of the company that needs its own page, and so investors can easily find this information before investing. This site employs design patterns to improve the familiarity with a navigation bar for the desktop design, and a hamburger menu for the mobile design. Additionally, lightboxes are used on many sites, so users will know how to use this feature.
@@ -943,6 +944,37 @@ when(x button in text box 3 clicked){
 #### Team Page
 
 #### Future Page
+html:
+CAROUSEL
+right button: `button id="right"`
+left button: `button id="left"`
+first dot: `button class = "dot active"`
+dots: `button class = "dot"`
+first slide:`<img class="slide" id="slide1" src="images/slide1.jpg" alt="Slide 1"/>`
+other slide: `<img class="slide hidden" id="slide2" src="images/slide2.jpg" alt="Slide 2"/>`
+HAMBURGER
+hamburger menu: `button id="hamburger"`
+close button: `button class="hidden-m" id="close"`
+
+css classes
+`#hamburger` - show on default mobile sized screen
+`#close` - show after hamburger menu is clicked
+`.hidden` - hide elements
+`button:hover` - change background color and cursor on hovers
+
+
+```
+// when #next-button clicked: (on-click-event snippet)
+//   show next slide (next slide snippet
+// when #right is clicked: (on-click-event snippet)
+//   show next slide on right(next slide snippet)
+// when #left clicked: (on-click-event snippet)
+//   show next slide (next slide snippet)
+// when #dot is clicked: (on-click-event snippet)
+//   show next slide on dot is associated with(next slide snippet)
+
+```
+
 
 #### Why Us Page:
 
