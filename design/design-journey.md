@@ -841,11 +841,13 @@ The final desktop design for the market/industry page is the first iteration fro
 
 
 ![Final Iteration of Desktop Future](/design/future1.jpg)
-This streamlined layout uses a hover timeline which increases audience interactivity and engagement. When an investor or other user hover the mouse over a year on the timeline additional information will appear. Also, additional information in paragraph form will be provided for interested investors and other uses who want to learn more or are seeking to contact MiTechFood. These design choices allow for content that is appropriately spaced and includes the appropriate amount of interactivity. 
+This streamlined layout uses a hover timeline which increases audience interactivity and engagement. When an investor or other user hover the mouse over a year on the timeline additional information will appear. Also, additional information in paragraph form will be provided for interested investors and other uses who want to learn more or are seeking to contact MiTechFood. These design choices allow for content that is appropriately spaced and includes the appropriate amount of interactivity.
 
 ### Design Rationale (Milestone 2)
 > Explain why your design is appropriate for your audience. Specially, why does your content organization, navigation, and site design/layout meet the goals of your users? How did you employ design patterns to improve the familiarity of the site for your audience?
+
 #### Home Page
+The home page is designed appropriately for potential investors because the content includes a high level overview of the background of the company, the problem that MiFoodTech solves, and an understanding of the solution MiFoodTech provides. The header follows common design patterns, with the logo, title, and navigation bar displayed from left to right. The slideshow helps convey the big picture by visually showing potential investors what to expect when browsing the website and highlights what MiFoodTech is so that users feel confident and secure in understanding what the website is about. The footer has the contact information and is the same on all pages, which adds to the sense of security since it is a common design pattern and indicates to the user that they have reached the end of the content on the page.
 
 #### Market Page
 This design is appropriate for our audience because it presents information in a way that is easy for investors to get the quantitative data they are looking for. It also maintains consistency with the design of the home page. The interactivity is  ambitious as I will be positioning buttons over images which is something I have never done before and it is appropriate because the content that we got from Mi only has acronyms over sections of the graph and that graph is not as self explanatory as the other ones on the page.
@@ -863,6 +865,25 @@ this design is appropriate for our audience, because it presents the members of 
 > You should list the elements, any CSS classes, events, pseudocode, and the initial state.
 
 #### Home Page
+html elements
+- hamburger menu: `button id="hamburger"`
+- close button: `button class="hidden-m" id="close"`
+- navigation contents: `nav class="hidden-m" id="menu"`
+- next button: `button id="right"`
+- back button: `button id="left"`
+- dots: first dot - `button class = "dot active"`
+  - other dots: - `button class = "dot"`
+- slides: first slide - `<img class="slide" id="slide1" src="images/slide1.jpg" alt="Slide 1"/>`
+  - other slides: `<img class="slide hidden" id="slide2" src="images/slide2.jpg" alt="Slide 2"/>` 
+
+css classes
+- `.hidden` - hide elements
+- `.hidden-m` - hide elements only on mobile screens
+- `button:hover` - change background color and cursor on hover
+- `button.active` - change color of button to indicate which tab is open
+- `#hamburger` - show on default mobile sized screen
+- `#close` - show after hamburger menu is clicked
+- `#hamburger:hover, #close:hover` - change color and cursor on hover
 
 #### Market Page
 elements:
