@@ -823,7 +823,6 @@ This page uses a lightbox for interactivity. This will be used on the images of 
 > Provide a explanation for each sketch.
 
 
-
 **Mobile Design:**
 ![Final sketch of Mobile Home Page](/design/homeMobile-final.jpg)
 At the top of the page is the logo of MiFoodTech next to the company name and a hamburger menu on the right side of the screen. The hamburger menu expands when tapped on with the navigation bar; this is a common design pattern used on mobile devices since it is easier to tap on full-width buttons on smaller devices. Below the header is the slideshow with arrows for the user to skip to the next slide and dots to indicate the current slide that is being displayed. This slideshow is meant to be timed to increase user engagement but includes the left and right arrows in case users want to quickly skim through the slides. Under the slideshow is the company background, an image of a chef cooking, a short quote that represents the problem space, a paragraph on the problems, a paragraph on the solution, and an image of the solution. At the bottom of the page is the footer with the contact information so that the audience of potential investors can reach out to Mi after learning more about his startup.
@@ -836,7 +835,6 @@ At the top of the page is the logo of MiFoodTech next to the company name and a 
 ![Final Iteration of Desktop Future](/design/future3.jpg)
 
 The mobile design utilizes a hamburger menu for the nav bar. This helps account for the lack of screen size. A carousel is also used to help consolidate the timeline in the desktop version so that the audience a=can easily glance through the years projections with relative ease. This layout is sleek and effective, investors will be able to access important information with ease.
-
 
 
 
@@ -853,8 +851,7 @@ The final desktop design for the market/industry page is the first iteration fro
 
 ![Final Iteration of Desktop Future](/design/future1.jpg)
 This streamlined layout uses a hover timeline which increases audience interactivity and engagement. When an investor or other user hover the mouse over a year on the timeline additional information will appear. Also, additional information in paragraph form will be provided for interested investors and other uses who want to learn more or are seeking to contact MiTechFood. These design choices allow for content that is appropriately spaced and includes the appropriate amount of interactivity.
-<<<<<<< HEAD
-=======
+
 
 **Why Us Page**
 
@@ -867,7 +864,6 @@ We chose this design because the site's information is organized in the best way
 ![Final sketch of Why Us Mobile Design](/design/whyus_mobile3.jpeg)
 
 The mobile design has information organized in the same way as the desktop design. The space is used effectively by making horizontal elements go vertically in order instead. There will not be a lightbox in the mobile design because the images would be squeezed and small if they were horizontally next to each other on a mobile screen, even if they could be made bigger. Instead, the images will fill the mobile screen and be larger pictures to start. The final sketch has a hamburger menu instead of a navigation bar to use space more effectively.
->>>>>>> 563d73138fd61d99673ee0edae770b5c062dab08
 
 ### Design Rationale (Milestone 2)
 > Explain why your design is appropriate for your audience. Specially, why does your content organization, navigation, and site design/layout meet the goals of your users? How did you employ design patterns to improve the familiarity of the site for your audience?
@@ -901,7 +897,7 @@ html elements
 - dots: first dot - `button class = "dot active"`
   - other dots: - `button class = "dot"`
 - slides: first slide - `<img class="slide" id="slide1" src="images/slide1.jpg" alt="Slide 1"/>`
-  - other slides: `<img class="slide hidden" id="slide2" src="images/slide2.jpg" alt="Slide 2"/>` 
+  - other slides: `<img class="slide hidden" id="slide2" src="images/slide2.jpg" alt="Slide 2"/>`
 
 css classes
 - `.hidden` - hide elements
