@@ -6,28 +6,16 @@ body{
 h1, h2, h3{
     text-align: center;
 }
-/* .unique{
-    display:flex;
-    justify-content: center;
-    align-items: center;
-    margin:0 auto;
-} */
 
-/* #comp-chart{
-    min-width: 50%;
-    max-width: 500px;
-} */
-
-.whyus-info{
-    width: 90%;
-    margin: 0px auto;
+nav{
+    display: flex;
+    justify-content: space-around;
 }
 
-/* .technology{
+.whyus-info{
+    /* width: 90%; */
     margin: 0px auto;
-    text-align: center;
-    width: 80%;
-} */
+}
 
 #comp-chart{
     width: 90%;
@@ -35,7 +23,8 @@ h1, h2, h3{
 
 .figure{
     width:90%;
-    margin: 0px auto;
+    margin: 10px auto;
+    margin-bottom: 30px;
 }
 
 #cooking-diagram{
@@ -45,4 +34,86 @@ h1, h2, h3{
 
 #app-model{
     width: 100%;
+}
+
+.info-mobile{
+    /* width: 100%; */
+    padding: 10px;
+    margin: 0px auto;
+    margin: 10px;
+}
+
+.wok{
+    width: 100%;
+}
+
+@media(min-width: 800px){
+    .unique{
+        display:flex;
+        margin:10px auto;
+        justify-content: center;
+        align-items: center;
+        padding: 10px;
+        width: 95%;
+        /* margin: 10px; */
+    }
+
+    #comp-chart{
+        width: 100%;
+        /* min-width: 50%; */
+        max-width: 500px;
+        margin: 20px;
+    }
+
+    .whyus-info{
+        width: 40%;
+        margin: 20px;
+        padding: 10px;
+    }
+
+    .technology{
+        margin: 0px auto;
+        text-align: center;
+        width: 90%;
+    }
+
+    .figure{
+        width: 60%;
+        margin-bottom: 0px;
+    }
+
+    .wok-flex{
+        display: flex;
+        justify-content:center;
+        width: 90%;
+        margin: 10px auto;
+    }
+
+    .wok{
+        height: 90%;
+    }
+
+    .cooking{
+        width: 80%;
+    }
+
+    .business-flex{
+        display:flex;
+        margin:10px auto;
+        justify-content: center;
+        align-items: center;
+        padding: 10px;
+        width: 95%;
+    }
+
+    .business-info{
+        width: 40%;
+        margin: 20px;
+        padding: 10px;
+    }
+
+    #app-model{
+        width: 100%;
+        max-width: 600px;
+    }
 }
