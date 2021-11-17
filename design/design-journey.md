@@ -945,6 +945,8 @@ when(x button in text box 3 clicked){
 
 #### Invest Page
 html:
+TIMELINE
+ timeline: '<div class="timeline">'
 CAROUSEL
 right button: `button id="right"`
 left button: `button id="left"`
