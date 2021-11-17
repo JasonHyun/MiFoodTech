@@ -153,11 +153,12 @@ nav{
         width: 70%;
     }
     .marketSize div.graph{
-        margin-right: 10px;
+        margin-left: 10px;
         width: 30%;
     }
     .marketSize div.graph img{
         width: 100%;
+        margin-left: 10px;
     }
 
     .industryOutlook div.text{
@@ -165,11 +166,11 @@ nav{
     }
     .industryOutlook img{
         width: 50%;
-        margin-left: 10px;
+        margin-right: 10px;
     }
 
     .laborCosts img{
         width: 70%;
-        margin-right: 10px;
+        margin-left: 10px;
     }
 }
