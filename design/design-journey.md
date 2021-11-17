@@ -1021,7 +1021,13 @@ wok a: `<figure class = "wok panel" id = "wok_a">`
 wok b: `<figure class = "wok panel" id = "wok_b">`
 wok c: `<figure class = "wok panel" id = "wok_c">`
 cooking potatoes diagram: `<figure class = "cooking panel" id = "cooking-diagram">`
-entire lightbox: `<div class = "tech-images lightbox">`
+entire lightbox: `<div class = "tech-images">`
+
+Popup versions of images:
+wok a: `<img class = "large" id = "wok-a-popup">`
+wok b: `<img class = "large" id = "wok-b-popup" >`
+wok c: `<img class = "large" id = "wok-c-popup">`
+cooking: `<img class = "large" id = "cooking-popup">`
 
 <!-- hamburger menu -->
 - hamburger menu: `button id="hamburger"`
@@ -1044,22 +1050,22 @@ each button has class `nav-button`
 ```
 when user clicks on #wok_a element:
     remove .hidden class from .exit class
-    add .large class to #wok_a;
+    remove hidden class from .wok-a-popup
     show .dim class;     
 
 when user clicks on #wok_b element:
     remove .hidden class from .exit class
-    add .large class to #wok_b;
+    remove hidden class from .wok-b-popup
     show .dim class;     
 
 when user clicks on #wok_c element:
     remove .hidden class from .exit class
-    add .large class to #wok_c;
+    remove hidden class from .wok-c-popup
     show .dim class;  
 
 when user clicks on #cooking element:
     remove .hidden class from .exit class
-    add .large class to #cooking;
+    remove hidden class from .cooking-popup
     show .dim class;
 
 when user clicks on .exit button:
