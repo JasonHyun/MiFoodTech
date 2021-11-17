@@ -54,21 +54,19 @@ nav{
         justify-content: center;
         align-items: center;
         padding: 10px;
-        width: 95%;
-        /* margin: 10px; */
-    }
-
-    #comp-chart{
-        width: 100%;
-        /* min-width: 50%; */
-        max-width: 500px;
-        margin: 20px;
+        width: 90%;
+        /* border: 2px solid; */
     }
 
     .whyus-info{
         width: 40%;
-        margin: 20px;
+        margin: 10px;
         padding: 10px;
+    }
+
+    #comp-chart{
+        width: 100%;
+        max-width: 600px;
     }
 
     .technology{
@@ -80,6 +78,7 @@ nav{
     .figure{
         width: 60%;
         margin-bottom: 0px;
+        margin: 10px;
     }
 
     .wok-flex{
@@ -94,7 +93,7 @@ nav{
     }
 
     .cooking{
-        width: 80%;
+        width: 90%;
     }
 
     .business-flex{
@@ -103,17 +102,19 @@ nav{
         justify-content: center;
         align-items: center;
         padding: 10px;
-        width: 95%;
+        width: 90%;
+        /* border: 2px solid; */
     }
 
     .business-info{
         width: 40%;
-        margin: 20px;
+        margin: 10px;
         padding: 10px;
     }
 
     #app-model{
         width: 100%;
         max-width: 600px;
+        margin: 10px;
     }
 }
