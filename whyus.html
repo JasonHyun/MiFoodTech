@@ -8,16 +8,32 @@
 </head>
 
 <body>
-    <h1> Why Us </h1>
     <div class = "navigation">
-        <nav>
-            <a href="index.html" class = "nav-button">Home</a>
-            <a href="whyus.html" class = "nav-button">Why Us</a>
-            <a href="market.html" class = "nav-button">Market</a>
-        </nav>
+        <header>
+            <a class="header-left" href="index.html">
+            <!-- Source: Mi Yang (client) -->
+            <img class="logo" src="assets/images/logo.png" alt=""/>
+            <h1 class="title">MiFoodTech</h1>
+            </a>
+
+            <div class="source-ham">
+            <button id="hamburger"> ☰ </button>
+            <button class="hidden-m" id="close"> ｘ </button>
+            </div>
+
+            <nav class="hidden-m navi" id="menu">
+                <ul>
+                    <li class="selected"><a href="index.html">Home</a></li>
+                    <!-- <li><a href="team.html">Team</a></li> -->
+                    <li><a href="whyus.html">Why Us</a></li>
+                    <li><a href="market.html">Market</a></li>
+                    <li><a href="invest.html">Invest</a></li>
+                 </ul>
+            </nav>
+        </header>
     </div>
 
-    <h2> Competitor Benchmarking </h2>
+    <h2> Why Us </h2>
     <h3> We are the only Chinese restaurant automation solution provider in the U.S.</h3>
     <div class = "unique">
         <div class = "whyus-info info-mobile">
@@ -89,6 +105,8 @@
             </figcaption>
         </figure>
         <!-- Source: Mi Yang (client) -->
-
     </div>
+
+    <script src="scripts/jquery-3.6.0.js" type="text/javascript"></script>
+    <script src="scripts/hamburger-menu.js" type="text/javascript"></script>
 </body>
