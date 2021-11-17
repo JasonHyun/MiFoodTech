@@ -909,6 +909,42 @@ css classes
 - `#close` - show after hamburger menu is clicked
 - `#hamburger:hover, #close:hover` - change color and cursor on hover
 
+js planning
+```
+mobile only - when hamburger button is clicked:
+  remove .hidden-m class from #menu element
+  remove .hidden-m class from #close element
+  add .hidden-m to #hamburger element  
+
+mobile only - when close button is clicked:
+  add .hidden-m class to #menu element
+  add .hidden-m class to #close element
+  remove .hidden-m from #hamburger element
+
+every 5 seconds: (timer event snippet)
+  show next slide (next slide snippet)
+  hide all other slides
+  add .active to dot associated with next slide
+  remove .active from all other dots
+
+when next button is clicked:  (on-click-event snippet)
+  show next slide (next slide snippet)
+  hide all other slides
+  add .active to dot associated with next slide
+  remove .active from all other dots
+
+when back button is clicked: (on-click-event snippet)
+  show previous slide (prev slide snippet)
+  hide all other slides
+  add .active to dot associated with previous slide
+  remove .active from all other dots
+
+when #dot is clicked: (on-click-event snippet)
+  show slide x dot is associated with (show slide snippet)
+  add .active to slide x dot
+  remove .active from non slide x dots 
+
+```
 #### Market Page
 elements:
 - div for the graph and the three buttons

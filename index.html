@@ -36,15 +36,17 @@
   </header>
 
   <main>
-    <section>
-      <button class="arrow" id="next"> ❮ </button>
-      <div class="slides">
-        <img class="slide" id="slide1" src="assets/images/kitchen.jpeg" alt="Slide 1"/>
-        <img class="slide" id="slide2" src="assets/images/industryGraph.png" alt="Slide 2"/>
-        <img class="slide" id="slide3" src="assets/images/industryGraph.png.jpg" alt="Slide 3"/>
+    <section class="carousel">
+      <div class="carousel-main">
+        <button class="arrow" id="next"> ❮ </button>
+        <div class="slides">
+          <img class="slide" id="slide1" src="assets/images/kitchen.jpeg" alt="Slide 1"/>
+          <img class="slide hidden" id="slide2" src="assets/images/industryGraph.png" alt="Slide 2"/>
+          <img class="slide hidden" id="slide3" src="assets/images/industryGraph.png.jpg" alt="Slide 3"/>
+        </div>
+        <button class="arrow" id="back"> ❯ </button>
       </div>
       <div class="dots">
-        <button class="arrow" id="back"> ❯ </button>
         <button class="dot active"> • </button>
         <button class="dot"> • </button>
         <button class="dot"> • </button>
