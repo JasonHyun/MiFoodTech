@@ -10,9 +10,31 @@ header{
   align-content: center;
   justify-content: space-between;
   flex-wrap: wrap;
+  padding-left: 5%;
+  padding-right: 5%;
 }
 header h1{
   text-align: left;
+}
+
+/* link styles */
+a{
+  text-decoration: none;
+  color: #9a270c;
+}
+
+a:visited{
+  color: #9a270c;
+}
+
+a:hover{
+  text-decoration: underline;
+  color: #d5635a;
+}
+
+header a:hover {
+  text-decoration: none;
+  color: #d5635a;
 }
 /* nav styles */
 nav{
