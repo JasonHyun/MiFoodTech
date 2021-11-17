@@ -1,11 +1,10 @@
 body{
-
+    font-family: sans-serif;
 }
 
 .hidden{
     display: none;
 }
-
 
 /* why us CSS */
 h1, h2, h3{
