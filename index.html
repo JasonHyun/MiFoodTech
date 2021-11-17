@@ -38,18 +38,20 @@
   <main>
     <section class="carousel">
       <div class="carousel-main">
-        <button class="arrow" id="next"> ❮ </button>
+        <button class="arrow" id="back"> ❮ </button>
         <div class="slides">
-          <img class="slide" id="slide1" src="assets/images/kitchen.jpeg" alt="Slide 1"/>
-          <img class="slide hidden" id="slide2" src="assets/images/industryGraph.png" alt="Slide 2"/>
-          <img class="slide hidden" id="slide3" src="assets/images/industryGraph.png.jpg" alt="Slide 3"/>
+          <img class="slide" id="slide1" src="assets/images/slide1.jpg" alt="Slide 1"/>
+          <img class="slide hidden" id="slide2" src="assets/images/slide2.jpg" alt="Slide 2"/>
+          <img class="slide hidden" id="slide3" src="assets/images/slide3.jpg" alt="Slide 3"/>
+          <img class="slide hidden" id="slide4" src="assets/images/slide4.jpg" alt="Slide 4"/>
         </div>
-        <button class="arrow" id="back"> ❯ </button>
+        <button class="arrow" id="next"> ❯ </button>
       </div>
       <div class="dots">
-        <button class="dot active"> • </button>
-        <button class="dot"> • </button>
-        <button class="dot"> • </button>
+        <button class="dot active" id="dot1"> • </button>
+        <button class="dot" id="dot2"> • </button>
+        <button class="dot" id="dot3"> • </button>
+        <button class="dot" id="dot4"> • </button>
       </div>
     </section>
 
@@ -75,7 +77,7 @@
     </section>
 
     <h2 class="home"> Our Solution </h2>
-    <section id="solution">
+    <section class="content" >
       <div class="text-content">
         <p> We use robots to help Chinese restaurants reduce labor costs and improve food quality.</p>
         <p> MiFood Tech is a kitchen robot startup that aims to provide automated solutions for Chinese restaurants and kitchens, and to reduce labor costs while maintaining a high quality of cuisine.</p>
@@ -85,7 +87,7 @@
         <p>Currently, we are developing our intelligent woks. To test the prototypes, we plan to launch our pilot restaurant “TANR” to service traditional Chinese dishes and rice bowls in downtown Ithaca next summer.
         </p>
       </div>
-      <img src="assets/images/floorplan.jpeg" alt="image of chef cooking"/>
+      <img src="assets/images/floorplan.jpeg" alt="image of robot restaurant floor plan"/>
 
     </section>
 
@@ -97,5 +99,6 @@
 
   <script src="scripts/jquery-3.6.0.js" type="text/javascript"></script>
   <script src="scripts/hamburger-menu.js" type="text/javascript"></script>
+  <script src="scripts/slideshow.js" type="text/javascript"></script>
 </body>
 </html>
