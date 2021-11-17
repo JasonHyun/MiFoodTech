@@ -2,6 +2,11 @@ body{
 
 }
 
+.hidden{
+    display: none;
+}
+
+
 /* why us CSS */
 h1, h2, h3{
     text-align: center;
@@ -47,6 +52,29 @@ nav{
     width: 100%;
 }
 
+/* Market css */
+.marketSize, .industryOutlook,  .laborCosts{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    width: 90%;
+    margin: auto;
+    margin-top: 50px;
+}
+.marketSize, .industryOutlook, .laborCosts div{
+    width: 95%;
+}
+.marketSize .graph img{
+    width: 100%;
+}
+.industryOutlook img{
+    width: 100%;
+}
+.laborCosts img{
+    width: 100%;
+}
+/* 800px Dekstop Size*/
 @media(min-width: 800px){
     .unique{
         display:flex;
@@ -116,5 +144,33 @@ nav{
         width: 100%;
         max-width: 600px;
         margin: 10px;
+    }
+
+    .marketSize, .industryOutlook,  .laborCosts{
+        flex-direction: row;
+    }
+
+    .marketSize div.text{
+        width: 70%;
+    }
+    .marketSize div.graph{
+        margin-right: 10px;
+        width: 30%;
+    }
+    .marketSize div.graph img{
+        width: 100%;
+    }
+
+    .industryOutlook div.text{
+        width: 50%;
+    }
+    .industryOutlook img{
+        width: 50%;
+        margin-left: 10px;
+    }
+
+    .laborCosts img{
+        width: 70%;
+        margin-right: 10px;
     }
 }
