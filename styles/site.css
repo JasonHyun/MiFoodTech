@@ -139,7 +139,7 @@ button{
   padding-left: 5%;
 }
 
-/* why us CSS */
+/* why us mobile CSS */
 h1, h2, h3{
     text-align: center;
 }
@@ -237,6 +237,8 @@ h1, h2, h3{
   #hamburger, #close{
     display: none;
   }
+
+     /* Why Us CSS desktop*/
     .unique{
         display:flex;
         margin:10px auto;
@@ -307,6 +309,23 @@ h1, h2, h3{
         margin: 10px;
     }
 
+    /* .hidden{
+        display:none;
+    } */
+
+    .large{
+        width: 700px;
+        height: 700px;
+    }
+
+    .light-item:hover{
+        border: 2px solid;
+        border-style: outset;
+        border-color:#d5635a;
+    }
+
+
+/* market CSS */
     .marketSize, .industryOutlook,  .laborCosts{
         flex-direction: row;
     }
