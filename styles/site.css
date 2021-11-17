@@ -2,8 +2,91 @@ body{
     font-family: sans-serif;
 }
 
-.hidden{
-    display: none;
+
+header{
+  display: flex;
+  align-items: center;
+  position: relative;
+  align-content: center;
+  justify-content: space-between;
+}
+header h1{
+  text-align: left;
+}
+/* nav styles */
+nav{
+  background-color: #d5635a;
+}
+nav a {
+  text-decoration: none;
+  color: #fff5eb;
+}
+
+nav a:visited{
+  color: #fff5eb;
+}
+
+nav a:hover{
+  text-decoration: underline;
+  color: #fff5eb;
+}
+
+nav ul {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0;
+  margin-top:0;
+}
+
+nav ul li {
+  font-size: 1.1em;
+  text-transform: lowercase;
+  padding: .25em .5em;
+}
+
+nav ul li a {
+  display: block;
+  color: #fff5eb;
+}
+
+button{
+  color: black;
+  background-color: white;
+  font-family: Avenir, sans-serif;
+  font-size: 1.2em;
+  letter-spacing: .75px;
+  font-weight: bold;
+  padding: 5px 20px;
+  border: 2px solid #d5635a;
+}
+
+.header-left{
+  display: flex;
+  align-items: center;
+  position: relative;
+  align-content: center;
+}
+
+
+.logo{
+  display: inline-block;
+  position: relative;
+  margin: .5em 1em;
+}
+
+.selected{
+  text-decoration: underline solid 2px white;
+}
+
+#hamburger, #close{
+  color: #9a270c;
+  background-color: #fff5eb;
+}
+#hamburger:hover, #close:hover{
+  background-color: #d5635a;
+  color: #fff5eb;
 }
 
 /* why us CSS */
@@ -11,10 +94,10 @@ h1, h2, h3{
     text-align: center;
 }
 
-nav{
+/* nav{
     display: flex;
     justify-content: space-around;
-}
+} */
 
 .whyus-info{
     /* width: 90%; */
@@ -73,8 +156,26 @@ nav{
 .laborCosts img{
     width: 100%;
 }
+
+.hidden{
+    display: none;
+}
+
+@media screen and (max-width: 800px) {
+  .hidden-m{
+    display: none;
+  }
+
+}
 /* 800px Dekstop Size*/
 @media(min-width: 800px){
+  nav ul{
+    flex-direction: row;
+  }
+
+  #hamburger, #close{
+    display: none;
+  }
     .unique{
         display:flex;
         margin:10px auto;
