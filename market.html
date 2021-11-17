@@ -8,14 +8,29 @@
     <link rel="stylesheet" type="text/css" href="styles/site.css" media="all"/>
 </head>
 <body>
+    <header>
+      <a class="header-left" href="index.html">
+        <!-- Source: Mi Yang (client) -->
+        <img class="logo" src="assets/images/logo.png" alt=""/>
+        <h1 class="title">MiFoodTech</h1>
+      </a>
+
+      <div class="source-ham">
+        <button id="hamburger"> ☰ </button>
+        <button class="hidden-m" id="close"> ｘ </button>
+      </div>
+
+      <nav class="hidden-m navi" id="menu">
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="whyus.html">Why Us</a></li>
+            <li class="selected"><a href="market.html">Market</a></li>
+            <li><a href="invest.html">Invest</a></li>
+          </ul>
+      </nav>
+    </header>
+
     <h1> Market </h1>
-    <div class = "navigation">
-        <nav>
-            <a href="index.html" class = "nav-button">Home</a>
-            <a href="whyus.html" class = "nav-button">Why Us</a>
-            <a href="market.html" class = "nav-button">Market</a>
-        </nav>
-    </div>
 
     <section class = "marketSize">
         <div class = "text">
@@ -28,17 +43,20 @@
         </div>
         <div class = "graph">
             <img src = "assets/images/marketSizeGraph.png" alt = "market size graph">
-            <button type = "button" id = "TAM">TAM</button>
             <button type = "button" id = "SAM">SAM</button>
             <button type = "button" id = "SOM">SOM</button>
-            <div class = "textBox hidden" id = "circle1">
-                <button type = "button" id = "close1">x</button>
+            <button type = "button" id = "TAM">TAM</button>
+            <div class = "textBox">
+                <button type = "button" class = "hidden" id = "TAMclose">x</button>
+                <p class = "hidden" id = "TAMtext">This is the Total Available Market. There are over 1 million restaurants in the United States which generate over $659 Billion each year</p>
             </div>
-            <div class = "textBox hidden" id = "circle2">
-                <button type = "button" id = "close2">x</button>
+                <div class = "textBox">
+                <button type = "button" class = "hidden" id = "SAMclose">x</button>
+                <p class = "hidden" id = "SAMtext">This is the Serviceable Available Market. Of the 1 million restaurants in the United States, there are over 40,000 Chinese restaurants and even more restaurants that serve other Asian cuisines. These generate a revenue of $15.4 billion a year.</p>
             </div>
-            <div class = "textBox hidden" id = "circle3">
-                <button type = "button" id = "close3">x</button>
+            <div class = "textBox">
+                <button type = "button" class = "hidden" id = "SOMclose">x</button>
+                <p class = "hidden" id = "SOMtext">This is the Serviceable Obtainable Market. We believe that this is the portion of the SAM that we can capture. It is a total of 12,000 Chinese restaurants which would generate about $120 million a year.</p>
             </div>
         </div>
     </section>
@@ -62,4 +80,8 @@
         <img src = "assets/images/laborCostsTable.jpg" alt = "labor costs comparison table">
     </section>
 
+    <script src="scripts/jquery-3.6.0.js" type="text/javascript"></script>
+    <script src="scripts/hamburger-menu.js" type="text/javascript"></script>
+    <script src="scripts/marketGraph.js" type="text/javascript"></script>
 </body>
+</html>

@@ -831,10 +831,12 @@ At the top of the page is the logo of MiFoodTech next to the company name and a 
 
 ![Final sketch of Mobile Team Page](/design/teamMobile2.jpg)
 
-
 ![Final Iteration of Desktop Invest](/design/future3.jpg)
 
 The mobile design utilizes a hamburger menu for the nav bar. This helps account for the lack of screen size. A carousel is also used to help consolidate the timeline in the desktop version so that the audience a=can easily glance through the years projections with relative ease. This layout is sleek and effective, investors will be able to access important information with ease.
+![Final sketch of Why Us Mobile Design](/design/whyus_mobile3.jpeg)
+
+The mobile design has information organized in the same way as the desktop design. The space is used effectively by making horizontal elements go vertically in order instead. There will not be a lightbox in the mobile design because the images would be squeezed and small if they were horizontally next to each other on a mobile screen, even if they could be made bigger. Instead, the images will fill the mobile screen and be larger pictures to start. The final sketch has a hamburger menu instead of a navigation bar to use space more effectively.
 
 
 
@@ -842,28 +844,17 @@ The mobile design utilizes a hamburger menu for the nav bar. This helps account 
 ![Final sketch of Desktop Home Page](/design/homeDesk-final.jpg)
 The desktop design of the home page has the logo and name of the website on the right side of the screen, and the navigation bar with the page names side-by-side in the same line to maximize screen space. The slideshow takes up the full width of the page to to capture the attention of potential investors and give them a sense of the vision of MiFoodTech's solution, and includes the same left and right arrows and indicator dots as the mobile version. I organized the company background and solution such that the text content is on the left, and the image on the right to leverage the left-to-right reading of our audience. I included a short quote on the left side of the problems content to highlight the key issue that MiFoodTech solves. There is also a footer with contact information on the bottom of the page so that potential investors can reach out to Mi with questions or express their interest in investing.
 
-![Final sketch of Desktop Market/Industry Page](/design/marketDesk1.jpg)
+![Final sketch of Desktop Market/Industry Page](/design/marketDesk2.jpg)
 The final desktop design for the market/industry page is the first iteration from above. The graphs are spaced out around the page in a way that breaks up the blocks of text and also the positioning of the headers mirrors the positioning in the home page, which creates cohesion between the two pages.
 
 ![Final sketch of Desktop Team Page](/design/teamDesk2.jpg)
 
-
-
-![Final Iteration of Desktop Invest](/design/future1.jpg)
-This streamlined layout uses a hover timeline which increases audience interactivity and engagement. When an investor or other user hover the mouse over a year on the timeline additional information will appear. Also, additional information in paragraph form will be provided for interested investors and other uses who want to learn more or are seeking to contact MiTechFood. These design choices allow for content that is appropriately spaced and includes the appropriate amount of interactivity.
-
-
-**Why Us Page**
-
-*Desktop*
 ![Final sketch of Why Us Desktop Design](/design/whyus_desktop3.jpeg)
 
 We chose this design because the site's information is organized in the best way to explain why the company is unique, the technology, and the business model. This order was important to help investors understand the company's product. Additionally, we chose the lightbox interactivity because it will display all of the images at the same time, unlike a carousel, so investors can easily browse and get a close-up view of the technology.
 
-*Mobile*
-![Final sketch of Why Us Mobile Design](/design/whyus_mobile3.jpeg)
-
-The mobile design has information organized in the same way as the desktop design. The space is used effectively by making horizontal elements go vertically in order instead. There will not be a lightbox in the mobile design because the images would be squeezed and small if they were horizontally next to each other on a mobile screen, even if they could be made bigger. Instead, the images will fill the mobile screen and be larger pictures to start. The final sketch has a hamburger menu instead of a navigation bar to use space more effectively.
+![Final Iteration of Desktop Invest](/design/future1.jpg)
+This streamlined layout uses a hover timeline which increases audience interactivity and engagement. When an investor or other user hover the mouse over a year on the timeline additional information will appear. Also, additional information in paragraph form will be provided for interested investors and other uses who want to learn more or are seeking to contact MiTechFood. These design choices allow for content that is appropriately spaced and includes the appropriate amount of interactivity.
 
 ### Design Rationale (Milestone 2)
 > Explain why your design is appropriate for your audience. Specially, why does your content organization, navigation, and site design/layout meet the goals of your users? How did you employ design patterns to improve the familiarity of the site for your audience?
@@ -872,7 +863,9 @@ The mobile design has information organized in the same way as the desktop desig
 The home page is designed appropriately for potential investors because the content includes a high level overview of the background of the company, the problem that MiFoodTech solves, and an understanding of the solution MiFoodTech provides. The header follows common design patterns, with the logo, title, and navigation bar displayed from left to right. The slideshow helps convey the big picture by visually showing potential investors what to expect when browsing the website and highlights what MiFoodTech is so that users feel confident and secure in understanding what the website is about. The footer has the contact information and is the same on all pages, which adds to the sense of security since it is a common design pattern and indicates to the user that they have reached the end of the content on the page.
 
 #### Market Page
-This design is appropriate for our audience because it presents information in a way that is easy for investors to get the quantitative data they are looking for. It also maintains consistency with the design of the home page. The interactivity is  ambitious as I will be positioning buttons over images which is something I have never done before and it is appropriate because the content that we got from Mi only has acronyms over sections of the graph and that graph is not as self explanatory as the other ones on the page.
+This design is appropriate for our audience because it presents information in a way that is easy for investors to get the quantitative data they are looking for. It also maintains consistency with the design of the why us page. The interactivity is  ambitious as I will be positioning buttons over images which is something I have never done before and it is appropriate because the content that we got from Mi only has acronyms over sections of the graph and that graph is not as self explanatory as the other ones on the page.
+
+** EDIT 11/17: I changed the order of the pictures and the text so that when you look at the desktop version, the first thing you see is the text not the image. This is because people read from left to right. **
 
 #### Team Page:
 this design is appropriate for our audience, because it presents the members of the team in a space-efficient manner, consistent with the overall theme we've chose on. It also helps with the goals of the users, specifically for those who wish to know more about the team, both collectively and individually.

@@ -185,7 +185,7 @@ h1, h2, h3{
 }
 
 /* Market css */
-.marketSize, .industryOutlook,  .laborCosts{
+.marketSize, .industryOutlook, .laborCosts{
     display: flex;
     flex-direction: column;
     width: 100%;
@@ -199,6 +199,7 @@ h1, h2, h3{
 }
 .marketSize .graph img{
     width: 100%;
+    height: auto;
 }
 .industryOutlook img{
     width: 100%;
@@ -206,6 +207,44 @@ h1, h2, h3{
 .laborCosts img{
     width: 100%;
 }
+.graph{
+    position: relative;
+}
+#TAM {
+    position: absolute;
+    width: 25%;
+    top: 5.5%;
+    bottom: 82.5%;
+    left: 37.5%;
+}
+#SAM {
+    position: absolute;
+    width: 25%;
+    top: 25.5%;
+    bottom: 62.5%;
+    left: 37.5%;
+}
+#SOM {
+    position: absolute;
+    width: 25%;
+    top: 55.5%;
+    bottom: 32.5%;
+    left: 37.5%;
+}
+.textBox{
+    position: absolute;
+    top: 30%;
+    left: 5%;
+    background-color: #ffffff;
+    width: 90%;
+}
+.textBox p{
+    width: 90%;
+    margin: auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
 
 
 
