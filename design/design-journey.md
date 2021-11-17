@@ -1038,10 +1038,12 @@ each button has class `nav-button`
 
 **CSS Classes**
 - `.hidden`- use to hide elements
-- `.large` - use to make images bigger when lightbox appears
+- `.large` - use bigger image to put over the page
 - `.dim` - use to dim background when lightbox appears
 - `.panel:hover` - outline of panel appears when hovered over
 - `.exit` - button used to ex out of lightbox (hidden)
+- `.exit:hover` - dim color when hovered over
+- `light-item:hover` - adds outline when images in lightbox are hovered over
 
 - `#hamburger` - hidden on desktop screens
 - `nav-button:hover` - navigation buttons darken when hovered over
@@ -1069,7 +1071,9 @@ when user clicks on #cooking element:
     show .dim class;
 
 when user clicks on .exit button:
-    add .hidden class to .lightbox;
+    add .hidden class to .large;
+    hide .dim class;
+    add .hidden class to .exit button;
 ```
 ## Client Feedback & Minutes (Milestone 2)
 > You should meet with your client again to obtain feedback on your design.
