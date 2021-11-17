@@ -942,7 +942,7 @@ when back button is clicked: (on-click-event snippet)
 when #dot is clicked: (on-click-event snippet)
   show slide x dot is associated with (show slide snippet)
   add .active to slide x dot
-  remove .active from non slide x dots 
+  remove .active from non slide x dots
 
 ```
 #### Market Page
@@ -1043,20 +1043,27 @@ each button has class `nav-button`
 **Pseudocode**
 ```
 when user clicks on #wok_a element:
+    remove .hidden class from .exit class
     add .large class to #wok_a;
     show .dim class;     
 
 when user clicks on #wok_b element:
+    remove .hidden class from .exit class
     add .large class to #wok_b;
     show .dim class;     
 
 when user clicks on #wok_c element:
+    remove .hidden class from .exit class
     add .large class to #wok_c;
     show .dim class;  
 
 when user clicks on #cooking element:
+    remove .hidden class from .exit class
     add .large class to #cooking;
-    show .dim class;  
+    show .dim class;
+
+when user clicks on .exit button:
+    add .hidden class to .lightbox;
 ```
 ## Client Feedback & Minutes (Milestone 2)
 > You should meet with your client again to obtain feedback on your design.
