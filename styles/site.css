@@ -20,33 +20,33 @@ header h1{
 /* link styles */
 a{
   text-decoration: none;
-  color: #9a270c;
+  color: #103a6d;
 }
 
 a:visited{
-  color: #9a270c;
+  color: #103a6d;
 }
 
 a:hover{
   text-decoration: underline;
-  color: #d5635a;
+  color: #90beff;
 }
 
 header a:hover {
   text-decoration: none;
-  color: #d5635a;
+  color: #90beff;
 }
 /* nav styles */
 nav{
-  background-color: #d5635a;
+  background-color: #90beff;
 }
 nav a {
   text-decoration: none;
-  color: #fff5eb;
+  color: white;
 }
 
 nav a:visited{
-  color: #fff5eb;
+  color: white;
 }
 
 nav a:hover{
@@ -70,14 +70,14 @@ nav ul li {
 
 nav ul li a {
   display: block;
-  color: #fff5eb;
+  color: white;
 }
 
 /* footer styles */
 footer{
   text-align: center;
   padding: 40px;
-  background-color: #ffd0cc;
+  background-color: #bbd7ff;
 }
 /* button styles */
 button{
@@ -88,10 +88,10 @@ button{
   letter-spacing: .75px;
   font-weight: bold;
   padding: 5px 20px;
-  border: 2px solid #d5635a;
+  border: 2px solid #90beff;
 }
 button:hover{
-  background-color: #d5635a;
+  background-color: #90beff;
   cursor: pointer;
   opacity: 100%;
 }
@@ -134,11 +134,11 @@ button:hover{
     display: none;
 }
 #hamburger, #close{
-  color: #9a270c;
+  color: #103a6d;
   background-color: #fff5eb;
 }
 #hamburger:hover, #close:hover{
-  background-color: #d5635a;
+  background-color: #90beff;
   color: #fff5eb;
 }
 
@@ -147,8 +147,8 @@ button:hover{
 .carousel-main{
   display: flex;
   flex-direction: row;
-  border-top: 2px solid #d5635a;
-  border-bottom:2px solid #d5635a;
+  border-top: 2px solid #90beff;
+  border-bottom:2px solid #90beff;
 }
 .slides img{
   width: 100%;
@@ -161,8 +161,8 @@ button:hover{
   opacity: 70%;
 }
 .active{
-  background-color: #ffd0cc;
-  color: red;
+  background-color: #bbd7ff;
+  color: blue;
 }
 .carousel button{
   border: none;
