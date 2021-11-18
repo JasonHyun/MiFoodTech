@@ -283,6 +283,32 @@ h1, h2, h3{
     margin-top: 10px;
 }
 
+.founder {
+  display:flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.label {
+  text-align:center;
+
+}
+
+
+.row {
+  display:flex;
+  flex-direction:row;
+  justify-content: center;
+  align-items: center;
+}
+
+.item {
+  padding: 25px;
+  display:block;
+  text-align:center;
+}
+
+
 
 
 
@@ -294,6 +320,11 @@ h1, h2, h3{
 }
 /* 800px Dekstop Size*/
 @media(min-width: 800px){
+  .group {
+    display:flex;
+    justify-content: center;
+  }
+
   .header-left{
     order: 0;
   }
@@ -479,4 +510,7 @@ h1, h2, h3{
     .hidden{
       display: none;
     }
+
+
+
 }

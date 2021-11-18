@@ -829,7 +829,8 @@ At the top of the page is the logo of MiFoodTech next to the company name and a 
 
 ![Final sketch of Mobile Market Page](/design/marketMobile1.jpg)
 
-![Final sketch of Mobile Team Page](/design/teamMobile2.jpg)
+![Final sketch of Mobile Team Page](/design/teamMobile_final.jpg)
+The final mobile design incorporates most features from the second iteration, where the headshots and names of the members are displayed in vertical pairs, with two columns. As per our client's request, the members will also be divided into three groups: the Founder, Group A (engineering team), and Group B (management team).
 
 ![Final Iteration of Desktop Invest](/design/future3.jpg)
 
@@ -847,7 +848,8 @@ The desktop design of the home page has the logo and name of the website on the 
 ![Final sketch of Desktop Market/Industry Page](/design/marketDesk2.jpg)
 The final desktop design for the market/industry page is the first iteration from above. The graphs are spaced out around the page in a way that breaks up the blocks of text and also the positioning of the headers mirrors the positioning in the home page, which creates cohesion between the two pages.
 
-![Final sketch of Desktop Team Page](/design/teamDesk2.jpg)
+![Final sketch of Desktop Team Page](/design/teamDesktop_final.jpg)
+The organization of contents for the final Desktop page will be similar to the Mobile page, where the logo and navigation bar are followed by a description of the team, as well as the three categories of the members.
 
 ![Final sketch of Why Us Desktop Design](/design/whyus_desktop3.jpeg)
 
@@ -868,7 +870,7 @@ This design is appropriate for our audience because it presents information in a
 ** EDIT 11/17: I changed the order of the pictures and the text so that when you look at the desktop version, the first thing you see is the text not the image. This is because people read from left to right. **
 
 #### Team Page:
-this design is appropriate for our audience, because it presents the members of the team in a space-efficient manner, consistent with the overall theme we've chose on. It also helps with the goals of the users, specifically for those who wish to know more about the team, both collectively and individually.
+This design is appropriate for our audience, because it presents the members of the team in a space-efficient manner, consistent with the overall theme we've chose on. It also helps with the goals of the users, specifically for those who wish to know more about the team, both collectively and individually.
 
 #### Invest Page:
 This design is appropriate for our audience because it presents important information on company outlook and future projections. It also has connect information and other opportunities if investors of other interested individuals want to reach out to connect with MiTechFood. It is a straightforward way for investors to get information they need to assess whether or not/ how much money and time they would like to invest in MiTechFood. The organization, navigation, and site design/layout meet the goals of my users and employs design patterns such as a timelines hover, carousel, and hamburger menu nav bar (mobile layout) to create an interactive and engaging experience. The use of the hover and carousel feature also draws user attention to important aspects about future trajectory and investment which is an emphasis especially for an audience of investors.
