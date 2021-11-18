@@ -29,7 +29,7 @@ a:visited{
 
 a:hover{
   text-decoration: underline;
-  color: #90beff;
+  color: white;
 }
 
 header a:hover {
@@ -42,11 +42,11 @@ nav{
 }
 nav a {
   text-decoration: none;
-  color: white;
+  color: black;
 }
 
 nav a:visited{
-  color: white;
+  color: black;
 }
 
 nav a:hover{
@@ -70,7 +70,7 @@ nav ul li {
 
 nav ul li a {
   display: block;
-  color: white;
+  color: black;
 }
 
 /* footer styles */
@@ -135,11 +135,11 @@ button:hover{
 }
 #hamburger, #close{
   color: #103a6d;
-  background-color: #fff5eb;
+  background-color: #bbd7ff;
 }
 #hamburger:hover, #close:hover{
   background-color: #90beff;
-  color: #fff5eb;
+  color: white;
 }
 
 /* home page css */
