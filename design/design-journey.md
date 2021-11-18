@@ -973,7 +973,25 @@ when(x button in text box 3 clicked){
 }
 
 #### Team Page
+HTML:
+- div for each different group of team
+- div for each item of group
+- div for each row of items
+- images of headshots of members
+- text elements for headers and names
 
+CSS:
+- .founder class for the sole founder category
+- .row class for the row of items
+- .item class for each headshot-name pair
+
+JS General Algorithm:
+```
+when headshot is clicked:
+    remove hidden from banner of headshot member
+when close icon clicked:
+    add hidden to banner of headshot member
+```
 #### Invest Page
 html:
 TIMELINE
