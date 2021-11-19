@@ -419,8 +419,8 @@ h1, h2, h3{
     flex-direction: row;
   }
 
-     /* Why Us CSS desktop*/
-    .unique{
+  /* Why Us CSS desktop*/
+  .unique{
         display:flex;
         margin:10px auto;
         justify-content: center;
@@ -428,47 +428,47 @@ h1, h2, h3{
         padding: 10px;
         width: 90%;
         /* border: 2px solid; */
-    }
+  }
 
-    .whyus-info{
+  .whyus-info{
         width: 40%;
         margin: 10px;
-        padding: 10px;
-    }
+  }
 
-    #comp-chart{
+  #comp-chart{
         width: 100%;
-        max-width: 600px;
-    }
+  }
 
-    .technology{
+  .technology{
         margin: 0px auto;
         text-align: center;
         width: 90%;
-    }
+        /* border: 2px solid; */
+  }
 
-    .figure{
+  .figure{
         width: 60%;
         margin-bottom: 0px;
         margin: 10px;
-    }
+  }
 
-    .wok-flex{
+  .wok-flex{
         display: flex;
         justify-content:center;
         width: 90%;
         margin: 10px auto;
-    }
+  }
 
-    .wok{
+  .wok{
         height: 90%;
-    }
+  }
 
-    .cooking{
+  .cooking{
         width: 90%;
-    }
+        margin: 0px auto;
+  }
 
-    .business-flex{
+  .business-flex{
         display:flex;
         margin:10px auto;
         justify-content: center;
@@ -476,40 +476,33 @@ h1, h2, h3{
         padding: 10px;
         width: 90%;
         /* border: 2px solid; */
-    }
+  }
 
-    .business-info{
+  .business-info{
         width: 40%;
         margin: 10px;
-        padding: 10px;
-    }
+  }
 
-    #app-model{
+  #app-model{
         width: 100%;
-        max-width: 600px;
-        margin: 10px;
-    }
+        margin: 20px;
+  }
 
-    /* .hidden{
-        display:none;
-    } */
-
-    .large{
+  .large{
         width: 65%;
         display: block;
         margin: 0px auto;
         max-width: 650px;
         z-index: 3;
         position: absolute;
-    }
+  }
 
-    .light-item:hover{
-        border: 2px solid;
-        border-style: outset;
-        border-color:#d5635a;
-    }
+  .light-item:hover{
+        border: 5px solid;
+        border-color:#90beff;
+  }
 
-    .dim{
+  .dim{
         position: fixed;
         display: none;
         background-color: black;
@@ -521,13 +514,13 @@ h1, h2, h3{
         right: 0;
         left: 0;
         bottom: 0;
-    }
+  }
 
-    .exit{
+  .exit{
         z-index: 3;
         position: relative;
         float: right;
-    }
+  }
 /* market CSS */
     .marketSize, .industryOutlook,  .laborCosts{
         flex-direction: row;
