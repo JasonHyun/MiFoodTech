@@ -234,14 +234,14 @@ h1, h2, h3{
     margin: 0px auto;
 }
 
-#comp-chart{
-    width: 90%;
-}
-
 .figure{
     width:90%;
     margin: 10px auto;
     margin-bottom: 30px;
+}
+
+#comp-chart{
+    width: 100%;
 }
 
 #cooking-diagram{
