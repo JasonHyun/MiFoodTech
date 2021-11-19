@@ -204,13 +204,7 @@ h1, h2, h3{
     text-align: center;
 }
 
-/* nav{
-    display: flex;
-    justify-content: space-around;
-} */
-
 .whyus-info{
-    /* width: 90%; */
     margin: 0px auto;
 }
 
@@ -222,6 +216,7 @@ h1, h2, h3{
     width:90%;
     margin: 10px auto;
     margin-bottom: 30px;
+    max-width: 500px;
 }
 
 #cooking-diagram{
@@ -234,7 +229,6 @@ h1, h2, h3{
 }
 
 .info-mobile{
-    /* width: 100%; */
     padding: 10px;
     margin: 0px auto;
     margin: 10px;
@@ -419,7 +413,7 @@ h1, h2, h3{
     flex-direction: row;
   }
 
-  /* Why Us CSS desktop*/
+/* Why Us CSS desktop*/
   .unique{
         display:flex;
         margin:10px auto;
@@ -457,6 +451,7 @@ h1, h2, h3{
         justify-content:center;
         width: 90%;
         margin: 10px auto;
+        margin-bottom: 30px;
   }
 
   .wok{
@@ -466,6 +461,8 @@ h1, h2, h3{
   .cooking{
         width: 90%;
         margin: 0px auto;
+        margin-bottom: 20px;
+        max-width: 1500px;
   }
 
   .business-flex{
@@ -490,16 +487,25 @@ h1, h2, h3{
 
   .large{
         width: 65%;
-        display: block;
-        margin: 0px auto;
+        display: inline-block;
+        margin: 0 auto;
         max-width: 650px;
         z-index: 3;
-        position: absolute;
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate( -50%, -50% );
+  }
+
+  #cooking-popup{
+      width: 95%;
+      max-width: 1500px;
   }
 
   .light-item:hover{
         border: 5px solid;
         border-color:#90beff;
+        cursor: pointer;
   }
 
   .dim{
@@ -518,8 +524,10 @@ h1, h2, h3{
 
   .exit{
         z-index: 3;
-        position: relative;
+        position: fixed;
         float: right;
+        top: 0;
+        right:0;
   }
 /* market CSS */
     .marketSize, .industryOutlook,  .laborCosts{

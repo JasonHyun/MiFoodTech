@@ -21,32 +21,38 @@
 // when user clicks on .exit button:
 //     add .hidden class to .lightbox;
 
+
 $("#wok_a").click(function(){
     $(".exit").removeClass("hidden");
     $("#wok-a-popup").removeClass("hidden");
     $(".dim").show();
+    document.body.style.overflow = 'hidden';
 });
 
 $("#wok_b").click(function(){
     $(".exit").removeClass("hidden");
     $("#wok-b-popup").removeClass("hidden");
     $(".dim").show();
+    document.body.style.overflow = 'hidden';
 });
 
 $("#wok_c").click(function(){
     $(".exit").removeClass("hidden");
     $("#wok-c-popup").removeClass("hidden");
     $(".dim").show();
+    document.body.style.overflow = 'hidden';
 });
 
 $("#cooking-diagram").click(function(){
     $(".exit").removeClass("hidden");
     $("#cooking-popup").removeClass("hidden");
     $(".dim").show();
+    document.body.style.overflow = 'hidden';
 });
 
 $(".exit").click(function(){
     $(".large").addClass("hidden");
     $(".dim").hide();
     $(".exit").addClass("hidden");
+    document.body.style.overflow = 'scroll';
 });
