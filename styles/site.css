@@ -1,6 +1,6 @@
 body{
   font-family: Avenir, sans-serif;
-  font-size: 1.3em;
+  font-size: 1.1em;
 }
 
 header{
@@ -390,12 +390,19 @@ h1, h2, h3{
 }
 
 @media screen and (max-width: 1000px) {
+  body{
+    font-size: 1.1em;
+  }
   .hidden-m{
     display: none;
   }
+
 }
 
 @media screen and (min-width: 1000px) {
+  body{
+    font-size: 1.3em;
+  }
   .header-left{
     order: 0;
   }
