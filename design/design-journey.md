@@ -1195,11 +1195,11 @@ TODO
 ### User Testing Tasks (Final Submission)
 > Plan out your user testing tasks before doing your user testing. These must be actual user testing tasks. **Tasks are not questions!**
 
-1. TODO
+1. You want to learn more about the founder of MiFoodTech and understand his background. Find what makes him qualified to run this startup.
 
-2. TODO
+2. You are a medium sized Chinese restaurant owner and want to know how much you would save if you used MiFoodTech's product. Find out the savings from investment in MiFoodTech's intelligent woks for a medium sized restaurant.
 
-3. TODO
+3. You want to understand the future plans of MiFoodTech before you decide to invest. Find out what MiFoodTech plans to accomplish in 2022.
 
 
 ### User 1 - Testing Notes (Final Submission)
