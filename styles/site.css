@@ -143,7 +143,12 @@ button:hover{
 }
 
 .hidden{
-    display: none;
+  position: absolute;
+  left: -100000px;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
 }
 #hamburger, #close{
   color: #103a6d;
@@ -394,7 +399,12 @@ h1, h2, h3{
     font-size: 1.1em;
   }
   .hidden-m{
-    display: none;
+    position: absolute;
+    left: -100000px;
+    top: auto;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
   }
 
 }
@@ -425,7 +435,12 @@ h1, h2, h3{
     flex-direction: row;
   }
   #hamburger, #close{
-    display: none;
+    position: absolute;
+    left: -100000px;
+    top: auto;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
   }
 }
 
@@ -610,7 +625,12 @@ h1, h2, h3{
     }
 
     .hidden{
-      display: none;
+      position: absolute;
+      left: -100000px;
+      top: auto;
+      width: 1px;
+      height: 1px;
+      overflow: hidden;
     }
 
 
