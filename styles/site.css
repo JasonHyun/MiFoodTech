@@ -641,6 +641,21 @@ h1, h2, h3{
       overflow: hidden;
     }
 
+    .carousel-main{
+      justify-content: center;
+
+    }
+
+    .investp{
+      text-align: center;
+      margin: 50px;
+    }
+
+    .testrest{
+      display: flex;
+      flex-direction: row;
+    }
+
 
 
 }
