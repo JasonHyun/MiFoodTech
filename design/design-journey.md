@@ -1181,12 +1181,27 @@ Additional content needed:
 > Use the FireFox screenshot feature to take screenshots of the entire page.
 
 **Mobile Screenshots:**
-TODO
+![tested mobile home page](home-test-m.png)
+
+![tested mobile why us page](why-us-test-m.png)
+
+![tested mobile market page](market-test-m.png)
+
+![tested mobile invest page](invest-test-m.png)
+
+![tested mobile team page](team-test-m.png)
 
 
 **Desktop Screenshots:**
-TODO
+![tested desktop home page](home-test-d.png)
 
+![tested desktop why us page](why-us-test-d.png)
+
+![tested desktop market page](market-test-d.png)
+
+![tested desktop invest page](invest-test-d.png)
+
+![tested desktop team page](team-test-d.png)
 
 ## User Testing (Final Submission)
 
