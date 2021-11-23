@@ -1220,7 +1220,26 @@ Additional content needed:
 ### User 1 - Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test. Place your notes here.
 
-TODO
+In hs, interned at vc firm, part of Cornell venture capital club since freshman year, part of eLab startup, is senior studying cs, working at meta after graduating
+
+Task 1
+Clicks on the team page, notices that team description has misspelled words - vary is spelled wrong, does not click on the name
+Our story is not grammatically correct
+Headshot looks scary
+Goes to home to check story
+Does not know what makes him qualified
+
+Task 2
+Clicks on why us page
+Should put themselves first in why us table - confused by table at first
+Doesn’t know savings
+
+Task 3
+Clicks on invest page,
+Too many words
+Diff fonts in slides vs website
+Sees in slide 4&d center, test restaurant, angel investment
+Is visibly annoyed at the changing image sizes of carousel, moves too quickly
 
 
 ### User 1 (Final Submission)
@@ -1228,34 +1247,74 @@ TODO
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-TODO
+The user is a senior at Cornell studying CS and will be working at Meta after graduation. She has been involved in Cornell Venture Capital club since freshman year, has worked at a venture capital firm in the past, and is currently involved in a startup.
 
 
 2. Does the user belong to your audience of the site? (Yes / No)
 > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-TODO
+Yes, the user has experience in venture capital and is involved in the startup scene at Cornell.
 
 
 ### User 1 Results (Final Submission)
 > Report the results of your user's test. You should explain **what the user did**, describe the user's **reaction/feedback** to the design, **reflect on the user's performance**, determine what **re-design choices** you will make **for EACH task**. You can also add any additional comments.
 
-Task: TODO: copy task here
+Task 1: You want to learn more about the founder of MiFoodTech and understand his background. Find what makes him qualified to run this startup.
 - **Did you evaluate the desktop or mobile design?**
-  - Pick one: desktop/mobile
+  - desktop
 - **How did the user do? Did they meet your expectation?**
-  - TODO
+  - the user did not do what we expected
+  - the user did click on the team page, but did not discover the interactivity on the page so they did not successfully complete the task
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-  - TODO
+  - user found headshot of founder scary, did not click on headshot
+  - words spelled incorrectly on team page
+  - went to home page to read background story, did not get info on why he is qualified
 - **Your reflections about the user’s performance to the task**
-  - TODO
+  - the content organization makes sense since the user immediately went to the team page
+  - however, lack of affordances for interactive image means that it is hard for users to see the hidden content
 - **Re-design choices**
-  - TODO
+  - make headshot seem more clickable (ie adding dropshadow to make it seem more like a button or hover + border around image + change cursor) or add text that says something like "learn more" that show the background of each member when clicked
+  - revise text on team page to be gramatically correct
 - **Additional Notes**
-  - TODO: Justify your decisions; additional notes.
+  - need to add more affordances to team page interactivity since it wasn't immediately obvious to the user that the headshot was clickable
+  - content should be free of grammatical errors to make user trust company more
+  - maybe ask for a different headshot?
 
-TODO...
 
+Task 2: You are a medium sized Chinese restaurant owner and want to know how much you would save if you used MiFoodTech's product. Find out the savings from investment in MiFoodTech's intelligent woks for a medium sized restaurant.
+- **Did you evaluate the desktop or mobile design?**
+  - desktop
+- **How did the user do? Did they meet your expectation?**
+  - the user did not go to the market page as expected and was unable to complete the task
+  - went to why us page, scanned content but could not find the info
+- **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+  - clicked on why us page, commented that they should put mifoodtech first on the table bc was confused by what moley was
+- **Your reflections about the user’s performance to the task**
+  - content organization + information hierarchy needs to be revised; user did not know to click on market page
+- **Re-design choices**
+  - rename market page / redo card sort for why us and market page
+  - add descriptive titles to tables
+- **Additional Notes**
+  - shouldn't assume that user has the time to read through all of the content - a descriptive title to table (ideally above the table so that it's the first thing the user sees) would improve the user experience by making the user more confident in understanding what is on the page and helps users scanning quickly through the pages
+  - market page name is vague and does not fit the mental model that this user had for the info they were looking for; either rename to better reflect what is on the page or card sort again so that content grouping makes more sense for audience goals
+
+Task 3: You want to understand the future plans of MiFoodTech before you decide to invest. Find out what MiFoodTech plans to accomplish in 2022.
+- **Did you evaluate the desktop or mobile design?**
+  - desktop
+- **How did the user do? Did they meet your expectation?**
+  - the user clicked on the invest page as expected and was able to complete the task successfully
+- **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+  - too many words in customer acquisition strategy
+  - was annoyed by the slideshow changing dimensions, wanted to stay on slide longer to read content
+  - noted different fonts in slides vs website
+- **Your reflections about the user’s performance to the task**
+  - content organization made sense since user went immediately to invest page
+  - visual design issues with slideshow
+  - slideshow might not make the most sense for the content on this page since the timeline is something that users expect all at once
+- **Re-design choices**
+  - either: edit content in slideshow so that the font is the same and has the same image size and make it a carousel that doesn't automatically advance; or: don't use a slideshow at all (maybe accordian with each milestone year?)
+- **Additional Notes**
+  - user was annoyed by the changing size of the slideshow content since it wasn't what they expected so need to fix this; however, need to consider if a slideshow actually makes sense for the content in the slideshow since the images are all text in the slideshow
 
 ### User 2 - Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test. Place your notes here.
