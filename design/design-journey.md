@@ -1063,30 +1063,36 @@ each button has class `nav-button`
 
 **Pseudocode**
 ```
-when user clicks on #wok_a element:
-    remove .hidden class from .exit class
-    remove hidden class from .wok-a-popup
-    show .dim class;     
+when window > 800px:
+    when user clicks on #wok_a element:
+        remove .hidden class from .exit class
+        remove .hidden class from .wok-a-popup
+        show .dim class;  
+        change `overflow` attribute of .body class to `hidden`  
 
-when user clicks on #wok_b element:
-    remove .hidden class from .exit class
-    remove hidden class from .wok-b-popup
-    show .dim class;     
+    when user clicks on #wok_b element:
+        remove .hidden class from .exit class
+        remove .hidden class from .wok-b-popup
+        show .dim class   
+        change `overflow` attribute of .body class to `hidden`  
 
-when user clicks on #wok_c element:
-    remove .hidden class from .exit class
-    remove hidden class from .wok-c-popup
-    show .dim class;  
+    when user clicks on #wok_c element:
+        remove .hidden class from .exit class
+        remove hidden class from .wok-c-popup
+        show .dim class
+        change `overflow` attribute of .body class to `hidden`
 
-when user clicks on #cooking element:
-    remove .hidden class from .exit class
-    remove hidden class from .cooking-popup
-    show .dim class;
+    when user clicks on #cooking element:
+        remove .hidden class from .exit class
+        remove hidden class from .cooking-popup
+        show .dim class
+        change `overflow` attribute to `hidden`
 
-when user clicks on .exit button:
-    add .hidden class to .large;
-    hide .dim class;
-    add .hidden class to .exit button;
+    when user clicks on .exit button:
+        add .hidden class to .large;
+        hide .dim class;
+        add .hidden class to .exit button;
+        change `overflow` attribute of .body class to `scroll`
 ```
 ## Client Feedback & Minutes (Milestone 2)
 > You should meet with your client again to obtain feedback on your design.
