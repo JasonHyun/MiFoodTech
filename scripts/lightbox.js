@@ -1,58 +1,41 @@
-// when user clicks on #wok_a element:
-//     remove .hidden class from .exit class
-//     remove hidden class from .wok-a-popup
-//     show .dim class;
-//
-// when user clicks on #wok_b element:
-//     remove .hidden class from .exit class
-//     remove hidden class from .wok-b-popup
-//     show .dim class;
-//
-// when user clicks on #wok_c element:
-//     remove .hidden class from .exit class
-//     remove hidden class from .wok-c-popup
-//     show .dim class;
-//
-// when user clicks on #cooking element:
-//     remove .hidden class from .exit class
-//     remove hidden class from .cooking-popup
-//     show .dim class;
-//
-// when user clicks on .exit button:
-//     add .hidden class to .lightbox;
+// when window > 800px:
+// $(window).resize(function(){
+//     if ($(window).width()> 800){
+        $("#wok_a").click(function(){
+            $(".exit").removeClass("hidden");
+            $("#wok-a-popup").removeClass("hidden");
+            $(".dim").show();
+            $("body").css("overflow", "hidden");
+        });
 
+        $("#wok_b").click(function(){
+            $(".exit").removeClass("hidden");
+            $("#wok-b-popup").removeClass("hidden");
+            $(".dim").show();
+            $("body").css("overflow", "hidden");
+        });
 
-$("#wok_a").click(function(){
-    $(".exit").removeClass("hidden");
-    $("#wok-a-popup").removeClass("hidden");
-    $(".dim").show();
-    document.body.style.overflow = 'hidden';
-});
+        $("#wok_c").click(function(){
+            $(".exit").removeClass("hidden");
+            $("#wok-c-popup").removeClass("hidden");
+            $(".dim").show();
+            $("body").css("overflow", "hidden");
+        });
 
-$("#wok_b").click(function(){
-    $(".exit").removeClass("hidden");
-    $("#wok-b-popup").removeClass("hidden");
-    $(".dim").show();
-    document.body.style.overflow = 'hidden';
-});
+        $("#cooking-diagram").click(function(){
+            $(".exit").removeClass("hidden");
+            $("#cooking-popup").removeClass("hidden");
+            $(".dim").show();
+            $("body").css("overflow", "hidden");
+        });
 
-$("#wok_c").click(function(){
-    $(".exit").removeClass("hidden");
-    $("#wok-c-popup").removeClass("hidden");
-    $(".dim").show();
-    document.body.style.overflow = 'hidden';
-});
-
-$("#cooking-diagram").click(function(){
-    $(".exit").removeClass("hidden");
-    $("#cooking-popup").removeClass("hidden");
-    $(".dim").show();
-    document.body.style.overflow = 'hidden';
-});
-
-$(".exit").click(function(){
-    $(".large").addClass("hidden");
-    $(".dim").hide();
-    $(".exit").addClass("hidden");
-    document.body.style.overflow = 'scroll';
-});
+        $(".exit").click(function(){
+            $(".large").addClass("hidden");
+            $(".dim").hide();
+            $(".exit").addClass("hidden");
+            $("body").css("overflow", "scroll");
+        });
+//     } else{
+//         return;
+//     }
+// });
