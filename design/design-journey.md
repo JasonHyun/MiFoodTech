@@ -1411,46 +1411,95 @@ Task 3: You want to understand the future plans of MiFoodTech before you decide 
 - **Re-design choices**
   - Either make the carousel untimed, or make the time before switching slides longer. Additionally, the slides size should be uniform.
 - **Additional Notes**
-  - The fast carousel prevents the user from comprehending the information fully. Since the carousel is not images, there should be longer periods of time on each slide for the users to read each slide. Having the slides be the same size is better for aesthetic and also readability because then users won't have to keep darting their eyes to find the words. 
+  - The fast carousel prevents the user from comprehending the information fully. Since the carousel is not images, there should be longer periods of time on each slide for the users to read each slide. Having the slides be the same size is better for aesthetic and also readability because then users won't have to keep darting their eyes to find the words.
 
 ### User 3 - Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test. Place your notes here.
 
-TODO
+1. You want to learn more about the founder of MiFoodTech and understand his background. Find what makes him qualified to run this startup.
 
+- first navigated to Why Us page
+- scrolled through the page and skimmed the information
+- moved onto The Team page and scrolled through the page briefly
+- couldn't find the information and moved onto Invest
+- repeated skimming and moving to other webpages for Home and Market
+- came back to The Team page, highlighted Mi's name
+- task failed
+
+2. You are a medium sized Chinese restaurant owner and want to know how much you would save if you used MiFoodTech's product. Find out the savings from investment in MiFoodTech's intelligent woks for a medium sized restaurant.
+
+- first navigated to Invest page, looked through the carousel of slides and didn't find the Information
+- moved to Market page, skimmed through the first two sections and scrolled dropdown
+- found the table and information corresponding to medium sized restaurants
+- task successful
+
+3. You want to understand the future plans of MiFoodTech before you decide to invest. Find out what MiFoodTech plans to accomplish in 2022.
+
+- stayed on Market Page and looked back on first two sections
+- didn't read the entire paragraphs
+- moved back to Invest webpage and clicked through the carousel
+- found the information on the 2022 slide
+- task successful
 
 ### User 3 (Final Submission)
 > Using your notes from above, describe your user by answering the questions below.
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-TODO
+The user is a junior student from New York University, majoring in marketing and business. He is currently a student, and actively involved with personal investments and stocks in various companies. He also has experience investing in a start-up company that programmed software basis for drones.
 
 
 2. Does the user belong to your audience of the site? (Yes / No)
 > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-TODO
+Yes, because he does fall under the category of potential investors, especially with his past experience and knowledge regarding to this field. As such, he shares similar traits and goals as the target audience we have identified.
 
 
 ### User 3 Results (Final Submission)
 > Report the results of your user's evaluation. You should explain **what the user did**, describe the user's **reaction/feedback** to the design, **reflect on the user's performance**, determine what **re-design choices** you will make **for EACH task**. You can also add any additional comments.
 
-Task: TODO: copy task here
+Task 1: You want to learn more about the founder of MiFoodTech and understand his background. Find what makes him qualified to run this startup.
 - **Did you evaluate the desktop or mobile design?**
-  - Pick one: desktop/mobile
+  - Pick one: desktop
 - **How did the user do? Did they meet your expectation?**
-  - TODO
+  - The user did not succeed with the task, which was to my expectations. As of the moment, The Team webpage lacks enough affordance that suggests interactive features, which is something that will be improved in the final phases of the assignment.
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-  - TODO
+  - The user thought the organization of the content and their design was decent, to the point it did not hinder with him perceiving the information. He also suggested after the tasks that it might be good to include the affordance features for interactivity with the name of the member, rather than their headshots.
 - **Your reflections about the user’s performance to the task**
-  - TODO
+  - The user was able to identify what the page was lacking easily, which facilitates the process of analyzing the problem and coming up with solutions, as compared to when problems are vague.
 - **Re-design choices**
-  - TODO
+  - So far, the choices are to relocate the interactivity features to the names of the members rather than their headshots, as well as make them more suggestive so that the users can access them easily. The pop-up banners will also include a bit more content, such as the actual headshots of the members.
 - **Additional Notes**
-  - TODO: Justify your decisions; additional notes.
+  - At the moment, the most urgent task is to fix the affordance issue. Otherwise, the remaining work would be to refine the rest of the design.
 
-TODO...
+Task 2: You are a medium sized Chinese restaurant owner and want to know how much you would save if you used MiFoodTech's product. Find out the savings from investment in MiFoodTech's intelligent woks for a medium sized restaurant.
+- **Did you evaluate the desktop or mobile design?**
+  - Pick one: desktop
+- **How did the user do? Did they meet your expectation?**
+  - The user did well to complete the task, although they expended a bit more time than I had initially expected. This was due to the user looking through the Invest page before the Market page, where the information for the task was actually located.
+- **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+  - The user thought that the information was well organized regardless, although he found the textual information to be a bit overwhelming. He felt that the texts were too compact, making the perception of information more overbearing than necessary. He also thought there wasn't as much distinction between the information on the Market and Invest webpages as compared to other webpages.
+- **Your reflections about the user’s performance to the task**
+  - Given the user first looked on another webpage before navigating to the correct webpage and thus spent more time on the task than my expectations, it may be necessary to rename the pages that suggests a stronger division between the information displayed on the two webpages.
+- **Re-design choices**
+  - So far, the choices concern how the design of the textual contents should be altered for better accessibility, including the actual names of the webpages.
+- **Additional Notes**
+  - This is also seems like a concise critique, which won't expend too much time on our part to resolve.
+
+Task 3: You want to understand the future plans of MiFoodTech before you decide to invest. Find out what MiFoodTech plans to accomplish in 2022.
+- **Did you evaluate the desktop or mobile design?**
+  - Pick one: desktop
+- **How did the user do? Did they meet your expectation?**
+  - The user successfully completed the task, although he took a bit more time with this task as well than I had initially expected.
+- **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+  - The user admitted to not having paid complete attention the first time he visited the Invest webpage during the second task, which led him to look through the Market webpage unnecessarily following the second task. He said if he had retained the information better, he would have moved onto the slideshow on the Invest webpage instantly.
+- **Your reflections about the user’s performance to the task**
+  - I'm not exactly sure if the user's feedback for this task pertains to his personal lack of attention or if it's a result of the problems identified in task 2, which makes perception of information difficult for the user. For the time being, I will assume the latter just to be safe.
+- **Re-design choices**
+  -  Accordingly, the re-design choices resulting from this task remains the same as those from the second task.
+- **Additional Notes**
+  - I think this will need a bit more discussion with others, so that we can try to properly identify what caused the latency from the user for this task specifically. 
+
 
 
 ### User 4 - Testing Notes (Final Submission)
