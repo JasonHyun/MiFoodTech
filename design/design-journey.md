@@ -1325,42 +1325,93 @@ Task 3: You want to understand the future plans of MiFoodTech before you decide 
 ### User 2 - Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test. Place your notes here.
 
-TODO
+*Task 1*
+- clicks on team page
+- clicks on Mi's photo
+- gives info:
+    - serial entrepreneur w/ 2 startups
+    - has engineering degree
+    - in materials science
+- asks what is the department of natural resources
+- wonders out loud if being a serial entrepreneur is exactly a good thing
 
+*Task 3*
+- clicks on Market page
+- scrolls through page
+- can't find the information
+- clicks on invest page
+- sees Future Page section
+- gives info:
+    - in 2022 Seeks Angel Investment: $200,000
+- had to keep clicking back arrow because carousel moving too fast
+
+*Task 2*
+- goes to market page
+- scrolls down
+- reads labor cost comparison
+- gives info:
+    - saves $127,680
 
 ### User 2 (Final Submission)
 > Using your notes from above, describe your user by answering the questions below.
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-TODO
+The user is a male adult who works at a real estate management company and graduated from cornell in 2018. He is an asset manager for a real estate private equity firm. The user manages a portfolio of hotels and does finance. The user is from New Jersey.
 
 
 2. Does the user belong to your audience of the site? (Yes / No)
 > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-TODO
-
+Yes, the user belongs to the audience of the site because he has a lot of knowledge of investment. The user has invested in stocks, as well as real estate. He has the same goals and seeks the same information as our audience.
 
 ### User 2 Results (Final Submission)
 > Report the results of your user's evaluation. You should explain **what the user did**, describe the user's **reaction/feedback** to the design, **reflect on the user's performance**, determine what **re-design choices** you will make **for EACH task**. You can also add any additional comments.
 
-Task: TODO: copy task here
+Task 1: You want to learn more about the founder of MiFoodTech and understand his background. Find what makes him qualified to run this startup.
+
 - **Did you evaluate the desktop or mobile design?**
-  - Pick one: desktop/mobile
+  - desktop
 - **How did the user do? Did they meet your expectation?**
-  - TODO
+  - The user met my expectations and was able to find the pieces of information quickly.
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-  - TODO
+  - The user seemed confused as to why Mi himself is qualified, but not the organization of the website. The user originally misunderstood the task and began to ask more questions about Mi because he thought he was supposed to critique the website instead of do the task. The user was not sure if being a serial entrepreneur is a good thing.
 - **Your reflections about the user’s performance to the task**
-  - TODO
+  - The user performed the task very quickly and gave more information on what could improve the Team page. There seemed to be more concern with the content that Mi gave us than our website itself.
 - **Re-design choices**
-  - TODO
+  - Perhaps ask Mi to provide more specific qualifications, or make them more specific ourself.
 - **Additional Notes**
-  - TODO: Justify your decisions; additional notes.
+  - Adding a more specific bio to Mi's description would help investor's understand Mi's educational and entrepreneurial background. While the user would have liked to see more qualifications for Mi, this was the content that Mi provided for us, so we would need to see how Mi wants to present himself as "qualified" to investors.  
 
-TODO...
+Task 2:  You are a medium sized Chinese restaurant owner and want to know how much you would save if you used MiFoodTech's product. Find out the savings from investment in MiFoodTech's intelligent woks for a medium sized restaurant.
 
+- **Did you evaluate the desktop or mobile design?**
+  - desktop
+- **How did the user do? Did they meet your expectation?**
+  - The user did really well and exceeded my expectations. I expected the user to take longer to find the information, but he found it pretty quickly.
+- **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+  - The user did not have a significant reaction. He found the information and seemed pretty confident that the information was the correct answer to the task.
+- **Your reflections about the user’s performance to the task**
+  - The user seemed to understand the information well and was able to find the information quickly. His background in investing definitely helped him find the information quickly.
+- **Re-design choices**
+  - None
+- **Additional Notes**
+  - The user did not have problems with this task, so the design is organized well for an investor to find this information.
+
+Task 3: You want to understand the future plans of MiFoodTech before you decide to invest. Find out what MiFoodTech plans to accomplish in 2022.
+
+- **Did you evaluate the desktop or mobile design?**
+  - desktop
+- **How did the user do? Did they meet your expectation?**
+  - The user met my expectations. While the user originally clicked on the wrong page, he quickly found the information afterward.
+- **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+  - The had a reaction with the carousel on the Invest page. He said the carousel moves too fast. He could not point out the full information without clicking the back button because the slides kept switching. The user also did not like how the slides change size.
+- **Your reflections about the user’s performance to the task**
+  - The user performed well. The user quickly found the information.
+- **Re-design choices**
+  - Either make the carousel untimed, or make the time before switching slides longer. Additionally, the slides size should be uniform.
+- **Additional Notes**
+  - The fast carousel prevents the user from comprehending the information fully. Since the carousel is not images, there should be longer periods of time on each slide for the users to read each slide. Having the slides be the same size is better for aesthetic and also readability because then users won't have to keep darting their eyes to find the words. 
 
 ### User 3 - Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test. Place your notes here.
