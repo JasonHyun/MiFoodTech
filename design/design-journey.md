@@ -1498,14 +1498,32 @@ Task 3: You want to understand the future plans of MiFoodTech before you decide 
 - **Re-design choices**
   -  Accordingly, the re-design choices resulting from this task remains the same as those from the second task.
 - **Additional Notes**
-  - I think this will need a bit more discussion with others, so that we can try to properly identify what caused the latency from the user for this task specifically. 
+  - I think this will need a bit more discussion with others, so that we can try to properly identify what caused the latency from the user for this task specifically.
 
 
 
 ### User 4 - Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test. Place your notes here.
 
-TODO
+Task 1:
+- First visited Why Us page
+- Then visited Team page
+- Clicked on founder image, read about founder
+- Task Succesful
+
+Task 2:
+- First visited Why Us page
+- Then visits Invest page
+- Then visits Home page
+- Task Unsuccesful
+
+Task 3:
+- First visits Invest page
+- Found slide show, clicked through to 2022
+- Task Succesful
+
+User Notes:
+- My user remarked that the Why Us name was misleading, as his first instinct for the first two tasks was to go to that page. Additionally, he mentioned that he thought the "market" page was poorly titled as he never felt like visiting that page was important and that the paragraphs on the home page were difficult to read. He also said that he felt like he was not prompted to click on the founder's headshot, he just did it by accident. Finally, he suggested that we swap some content as a competition analysis seems like it belongs on the market page and the labor savings table seems like it belongs with the diagrams of the product itself.
 
 
 ### User 4 (Final Submission)
@@ -1513,34 +1531,57 @@ TODO
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-TODO
-
+My user is an investment banker who works with buying and selling loans. He is from Shanghai, China and majored in Math, Computer Science, and Finance at the University of Ohio, Wesleyan. He has been in the Financial Services industry for over 20 years.
 
 2. Does the user belong to your audience of the site? (Yes / No)
 > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-TODO
-
+Yes. Because my user evaluates loans, he would be someone that MiFoodTech would be targeting because MiFoodTech needs capital to get started and a loan would be a typical way to raise capital.
 
 ### User 4 Results (Final Submission)
 > Report the results of your user's evaluation. You should explain **what the user did**, describe the user's **reaction/feedback** to the design, **reflect on the user's performance**, determine what **re-design choices** you will make **for EACH task**. You can also add any additional comments.
 
-Task: TODO: copy task here
-- **Did you evaluate the desktop or mobile design?**
-  - Pick one: desktop/mobile
+Task 1: You want to learn more about the founder of MiFoodTech and understand his background. Find what makes him qualified to run this startup.-
+**Did you evaluate the desktop or mobile design?**
+  - Pick one: Mobile
 - **How did the user do? Did they meet your expectation?**
-  - TODO
+  - My user met my expectations: I thought that this task would be the easiest task to perform as the founder is part of the team and it would make sense to visit that page first.
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-  - TODO
+  - The user clicked on the founder's headshot sort of by accident. He remarked after all the tests that he would not have known to click on the headshot just by visiting the page.
 - **Your reflections about the user’s performance to the task**
-  - TODO
+    - The fact that the user visited they "why us" page was interesting to me, as upon reflection this probably had to do with the wording of the task, specifically the phrase "what makes him qualified."
 - **Re-design choices**
-  - TODO
+  - Rename the "why us" page to "Our Technology" and add an outline around the headshot or text that tells the user to click on it.
 - **Additional Notes**
-  - TODO: Justify your decisions; additional notes.
+  - Renaming the "why us" page would mitigate the confusion caused by the wording in this task and adding an outline or text around the headshots would create signs pointing the user towards performing an action we want them to.
 
-TODO...
+  Task 2: You are a medium sized Chinese restaurant owner and want to know how much you would save if you used MiFoodTech's product. Find out the savings from investment in MiFoodTech's intelligent woks for a medium sized restaurant.
+  - **Did you evaluate the desktop or mobile design?**
+    - Pick one: mobile
+  - **How did the user do? Did they meet your expectation?**
+    - My user did not meet my expectations. I thought they would at least navigate to the page that had the information on it but they were unable to.
+  - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+    - The user did not go to the "market page" but they did start with the why us page again as they assumed that information about how much a restaurant would save would be on that page. They then went to the invest page as the name might imply that a restaurant should invest in the smart woks but were unsuccesful there as well. Finally, they went to the home page as a default and said that even if there was information on that page, there was too much text to read. My user also remarked that there was a lot of scrolling in general and after he asked me to show him where the information was actually located, he said that it belonged in the "why us" section. He also commented that the "why us" section should not start with a competition analysis.
+  - **Your reflections about the user’s performance to the task**
+    - I felt that the choice to go to each of these pages made sense and this reaffirms my suspicion that changing the names of pages would be a good move.
+  - **Re-design choices**
+    - Rename the "why us" page to something like "our technology", and swap content as suggested by user.
+  - **Additional Notes**
+    - Renaming the page to "our technology" seems more informative as to the content and it may be a natural train of thought to go from reading about the tech to seeing how effective it can be in saving money. Swapping the content would just be following the user's advice.
 
+Task 3: You want to understand the future plans of MiFoodTech before you decide to invest. Find out what MiFoodTech plans to accomplish in 2022.
+- **Did you evaluate the desktop or mobile design?**
+  - Pick one: mobile
+- **How did the user do? Did they meet your expectation?**
+  - The user did meet my expectations. They were able to find this information easily.
+- **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+  - My user said that the page still had a lot of text but the slide show made sense. However, he still mentioned that "Invest" is slightly misleading and suggested naming it something like "Our Future"
+- **Your reflections about the user’s performance to the task**
+  - I was pleased with this performance and I think that the user suggested a good change to our website.
+- **Re-design choices**
+  - I would rename the "Invest" page to "Our Future" as suggested.
+- **Additional Notes**
+  - There was a general trend of renaming the pages to make them make more sense. The user suggested things that he as an investor was looking for, so it would make sense to follow this advice.  
 
 ## Changes Based on User Testing (Final Submission)
 > What changes did you make to your design based on user testing?
