@@ -1583,6 +1583,101 @@ Task 3: You want to understand the future plans of MiFoodTech before you decide 
 - **Additional Notes**
   - There was a general trend of renaming the pages to make them make more sense. The user suggested things that he as an investor was looking for, so it would make sense to follow this advice.  
 
+
+  ### User 5 - Testing Notes (Final Submission)
+  > When conducting user testing, you should take notes during the test. Place your notes here.
+
+  Task 1:
+  - clicked on The Team in Nav Bar
+  - saw founder was Mi
+  - clicked on picture of founder
+  - read background
+  - success
+
+  Task 2:
+  - First visited Invest page
+  - Scrolled down but found nothing
+  - Then went back to nav and clicked on Market page
+  - found chart on bottom of page
+  - found value to be $127,680
+  - success
+
+  Task 3:
+  - clicked on Invest page in nav bar
+  - found information for 2022 and clicked through
+  - found information needed
+  - success
+
+  User Notes:
+  - user thought page titles for why us and market were poor and were unclear.
+  - user said it was unclear that they had to click on headshot and thought no one would think to do that unless they wee prompted
+  - thought market page graph was too small to read and thought graph could have been bigger
+  -said the style of website was nice overall
+
+
+  ### User 5 (Final Submission)
+  > Using your notes from above, describe your user by answering the questions below.
+
+  1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
+
+  User is a businessman from New York who was an economics major from Binghamton. He has over 30 years in corporate experience. He is involved with business consulting and angel investment with emphasis on market research and management solutions.
+
+  2. Does the user belong to your audience of the site? (Yes / No)
+  > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
+
+  Yes. My user has a background in providing funds to help startup businesses and help individuals obtain patents. Also has experience advising startups such as MiTechFood and advise them on business strategy and marketing goals to raise capital.
+
+  ### User 5 Results (Final Submission)
+  > Report the results of your user's evaluation. You should explain **what the user did**, describe the user's **reaction/feedback** to the design, **reflect on the user's performance**, determine what **re-design choices** you will make **for EACH task**. You can also add any additional comments.
+
+  Task 1: You want to learn more about the founder of MiFoodTech and understand his background. Find what makes him qualified to run this startup.-
+  **Did you evaluate the desktop or mobile design?**
+    - Pick one: Desktop
+  - **How did the user do? Did they meet your expectation?**
+  User met my expectations and was able to perform the task seamlessly. They were successful and did not have any issues.
+  - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+  User did not initially think any additional about the founder would be provided. He clicked on the headshot because he didn't see the information anywhere else. Thought it was unnecessary and information should just be listed under his headshot.
+
+  - **Your reflections about the user’s performance to the task**
+  User was able to go straight to the team page without hesitation and locate founder. They also knew to click on the image, even tough they did not think it was obvious. He did mention that someone may click why us page instead of the team page and said the phrasing of the question could have steered someone in that direction. With this in mind, I agree with user and understand what they are saying.
+
+  - **Re-design choices**
+  Get rid of the click feature to show information about founder. Have it listed normally. Also possible rename why us to a different name such as our offerings or technology.
+
+  - **Additional Notes**
+  They really want to emphasize getting rid of the interactivity on the team page because they think it is pointless and no one will click on it. I agree with them.
+
+    Task 2: You are a medium sized Chinese restaurant owner and want to know how much you would save if you used MiFoodTech's product. Find out the savings from investment in MiFoodTech's intelligent woks for a medium sized restaurant.
+    - **Did you evaluate the desktop or mobile design?**
+      - Pick one: Desktop
+    - **How did the user do? Did they meet your expectation?**
+    User met expectations and was able to execute task with no hesitation and was able to read the graph with relative ease. They met my expectations and were successful.
+
+    - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+    The user said the graph was easy enough to find but thought the text on the graph itself was a bit small. They suggested making the graph larger and increasing the font size. They also mentioned possibly putting the graph higher up in the page and really highlighting how much money someone could save using his special type of wok.
+
+    - **Your reflections about the user’s performance to the task**
+    The users choice to go to the market page made sense because it had the most the do with task 2. They argued that it could also have been placed in the why us page but said renaming could alleviate this issue. I understand what they are saying and have noted these points.
+    - **Re-design choices**
+    Definitely think why us page should be renamed now. Also says to make graph bigger if you can.   
+
+    - **Additional Notes**
+    Rename the why us page something less vague. You could literally put any of the content from any pages on the why us page and it would work and make sense to a certain extent. Need to be mre specific like the invest page.
+
+  Task 3: You want to understand the future plans of MiFoodTech before you decide to invest. Find out what MiFoodTech plans to accomplish in 2022.
+  - **Did you evaluate the desktop or mobile design?**
+    - Pick one: mobile
+  - **How did the user do? Did they meet your expectation?**
+  User met expectations and was able to complete the task without any mistakes.     
+  - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+  User liked the scrolling feature on the mobile layout because it was easy to read. Also like the text and minimal but succinct information. Said it was good.
+  - **Your reflections about the user’s performance to the task**
+  User did well and performed as I had expected. Did not have much input on changes.
+  - **Re-design choices**
+  User suggested reevaluating the naming of each page to make it more focused and concise, especially why us.
+  - **Additional Notes**
+  We need to rename some pages. I agree with advice and trust users background knowledge and experience.
+
 ## Changes Based on User Testing (Final Submission)
 > What changes did you make to your design based on user testing?
 
