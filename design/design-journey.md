@@ -323,8 +323,6 @@ She re-emphasizes the differentiating factor. She wants to see an in depth analy
 
 
 **Interviewee 2:**
-
-
 Iris Li, junior studying Computer Science, is a member of Cornell Cup Robotics. She works in system engineering. She is working on a lab assisted robot (like R2D2). She is a member of our intended audience because she works in teams to create effective robots. She has knowledge of MiTechFoods technology and why it may appeal to consumers and investors.
 
 1. Have you ever invested in a restaurant or invested in general?
@@ -334,10 +332,10 @@ No, no investment and not a restaurant but have used Doordash frequently.
   Iris hasn't invested but if she did she would look to see how well the company is performing and ensure that she will make money. She would want information about the market to see if it is worth investing her own money.
 
 3. Is there any information you wish you had known about your investment beforehand or information you weren’t able to find?
-Some companies aren't transparent and something as unique as a robot tech food restaurant may not have certain details ironed out, especially if it is their first startup or test restuarant. It may be hard to find industry or market information since it is so specific. 
+Some companies aren't transparent and something as unique as a robot tech food restaurant may not have certain details ironed out, especially if it is their first startup or test restaurant. It may be hard to find industry or market information since it is so specific.
 
 4. Does the idea of investing in MiTechFood appeal to you? Why or why not?
-Yes appeals. Seems about the same. It doesn't appeal because of the novelty. She's been to a robot chef restaurant but it was underwhelming. She went with the robotics team in high shcool but was not significantly different from other restaurants. Called Spyce in Boston.
+Yes appeals. Seems about the same. It doesn't appeal because of the novelty. She's been to a robot chef restaurant but it was underwhelming. She went with the robotics team in high school but was not significantly different from other restaurants. Called Spyce in Boston.
 
 5. What is an important piece of information that you always want to know before investing in a company, brand or restaurant?
 Models how they get people to buy food and how they are profitable over the long term. Maybe good because of its consistent quality. People may not have job opportunities. May be nice to slowly transition but places aren’t ready for that right now, people might not be upset. If she hadn't gone to a similar type of restaurant before she said it is a very specific area so most people may find it difficult to find this information easily on the web.
