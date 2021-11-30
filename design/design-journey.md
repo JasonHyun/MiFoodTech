@@ -1681,7 +1681,34 @@ Task 3: You want to understand the future plans of MiFoodTech before you decide 
 ## Changes Based on User Testing (Final Submission)
 > What changes did you make to your design based on user testing?
 
-TODO
+Team Page:
+- Standardize buttons (color)
+- Add hover color-change thing for text
+- Make text clickable
+- Edit grammar errors
+
+Market Page:
+- Rename to “Industry Outlook”
+- Move text boxes to below the graph
+- “Your popup interactivity on market covers graphic and each popup opens up on top of each other”
+- Swap Content with Why Us page
+- Add why we changed name to design journey
+
+Why Us Page:
+- Rename to “Our Technology”
+- Swap content with Market Page
+- Redo Cardsort
+- Add why we changed name to design journey
+- Make interactivity only on desktop
+
+Invest Page:
+- Rename to “Our Future”
+- Bullet Point Text (customer aq strategy)
+- Add why we changed name to design journey
+
+Home Page:
+- Bullet Point Text
+- Ask Mi for revised background
 
 
 ## Final Notes to the Graders (Final Submission)
