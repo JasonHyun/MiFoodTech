@@ -236,7 +236,7 @@ h1, h2, h3{
 
 .figure{
     width:90%;
-    margin: 10px auto;
+    margin: 0 auto;
     margin-bottom: 30px;
 }
 
@@ -261,7 +261,14 @@ h1, h2, h3{
 
 .wok{
     width: 100%;
+}
+
+.wok-outer{
+    width: 90%;
     max-width: 500px;
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 30px;
 }
 
 /* Market css */
@@ -494,7 +501,6 @@ h1, h2, h3{
         align-items: center;
         padding: 10px;
         width: 90%;
-        /* border: 2px solid; */
   }
 
   .whyus-info{
@@ -510,7 +516,6 @@ h1, h2, h3{
         margin: 0px auto;
         text-align: center;
         width: 90%;
-        /* border: 2px solid; */
   }
 
   .figure{
@@ -545,7 +550,6 @@ h1, h2, h3{
         align-items: center;
         padding: 10px;
         width: 90%;
-        /* border: 2px solid; */
   }
 
   .business-info{
@@ -564,11 +568,30 @@ h1, h2, h3{
         margin: 0 auto;
         max-width: 650px;
         z-index: 3;
-        position: fixed;
+        position:fixed;
         top: 50%;
         left: 50%;
-        transform: translate( -50%, -50% );
+        transform: translate(-50%, -50%);
+        padding-top: 30px;
+        padding-bottom: 30px;
   }
+
+  /* top: 25px;
+  margin-top: 10%;
+  vertical-align: middle;*/
+
+  /* .wok-outer{
+      top: 0;
+      height: 100%;
+      position: fixed;
+      width: 65%;
+      display: inline-block;
+      margin: 0 auto;
+  } */
+
+  /* .large{
+
+  } */
 
   #cooking-popup{
       width: 95%;
