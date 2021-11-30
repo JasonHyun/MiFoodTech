@@ -1717,12 +1717,12 @@ Home Page:
 1. Sites design is modern, professional, and has a clear color theme throughout.
 2. Sites interactivity which includes carousels and hover features adds to usability and effectively engages the audience.
 3. Site sorts and highlights important information about MiFoodTech from clients
-provided slides and notes from meetings. Site brings out the best in the company and what it can offer investors through strong layout and planning. 
+provided slides and notes from meetings. Site brings out the best in the company and what it can offer investors through strong layout and planning.
 
 
 
 > 2. Tell us what you, as a team, learned while working on this project.
-
-TODO
+- Value of fulfilling client's needs but also adhering to best design practices learned throughout the course
+- Collaboration is key to having a successful project, our team communicated through Facebook messenger and scheduled meetings with lettucemeet to try and keep everyone informed and accommodate everyone's busy schedules
 
 > 3. Tell us anything else you need us to know for when we're looking at the project.
