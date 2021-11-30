@@ -1691,31 +1691,24 @@ Task 3: You want to understand the future plans of MiFoodTech before you decide 
 Team Page:
 - Standardize buttons (color)
 - Add hover color-change thing for text
-- Make text clickable
-- Edit grammar errors
 
 Market Page:
 - Rename to “Industry Outlook”
 - Move text boxes to below the graph
 - “Your popup interactivity on market covers graphic and each popup opens up on top of each other”
 - Swap Content with Why Us page
-- Add why we changed name to design journey
 
 Why Us Page:
 - Rename to “Our Technology”
 - Swap content with Market Page
-- Redo Cardsort
-- Add why we changed name to design journey
 - Make interactivity only on desktop
 
 Invest Page:
 - Rename to “Our Future”
 - Bullet Point Text (customer aq strategy)
-- Add why we changed name to design journey
 
 Home Page:
 - Bullet Point Text
-- Ask Mi for revised background
 
 
 ## Final Notes to the Graders (Final Submission)
@@ -1729,6 +1722,7 @@ provided slides and notes from meetings. Site brings out the best in the company
 
 
 > 2. Tell us what you, as a team, learned while working on this project.
+
 - Value of fulfilling client's needs but also adhering to best design practices learned throughout the course
 - Collaboration is key to having a successful project, our team communicated through Facebook messenger and scheduled meetings with lettucemeet to try and keep everyone informed and accommodate everyone's busy schedules
 
