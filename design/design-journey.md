@@ -1043,11 +1043,15 @@ wok c: `<figure class = "wok panel" id = "wok_c">`
 cooking potatoes diagram: `<figure class = "cooking panel" id = "cooking-diagram">`
 entire lightbox: `<div class = "tech-images">`
 
-Popup versions of images:
+<!-- Popup versions of images: -->
 wok a: `<img class = "large" id = "wok-a-popup">`
 wok b: `<img class = "large" id = "wok-b-popup" >`
 wok c: `<img class = "large" id = "wok-c-popup">`
 cooking: `<img class = "large" id = "cooking-popup">`
+div for wok a: `<div class = "vertical hidden" id = "wok-a-div">`
+div for wok b: `<div class = "vertical hidden" id = "wok-b-div">`
+div for wok c: `<div class = "vertical hidden" id = "wok-c-div">`
+div for cooking: `<div class = "vertical hidden" id = "cooking-div">`
 
 <!-- hamburger menu -->
 - hamburger menu: `button id="hamburger"`
@@ -1064,7 +1068,7 @@ each button has class `nav-button`
 - `.exit` - button used to ex out of lightbox (hidden)
 - `.exit:hover` - dim color when hovered over
 - `light-item:hover` - adds outline when images in lightbox are hovered over
-
+- `.vertical` - used for centering images within the div for the lightbox
 - `#hamburger` - hidden on desktop screens
 - `nav-button:hover` - navigation buttons darken when hovered over
 
@@ -1073,32 +1077,37 @@ each button has class `nav-button`
 when window > 800px:
     when user clicks on #wok_a element:
         remove .hidden class from .exit class
-        remove .hidden class from .wok-a-popup
-        show .dim class;  
-        change `overflow` attribute of .body class to `hidden`  
+        remove .hidden class from #wok-a-popup
+        remove .hidden class from #wok-a-div
+        show .dim class
+        change `overflow` attribute of .body class to `hidden`
 
     when user clicks on #wok_b element:
         remove .hidden class from .exit class
-        remove .hidden class from .wok-b-popup
-        show .dim class   
-        change `overflow` attribute of .body class to `hidden`  
+        remove .hidden class from #wok-b-popup
+        remove .hidden class from #wok-b-div
+        show .dim class
+        change `overflow` attribute of .body class to `hidden`
 
     when user clicks on #wok_c element:
         remove .hidden class from .exit class
-        remove hidden class from .wok-c-popup
+        remove hidden class from #wok-c-popup
+        remove .hidden class from #wok-c-div
         show .dim class
         change `overflow` attribute of .body class to `hidden`
 
     when user clicks on #cooking element:
         remove .hidden class from .exit class
-        remove hidden class from .cooking-popup
+        remove .hidden class from #cooking-popup
+        remove .hidden class from #cooking-div
         show .dim class
-        change `overflow` attribute to `hidden`
+        change `overflow` attribute of .body class to `hidden`
 
     when user clicks on .exit button:
-        add .hidden class to .large;
-        hide .dim class;
-        add .hidden class to .exit button;
+        add .hidden class to .large
+        add .hidden class to .vertical
+        hide .dim class
+        add .hidden class to .exit button
         change `overflow` attribute of .body class to `scroll`
 ```
 ## Client Feedback & Minutes (Milestone 2)
@@ -1714,7 +1723,7 @@ Home Page:
 Because we made many changes to the Market Page and the Why Us Page, we re-card sorted and re-sketched these two pages. Below is the re-card sort:
 
 ![New CardSort](newCardSort.jpg)
-In this card sort, we separated the business plan from the diagrams because we felt that it was important to be more specific as we were working on a smaller scale (between two pages instead of the whole website). We took the user's suggestions to switch the competition comparison with the labor costs graph.
+In this card sort, we separated the business plan from the diagrams because we felt that it was important to be more specific as we were working on a smaller scale (between two pages instead of the whole website). We took the user's suggestions to switch the competition comparison with the labor costs graph. This allows the Market page to have more cohesive content, as well as the Why Us page. Additionally, we re-named the "Why Us" page (right) to "Our Technology" based off the user testing results. The new card sort makes sense for the new name since it focuses more on their technology and the benefits. 
 
 These are our updated sketches:
 ####Our Technology Page
