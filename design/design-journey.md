@@ -323,27 +323,34 @@ She re-emphasizes the differentiating factor. She wants to see an in depth analy
 
 
 **Interviewee 2:**
-
-
 Iris Li, junior studying Computer Science, is a member of Cornell Cup Robotics. She works in system engineering. She is working on a lab assisted robot (like R2D2). She is a member of our intended audience because she works in teams to create effective robots. She has knowledge of MiTechFoods technology and why it may appeal to consumers and investors.
 
-1. Have you ever invested in a restaurant?
-No, not a restaurant but have used Doordash frequently.
-1a. Have you ever invested in a restaurant like MiTechFood?
+1. Have you ever invested in a restaurant or invested in general?
+No, no investment and not a restaurant but have used Doordash frequently.
 
-2. Does the idea of investing in MiTechFood appeal to you? Why or why not?
-Yes appeals. Seems about the same. It doesn't appeal because of the novelty. She's been to a robot chef restaurant but it was underwhelming. She went with the robotics team in high shcool but was not significantly different from other restaurants. Called Spyce in Boston.
-3. What is an important piece of information that you always want to know before investing in a company, brand or restaurant?
-Models how they get people to buy food and how they are profitable over the long term. Maybe good because of its consistent quality. People may not have job opportunities. May be nice to slowly transition but places aren’t ready for that right now, people might not be upset.
+2. Did you seek out any information before deciding to invest?  If yes, what was that information? How did you obtain it?
+  Iris hasn't invested but if she did she would look to see how well the company is performing and ensure that she will make money. She would want information about the market to see if it is worth investing her own money.
 
-4. When investing, is learning about your founders background important? Why or why not?
+3. Is there any information you wish you had known about your investment beforehand or information you weren’t able to find?
+Some companies aren't transparent and something as unique as a robot tech food restaurant may not have certain details ironed out, especially if it is their first startup or test restaurant. It may be hard to find industry or market information since it is so specific.
+
+4. Does the idea of investing in MiTechFood appeal to you? Why or why not?
+Yes appeals. Seems about the same. It doesn't appeal because of the novelty. She's been to a robot chef restaurant but it was underwhelming. She went with the robotics team in high school but was not significantly different from other restaurants. Called Spyce in Boston.
+
+5. What is an important piece of information that you always want to know before investing in a company, brand or restaurant?
+Models how they get people to buy food and how they are profitable over the long term. Maybe good because of its consistent quality. People may not have job opportunities. May be nice to slowly transition but places aren’t ready for that right now, people might not be upset. If she hadn't gone to a similar type of restaurant before she said it is a very specific area so most people may find it difficult to find this information easily on the web.
+
+6. When investing, is learning about your founders background important? Why or why not?
 Yes she cares, very important. As a startup you aren’t going to have that many people so leadership should be good and have expertise in both technical in marketing and finance.
 
-5. How long or how well do you have to know an individual or startup like MiTechFood before you would feel comfortable investing in them?
+7. How long or how well do you have to know an individual or startup like MiTechFood before you would feel comfortable investing in them?
 It depends on how much money she would invest. If it is a lot she would want to have a lot of familiarity and contact them frequently. She would like to have say and give her input, otherwise if she is a regular investor, if they had a stock or republic offering she wouldn’t need to know them personally.
-6. Do you have any considerations or reservations, if any, about investing in MiTechFood? Why or why not?
+
+8. Do you have any considerations or reservations, if any, about investing in MiTechFood? Why or why not?
 No jobs for people in the community.
 
+9. What haven’t I asked you today that you think would be valuable for me to know?
+She is excited to see MiTechFood when they come to Ithaca and hopes people in the community will be receptive since Ithaca is a small collegetown.
 
 
 **Interviewee 3:**
@@ -1684,31 +1691,24 @@ Task 3: You want to understand the future plans of MiFoodTech before you decide 
 Team Page:
 - Standardize buttons (color)
 - Add hover color-change thing for text
-- Make text clickable
-- Edit grammar errors
 
 Market Page:
 - Rename to “Industry Outlook”
 - Move text boxes to below the graph
 - “Your popup interactivity on market covers graphic and each popup opens up on top of each other”
 - Swap Content with Why Us page
-- Add why we changed name to design journey
 
 Why Us Page:
 - Rename to “Our Technology”
 - Swap content with Market Page
-- Redo Cardsort
-- Add why we changed name to design journey
 - Make interactivity only on desktop
 
 Invest Page:
 - Rename to “Our Future”
 - Bullet Point Text (customer aq strategy)
-- Add why we changed name to design journey
 
 Home Page:
 - Bullet Point Text
-- Ask Mi for revised background
 
 ### Re Design Process:
 Because we made many changes to the Market Page and the Why Us Page, we re-card sorted and re-sketched these two pages. Below is the re-card sort:
@@ -1735,6 +1735,7 @@ provided slides and notes from meetings. Site brings out the best in the company
 
 
 > 2. Tell us what you, as a team, learned while working on this project.
+
 - Value of fulfilling client's needs but also adhering to best design practices learned throughout the course
 - Collaboration is key to having a successful project, our team communicated through Facebook messenger and scheduled meetings with lettucemeet to try and keep everyone informed and accommodate everyone's busy schedules
 
