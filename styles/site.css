@@ -666,13 +666,23 @@ h1, h2, h3{
 
     .carousel-main{
       justify-content: center;
+    }
 
+    .timeline{
+      display: block;
+      width: 40%;
+      margin: 0 auto;
     }
 
     .investp{
+      margin: 50px;
+    }
+
+    .investp p{
       text-align: center;
       margin: 50px;
     }
+
 
     .testrest{
       display: flex;
