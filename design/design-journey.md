@@ -1723,7 +1723,7 @@ Home Page:
 Because we made many changes to the Market Page and the Why Us Page, we re-card sorted and re-sketched these two pages. Below is the re-card sort:
 
 ![New CardSort](newCardSort.jpg)
-In this card sort, we separated the business plan from the diagrams because we felt that it was important to be more specific as we were working on a smaller scale (between two pages instead of the whole website). We took the user's suggestions to switch the competition comparison with the labor costs graph. This allows the Market page to have more cohesive content, as well as the Why Us page. Additionally, we re-named the "Why Us" page (right) to "Our Technology" based off the user testing results. The new card sort makes sense for the new name since it focuses more on their technology and the benefits.
+In this card sort, we separated the business plan from the diagrams because we felt that it was important to be more specific as we were working on a smaller scale (between two pages instead of the whole website). Originally, the business model/plan content was a part of robot technology, but we took Mi's request to separate the content and put it in the cardsort(not adding new content). We also took the user's suggestions to switch the competition comparison with the labor costs graph. This allows the Market page to have more cohesive content, as well as the Why Us page. Additionally, we re-named the "Why Us" page (right) to "Our Technology" based off the user testing results. The new card sort makes sense for the new name since it focuses more on their technology and the benefits.
 
 These are our updated sketches:
 ####Our Technology Page
