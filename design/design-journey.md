@@ -1717,9 +1717,11 @@ Because we made many changes to the Market Page and the Why Us Page, we re-card 
 In this card sort, we separated the business plan from the diagrams because we felt that it was important to be more specific as we were working on a smaller scale (between two pages instead of the whole website). We took the user's suggestions to switch the competition comparison with the labor costs graph.
 
 These are our updated sketches:
+####Our Technology Page
 ![New Our Technology Sketch Mobile](techMobile.jpg)
 ![New Our Technology Sketch Desktop](techDesktop.jpg)
 
+####Industry Outlook Page
 ![New Industry Outlook Sketch Mobile](industryMobile.jpg)
 ![New Industry Outlook Sketch Desktop](industryDesktop.jpg)
 
