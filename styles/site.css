@@ -650,9 +650,10 @@ figcaption{
     .testrest{
       display: flex;
       flex-direction: row;
+
     }
 
-    @media(max-width: 800px){
+    @media(max-width: 900px){
       .timeline{
         display: flex;
         flex-direction: column;
@@ -671,6 +672,7 @@ figcaption{
       .testrest{
         display: flex;
         flex-direction: column;
+        font-size: 18px;
       }
 
     }
