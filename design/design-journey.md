@@ -891,6 +891,9 @@ In this sketch, the labor costs comparison information is at the bottom of the p
 ![New Industry Outlook Sketch Desktop](industryDesktop.jpg)
 In this sketch, the competitor analysis information is made horizontally to effectively use the horizontal space of the browser.
 
+![Final Our Technology Sketch Desktop](ourtech_sketch.jpeg)
+In the sketch, I am showing how the cooking diagram is no longer part of the interactivity of the lightbox popup. The cooking diagram as part of the interactivity did not prove to enhance the users' experience, as the diagram did not change that much from the original image.
+
 ### Design Rationale (Milestone 2)
 > Explain why your design is appropriate for your audience. Specially, why does your content organization, navigation, and site design/layout meet the goals of your users? How did you employ design patterns to improve the familiarity of the site for your audience?
 
@@ -911,7 +914,7 @@ This design is appropriate for our audience because it presents important inform
 #### Why Us Page:
 This design is appropriate for our audience because investors the content is organized in a way that investors can easily find all of the information they need to know before investing. It helps them reach their goals because they will be able to easily understand and navigate the website to answer their questions. The Why Us page tells investors about the product, why they are unique, and the business model. This is a really important part of the company that needs its own page, and so investors can easily find this information before investing. This site employs design patterns to improve the familiarity with a navigation bar for the desktop design, and a hamburger menu for the mobile design. Additionally, lightboxes are used on many sites, so users will know how to use this feature.
 
-The Our Technology design is appropriate because the page now has a focus on the technology. The new content is more cohesive in explaining what the technology is, how it will be implemented, and benefits for restaurants to use the technology. This will help investors get a deeper understanding of the technology and give them the information for if they want to invest or not.
+The Our Technology design is appropriate because the page now has a focus on the technology. The new content is more cohesive in explaining what the technology is, how it will be implemented, and benefits for restaurants to use the technology. This will help investors get a deeper understanding of the technology and give them the information for if they want to invest or not. Additionally, we got rid of the interactivity for the cooking diagram because it seemed redundant and did not benefit the user. The lightbox was meant to help the user closely look at the technology, but the cooking diagram did not change drastically change because of its width. The lightbox works with the wok images and effectively allows investors to look at the progress of the startup. The cooking diagram can be viewed the same with or without the lightbox.
 
 ## Interactivity Plan (Milestone 2)
 > Now that you've designed your interactivity for your site, you need to plan how you will implement it.
@@ -1075,11 +1078,11 @@ entire lightbox: `<div class = "tech-images">`
 wok a: `<img class = "large" id = "wok-a-popup">`
 wok b: `<img class = "large" id = "wok-b-popup" >`
 wok c: `<img class = "large" id = "wok-c-popup">`
-cooking: `<img class = "large" id = "cooking-popup">`
+<!-- cooking: `<img class = "large" id = "cooking-popup">` -->
 div for wok a: `<div class = "vertical hidden" id = "wok-a-div">`
 div for wok b: `<div class = "vertical hidden" id = "wok-b-div">`
 div for wok c: `<div class = "vertical hidden" id = "wok-c-div">`
-div for cooking: `<div class = "vertical hidden" id = "cooking-div">`
+<!-- div for cooking: `<div class = "vertical hidden" id = "cooking-div">` -->
 
 <!-- hamburger menu -->
 - hamburger menu: `button id="hamburger"`
@@ -1138,6 +1141,39 @@ when window > 800px:
         add .hidden class to .exit button
         change `overflow` attribute of .body class to `scroll`
 ```
+
+*revised pseudocode*
+```
+when window > 800px:
+    when user clicks on #wok_a element:
+        remove .hidden class from .exit class
+        remove .hidden class from #wok-a-popup
+        remove .hidden class from #wok-a-div
+        show .dim class
+        change `overflow` attribute of .body class to `hidden`
+
+    when user clicks on #wok_b element:
+        remove .hidden class from .exit class
+        remove .hidden class from #wok-b-popup
+        remove .hidden class from #wok-b-div
+        show .dim class
+        change `overflow` attribute of .body class to `hidden`
+
+    when user clicks on #wok_c element:
+        remove .hidden class from .exit class
+        remove hidden class from #wok-c-popup
+        remove .hidden class from #wok-c-div
+        show .dim class
+        change `overflow` attribute of .body class to `hidden`
+
+    when user clicks on .exit button:
+        add .hidden class to .large
+        add .hidden class to .vertical
+        hide .dim class
+        add .hidden class to .exit button
+        change `overflow` attribute of .body class to `scroll`
+```
+
 ## Client Feedback & Minutes (Milestone 2)
 > You should meet with your client again to obtain feedback on your design.
 > Provide a summary of the client's feedback and your meeting's minutes.
