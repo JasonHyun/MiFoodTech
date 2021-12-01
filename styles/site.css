@@ -810,6 +810,23 @@ figcaption{
       flex-direction: row;
     }
 
+    @media(max-width: 800px){
+      .timeline{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin: 50px;
+      }
+      .timelineframe{
+        margin: 0 auto;
+        width: 60%;
+        margin: 0 auto;
+      }
+      .timelinetitle{
+        font-weight: bold;
+        font-size: 22px;
+      }
 
+    }
 
 }
