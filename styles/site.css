@@ -529,6 +529,64 @@ figcaption{
   }
 }
 
+/* ourfuture */
+    .carousel-main{
+      justify-content: center;
+    }
+
+    .caq, .milestone{
+      font-size: 23px;
+      font-weight: bold;
+    }
+
+    .timeline{
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      margin: 50px;
+    }
+    .timelineframe{
+      margin: 0 auto;
+      width: 33%;
+    }
+
+    .timelinetitle{
+      font-weight: bold;
+      font-size: 22px;
+    }
+
+    .investp{
+      margin: 50px;
+    }
+
+    .investp p{
+      text-align: center;
+      margin: 50px;
+    }
+
+    .testrest{
+      display: flex;
+      flex-direction: row;
+    }
+
+    @media(max-width: 800px){
+      .timeline{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin: 50px;
+      }
+      .timelineframe{
+        margin: 0 auto;
+        width: 60%;
+        margin: 0 auto;
+      }
+      .timelinetitle{
+        font-weight: bold;
+        font-size: 22px;
+      }
+
+    }
 /* 800px Dekstop Size*/
 @media(min-width: 800px){
   .group {
@@ -765,64 +823,5 @@ figcaption{
       height: 1px;
       overflow: hidden;
     } */
-
-/* ourfuture */
-    .carousel-main{
-      justify-content: center;
-    }
-
-    .caq, .milestone{
-      font-size: 23px;
-      font-weight: bold;
-    }
-
-    .timeline{
-      display: flex;
-      flex-direction: row;
-      justify-content: center;
-      margin: 50px;
-    }
-    .timelineframe{
-      margin: 0 auto;
-      width: 33%;
-    }
-
-    .timelinetitle{
-      font-weight: bold;
-      font-size: 22px;
-    }
-
-    .investp{
-      margin: 50px;
-    }
-
-    .investp p{
-      text-align: center;
-      margin: 50px;
-    }
-
-    .testrest{
-      display: flex;
-      flex-direction: row;
-    }
-
-    @media(max-width: 800px){
-      .timeline{
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        margin: 50px;
-      }
-      .timelineframe{
-        margin: 0 auto;
-        width: 60%;
-        margin: 0 auto;
-      }
-      .timelinetitle{
-        font-weight: bold;
-        font-size: 22px;
-      }
-
-    }
 
 }
