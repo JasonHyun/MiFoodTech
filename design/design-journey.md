@@ -1034,16 +1034,22 @@ when close icon clicked:
 ```
 #### Invest Page
 html:
-TIMELINE
- timeline: '<div class="timeline">'
-CAROUSEL
+TIMELINE:
+ timeline: '<div class="timeline">
+ <section class="investp">
+ <div class="milestone">
+ <div class="timelineframe">
+ <div class="timelinetitle">
+ <div class="testrest">
+ <div class= "tanr">
+CAROUSEL:
 right button: `button id="right"`
 left button: `button id="left"`
 first dot: `button class = "dot active"`
 dots: `button class = "dot"`
 first slide:`<img class="slide" id="slide1" src="images/slide1.jpg" alt="Slide 1"/>`
 other slide: `<img class="slide hidden" id="slide2" src="images/slide2.jpg" alt="Slide 2"/>`
-HAMBURGER
+HAMBURGER:
 hamburger menu: `button id="hamburger"`
 close button: `button class="hidden-m" id="close"`
 
@@ -1053,7 +1059,7 @@ css classes
 `.hidden` - hide elements
 `button:hover` - change background color and cursor on hovers
 
-
+js planning
 ```
 // when #next-button clicked: (on-click-event snippet)
 //   show next slide (next slide snippet
