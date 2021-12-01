@@ -1036,6 +1036,8 @@ when close icon clicked:
 html:
 TIMELINE:
  timeline: '<div class="timeline">
+ UPDATED TIMELINE:
+  timeline: '<div class="timeline">
  <section class="investp">
  <div class="milestone">
  <div class="timelineframe">
