@@ -39,6 +39,7 @@ header a:hover {
 nav{
   background-color: #90beff;
 }
+
 nav a {
   text-decoration: none;
   color: black;
@@ -86,6 +87,7 @@ footer{
   background-color: #bbd7ff;
   margin-top: 40px;
 }
+
 /* button styles */
 button{
   color: black;
@@ -97,14 +99,14 @@ button{
   padding: 5px 20px;
   border: 2px solid #90beff;
 }
+
 button:hover{
   background-color: #90beff;
   cursor: pointer;
   opacity: 100%;
 }
 
-
-
+/* header + nav bar styles */
 .header-left{
   display: flex;
   align-items: center;
@@ -117,7 +119,6 @@ button:hover{
   display: inline-block;
   position: relative;
   margin: .5em .5em;
-
 }
 
 .selected{
@@ -142,14 +143,6 @@ button:hover{
   font-size: 1.1em;
 }
 
-.hidden{
-  position: absolute;
-  left: -100000px;
-  top: auto;
-  width: 1px;
-  height: 1px;
-  overflow: hidden;
-}
 #hamburger, #close{
   color: #103a6d;
   background-color: #bbd7ff;
@@ -163,6 +156,15 @@ button:hover{
   color: white;
 }
 
+.hidden{
+  position: absolute;
+  left: -100000px;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+
 /* home page css */
 
 .carousel-main{
@@ -170,15 +172,12 @@ button:hover{
   flex-direction: row;
   border-top: 2px solid #90beff;
   border-bottom:2px solid #90beff;
-
 }
-
 .slides img{
   width: 100%;
   margin-left: auto;
   margin-right: auto;
 }
-
 .dots{
   display: flex;
   flex-direction: row;
@@ -192,16 +191,16 @@ button:hover{
 }
 .carousel button{
   border: none;
-
-}
-.content{
-  padding-left: 5%;
-  padding-right:5%;
 }
 .arrow{
   opacity: 70%;
   padding-bottom: 0;
   padding-top: 0;
+}
+
+.content{
+  padding-left: 5%;
+  padding-right:5%;
 }
 
 .content q{
@@ -212,8 +211,8 @@ button:hover{
 
 .content img{
   width: 100%;
-
 }
+
 .home{
   text-align: left;
   padding-left: 5%;
@@ -223,7 +222,6 @@ button:hover{
   margin-bottom: 40px;
   margin-top: 40px;
 }
-
 
 /* our tech mobile CSS */
 h1, h2, h3{
@@ -480,9 +478,7 @@ figcaption{
 }
 
 @media screen and (max-width: 1110px) {
-  /* body{
-    font-size: 1.1em;
-  } */
+
   .hidden-m{
     position: absolute;
     left: -100000px;
@@ -594,36 +590,18 @@ figcaption{
     justify-content: center;
   }
 
-  /* .header-left{
-    order: 0;
-  }
-  .source-ham{
-    order:0;
-  }
-  .navi{
-    order:0;
-    flex-grow:0;
-    flex-basis:auto;
-  }
-  nav ul{
-    display: flex;
-    flex-direction: row;
-  } */
   .content{
     display: flex;
     flex-direction: row;
     align-items: center;
     width: 90%;
-    /* margin-bottom: 20%; */
   }
 
   .content img{
-    padding-left: 5%;
     min-width:40%;
   }
 
   .carousel{
-
     padding-left: 5%;
     padding-right: 5%;
   }
