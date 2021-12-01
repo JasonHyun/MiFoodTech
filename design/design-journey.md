@@ -620,6 +620,10 @@ We grouped content into 5 categories: background, about the team, about the robo
 ![Third Iteration of Cardsorting](/design/cardsort3.png)
 The five categories from the second iteration are maintained, except the specific contents of robot technology, problems and solutions, and automatic wok image are swapped between their previous categories. As such, we also maintain the same extent of distributing the information across the pages; the only change that have occurred is swapping the scope of the company background page and the robot/technology webpage. What this achieves is a bit more narrow and specific presentation of content from the company background, and a wider and general portrayal of content for the technology webpage.
 
+*New Changes to Cardsort (from re-design process)*
+![New CardSort](newCardSort.jpg)
+Originally, the business model/plan content was a part of robot technology, but we took Mi's request to separate the content and put it in the cardsort(not adding new content). After user testing, we also took the user's suggestions to switch the competition comparison with the labor costs graph. This allows the Market page to have more cohesive content, as well as the Why Us page. The competitor benchmarking information seemed to make more sense with the Market page information, since it is referring to other companies with competing products in the market. The labor costs comparison graph made sense with the Why Us page because it demonstrates benefits of the actual technology for businesses. Additionally, we re-named the "Why Us" page (right) to "Our Technology" based off the user testing results. The new card sort makes sense for the new name since it focuses more on their technology and the benefits.
+
 ### Final Content Organization (Milestone 2)
 > Which iteration of card sorting will you use for your website?
 
@@ -630,6 +634,7 @@ We will be using Cardsort 2 as it is the most appropriate for our website.
 
 We believe it is the most logically sorted with five distinct sections: about the company, team background, industry advantages, robot technology, and future plans. This organization creates distinct focuses and helps the audience clearly pinpoint the information they may be seeking. The website makes use of graphics, images, and projections of MiTechFood success in the future. All of this content is spaced out evenly across all of the pages so that no one page is too congested or bare. Cardsort 2 is preferable to Cardsort 1 because the wages graph is not part of the background. The idea behind this was to keep the background more focused on the Company background and the solutions they are solving with their innovative restaurant idea. We decided that the wages graph would better suit the page about industry outlook with more financial information. Also, Cardsort 2 is preferable to Cardsort 3 because it does not swap the scope of the company background page and the robot/technology webpage. We decided that introducing robotic technology information and image all on one webpage was more streamlined.
 
+The new cardsort is appropriate for the audiences and goals because we took the feedback from user testing and made the website more understandable to the audience. The pages are more cohesive, as the Market page has all the information on the market and the technology page can focus more on the company's technology. This new organization will help users be able to find content easier.
 
 ### Navigation (Milestone 2)
 > Please list the pages you will include in your personal website navigation.
@@ -640,12 +645,17 @@ We believe it is the most logically sorted with five distinct sections: about th
 - Why Us?
 - Invest
 
+- Home
+- Team
+- Market
+- Our Technology
+- Our Future
 
 > Explain why the names of these pages make sense for your site's audience and their goals.
 
 These names make sense for the site's audience, because each name appropriately categorizes the user's goals. For the potential investors who are thinking on making investments and thus wishing to find out how MiTechFoods differs from other companies, they would navigate to the "Why Us?" webpage. Similarly, for investors who are more curious to see who and what kind of people are involved, they would navigate to the "Team" webpage, and so on. For those looking to see the future company plan and trajectory they would look for Invest. In other words, each name of the webpages semantically correspond to the goals that we have already identified as the user's goals when they visit our website.
 
-
+After user testing, we decided to change the names of Our Technology and Our Future, which was justified in the re-design process. Many users were confused to find content on the Why Us page that was related to technology. Changing the name to Our Technology, especially with the new cardsort, clears up what information is on what page for the users. Additionally, we changed the Invest page to Our Future because the main idea of the page is on the future plans. However, our client wanted people to have a page they could go to invest in his company, so we combined the ideas and called it OUR Future.
 
 ## Design (Milestone 2)
 
@@ -846,7 +856,16 @@ The mobile design utilizes a hamburger menu for the nav bar. This helps account 
 
 The mobile design has information organized in the same way as the desktop design. The space is used effectively by making horizontal elements go vertically in order instead. There will not be a lightbox in the mobile design because the images would be squeezed and small if they were horizontally next to each other on a mobile screen, even if they could be made bigger. Instead, the images will fill the mobile screen and be larger pictures to start. The final sketch has a hamburger menu instead of a navigation bar to use space more effectively.
 
+*Revised Final Designs (from re-design section)*
+![New Our Technology Sketch Mobile](techMobile.jpg)
 
+In this sketch, we added the labor costs comparison chart (from the user testing and cardsort) at the bottom because this is information that comes after the development of the technology. The new main emphasis of the page is the technology itself, so the prototypes and the plan make more sense to be ahead. The labor costs information is related because it shows a positive effect of the technology being implemented. The new page will allow investors to learn about the technology in a more understandable way.
+
+![New Industry Outlook Sketch Mobile](industryMobile.jpg)
+We believed that the competitor analysis belonged on the market page (from the user testing and cardsort) because it is related to other possible sellers in the market. In this sketch the competitor benchmarking chart and information is added. It is placed last in the content because is the more general information on the market for the product makes more sense to be introduced first. This change in content gives investors a better idea of how the product can do in the market.
+
+![New Our Future Sketch Mobile](futuremobile.jpg)
+Instead of using a carousel, it was agreed upon that this page would be better off without the unnecessary interactivity. It did not add to the mobile design which would have been just as effective with just a flex row, which is what was used instead. This way the users can see all the information laid out before them without having to click through the carousel or have the annoyance of having to do extra work to see very basic and straightforward bullets. Users confirm that this choice is less distracting and more to the point, for these reasons other interactivity such as hover and dropdown were not employed from the horizontal and vertical future milestones because it took away from the content and caused more distractions than improvement to content. Also, since these were features of almost all other pages, the idea would have been consistent, yet redundant for users and been an annoyance to keep hovering or clicking to view content that in this case, can be easily viewed without more elaborate steps. This was an important design choice because we did not want to have interactivity just for the sake of interactivity as discussed in class.
 
 **Desktop Design:**
 ![Final sketch of Desktop Home Page](/design/homeDesk-final.jpg)
@@ -864,6 +883,13 @@ We chose this design because the site's information is organized in the best way
 
 ![Final Iteration of Desktop Invest](/design/future1.jpg)
 This streamlined layout uses a hover timeline which increases audience interactivity and engagement. When an investor or other user hover the mouse over a year on the timeline additional information will appear. Also, additional information in paragraph form will be provided for interested investors and other uses who want to learn more or are seeking to contact MiTechFood. These design choices allow for content that is appropriately spaced and includes the appropriate amount of interactivity.
+
+*Revised Final Designs (from re-design section)*
+![New Our Technology Sketch Desktop](techDesktop.jpg)
+In this sketch, the labor costs comparison information is at the bottom of the page and is made horizontally into a flex box to effectively use the space better.
+
+![New Industry Outlook Sketch Desktop](industryDesktop.jpg)
+In this sketch, the competitor analysis information is made horizontally to effectively use the horizontal space of the browser.
 
 ### Design Rationale (Milestone 2)
 > Explain why your design is appropriate for your audience. Specially, why does your content organization, navigation, and site design/layout meet the goals of your users? How did you employ design patterns to improve the familiarity of the site for your audience?
@@ -884,6 +910,8 @@ This design is appropriate for our audience because it presents important inform
 
 #### Why Us Page:
 This design is appropriate for our audience because investors the content is organized in a way that investors can easily find all of the information they need to know before investing. It helps them reach their goals because they will be able to easily understand and navigate the website to answer their questions. The Why Us page tells investors about the product, why they are unique, and the business model. This is a really important part of the company that needs its own page, and so investors can easily find this information before investing. This site employs design patterns to improve the familiarity with a navigation bar for the desktop design, and a hamburger menu for the mobile design. Additionally, lightboxes are used on many sites, so users will know how to use this feature.
+
+The Our Technology design is appropriate because the page now has a focus on the technology. The new content is more cohesive in explaining what the technology is, how it will be implemented, and benefits for restaurants to use the technology. This will help investors get a deeper understanding of the technology and give them the information for if they want to invest or not.
 
 ## Interactivity Plan (Milestone 2)
 > Now that you've designed your interactivity for your site, you need to plan how you will implement it.
@@ -1729,11 +1757,17 @@ In this card sort, we separated the business plan from the diagrams because we f
 These are our updated sketches:
 ####Our Technology Page
 ![New Our Technology Sketch Mobile](techMobile.jpg)
+In this sketch, we added the labor costs comparison chart (from the user testing and cardsort) at the bottom because this is information that comes after the development of the technology. The new main emphasis of the page is the technology itself, so the prototypes and the plan make more sense to be ahead. The labor costs information is related because it shows a positive effect of the technology being implemented. This will really help investors be able to understand the technology and its benefits better because of the organization.
+
 ![New Our Technology Sketch Desktop](techDesktop.jpg)
+In this sketch, the labor costs comparison information is at the bottom of the page and is made horizontally into a flex box to effectively use the space better.
 
 ####Industry Outlook Page
 ![New Industry Outlook Sketch Mobile](industryMobile.jpg)
+We believed that the competitor analysis belonged on the market page (from the user testing and cardsort) because it is related to other possible sellers in the market. In this sketch the competitor benchmarking chart and information is added. It is placed last in the content because is the more general information on the market for the product makes more sense to be introduced first. This will help investors learn about the market for the product by making all of the information easier to find.
+
 ![New Industry Outlook Sketch Desktop](industryDesktop.jpg)
+In this sketch, the competitor analysis information is designed horizontally to effectively use the horizontal space of the browser.
 
 ####Our Future Page
 ![New Our Future Sketch Mobile](futuremobile.jpg)
