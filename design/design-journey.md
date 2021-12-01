@@ -834,7 +834,7 @@ Invest will enable investors to see how MiTechFood will progress and develop in 
 #### Why Us:
 This page uses a lightbox for interactivity. This will be used on the images of the technology. This includes the three images of the automatic wok and the diagram of cooking shredded potatoes. The user will be able to click on the image and a bigger image will pop up and the user can see it in more detail and the images will be outlined when users hover, so they know they can click on the image. The image will go away when the user x's out of the larger images. This improves the usability because the user can examine the technology and get more familiar with the technology. This is important because the intended audience is investors, so they need to understand the technology before investing. This helps them meet their goals because the investor is trying to learn about the company's product, so helping the audience get a closer look at the diagrams will help them achieve this goal. The mobile design will have a hamburger menu to use space more effectively. It will not utilize a lightbox because the images will be larger to start with. This design is common amongst many mobile website designs.
 
-The interactivity will not work on the cooking diagram any longer because it does not enhance the user's experience on the website or understanding of the diagram.
+The interactivity will not work on the cooking diagram any longer because it does not enhance the user's experience on the website or understanding of the diagram. The cooking diagram stays a very similar size in the lightbox than on the regular website, so it was not very useful in the lightbox
 
 ### Final Design (Milestone 2)
 > Include the final sketches for **each** of your site's pages.
