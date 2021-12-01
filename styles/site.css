@@ -268,13 +268,19 @@ figcaption{
     margin: 10px;
 }
 
+.business-info ul{
+    list-style-position: outside;
+    padding: 5px;
+    margin: 10px;
+}
+
 .wok{
     width: 100%;
 }
 
 .wok-outer{
     width: 90%;
-    max-width: 500px;
+    max-width: 450px;
     margin: 0 auto;
     display: block;
     margin-bottom: 30px;
@@ -646,6 +652,7 @@ figcaption{
 
   .labor-flex{
       display:flex;
+      flex-direction: row-reverse;
       margin:10px auto;
       justify-content: center;
       align-items: center;
