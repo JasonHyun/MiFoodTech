@@ -1737,7 +1737,7 @@ These are our updated sketches:
 
 ####Our Future Page
 [New Our Future Sketch Mobile](futuremobile.jpg)
-Instead of using a carousel, it was agreed upon that this page would be better off with the unnecessary interactivity. It did not add to the mobile design which would have been just as effective with just a flex row, which is what was used instead. Users confirm that this choice is less distracting and more to the point, for these reasons other interactivity such as hover were not employed from the horizontal and vertical future milestones because it took away from the content and caused more distractions than improvement to content. 
+Instead of using a carousel, it was agreed upon that this page would be better off without the unnecessary interactivity. It did not add to the mobile design which would have been just as effective with just a flex row, which is what was used instead. Users confirm that this choice is less distracting and more to the point, for these reasons other interactivity such as hover were not employed from the horizontal and vertical future milestones because it took away from the content and caused more distractions than improvement to content. 
 
 
 ## Final Notes to the Graders (Final Submission)
