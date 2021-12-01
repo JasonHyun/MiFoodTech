@@ -465,7 +465,9 @@ figcaption{
 }
 
 .name:hover {
-  color: gray;
+  text-decoration: underline;
+  color: white;
+  background-color: #83b6ff;
   cursor: pointer;
 }
 
@@ -475,10 +477,10 @@ figcaption{
   }
 }
 
-@media screen and (max-width: 1000px) {
-  body{
+@media screen and (max-width: 1110px) {
+  /* body{
     font-size: 1.1em;
-  }
+  } */
   .hidden-m{
     position: absolute;
     left: -100000px;
@@ -490,7 +492,7 @@ figcaption{
 
 }
 
-@media screen and (min-width: 1000px) {
+@media screen and (min-width: 1110px) {
   body{
     font-size: 1.3em;
   }
@@ -759,14 +761,14 @@ figcaption{
         margin-left: 10px;
     }
 
-    .hidden{
+    /* .hidden{
       position: absolute;
       left: -100000px;
       top: auto;
       width: 1px;
       height: 1px;
       overflow: hidden;
-    }
+    } */
 
     .carousel-main{
       justify-content: center;
