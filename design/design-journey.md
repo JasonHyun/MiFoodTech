@@ -700,7 +700,7 @@ We chose Theme 1, mainly because its features most resembled the examples that w
     - easy to see how robot moves/is used which would be helpful to investors
 - Modal design pattern (team page)
     - when you click on an image of someone, that person's bio shows up
-    - easy to learn more details about a specific team memver
+    - easy to learn more details about a specific team member
 - Drop down timeline ( Invest page)
     - titles of stages on timeline and when you click on each stage the drop down with more details shows up
     - useful for investors to see bigger picture before looking for more details
@@ -1737,7 +1737,7 @@ These are our updated sketches:
 
 ####Our Future Page
 ![New Our Future Sketch Mobile](futuremobile.jpg)
-Instead of using a carousel, it was agreed upon that this page would be better off without the unnecessary interactivity. It did not add to the mobile design which would have been just as effective with just a flex row, which is what was used instead. This way the users can see all the information laid out before them without having to click through the carousel or have the annoyance of having to do extra work to see very basic and straightforward bullets. Users confirm that this choice is less distracting and more to the point, for these reasons other interactivity such as hover were not employed from the horizontal and vertical future milestones because it took away from the content and caused more distractions than improvement to content. This was an important design choice because we did not want to have interactivity just for the sake of interactivity as discussed in class.
+Instead of using a carousel, it was agreed upon that this page would be better off without the unnecessary interactivity. It did not add to the mobile design which would have been just as effective with just a flex row, which is what was used instead. This way the users can see all the information laid out before them without having to click through the carousel or have the annoyance of having to do extra work to see very basic and straightforward bullets. Users confirm that this choice is less distracting and more to the point, for these reasons other interactivity such as hover and dropdown were not employed from the horizontal and vertical future milestones because it took away from the content and caused more distractions than improvement to content. Also, since these were features of almost all other pages, the idea would have been consistent, yet redundant for users and been an annoyance to keep hovering or clicking to view content that in this case, can be easily viewed without more elaborate steps. This was an important design choice because we did not want to have interactivity just for the sake of interactivity as discussed in class.
 
 
 ## Final Notes to the Graders (Final Submission)
