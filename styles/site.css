@@ -348,30 +348,34 @@ figcaption{
       right:0;
 }
 
-/* Market css */
-.marketSize, .industryOutlook, .laborCosts{
+/* industry css */
+.marketSize, .industryOutlook, .competition{
     display: flex;
     flex-direction: column;
-    width: 100%;
     align-items: center;
     width: 90%;
     margin: auto;
     margin-top: 50px;
 }
-.marketSize, .industryOutlook, .laborCosts div{
+.conclusion{
+    width: 90%;
+    margin: auto;
+    margin-top: 50px;
+}
+.marketSize, .industryOutlook, .competition, .conclusion div{
     width: 95%;
 }
-.marketSize .graph img{
+.marketSize .diagram img{
     width: 100%;
     height: auto;
 }
 .industryOutlook img{
     width: 100%;
 }
-.laborCosts img{
+.competition img{
     width: 100%;
 }
-.graph{
+.diagram{
     position: relative;
 }
 #TAM {
@@ -395,20 +399,10 @@ figcaption{
     bottom: 32.5%;
     left: 37.5%;
 }
-.textBox{
-    position: absolute;
-    top: 30%;
-    left: 5%;
-    background-color: #ffffff;
-    width: 90%;
+.hidden-text{
+    display: none;
 }
-.textBox p{
-    width: 90%;
-    margin: auto;
-    margin-bottom: 10px;
-    margin-top: 10px;
-}
-
+/*Team CSS*/
 .founder {
   display:flex;
   flex-direction: row;
@@ -578,14 +572,6 @@ figcaption{
   }
 
 /* our tech CSS desktop*/
-  .unique{
-        display:flex;
-        margin:10px auto;
-        justify-content: center;
-        align-items: center;
-        padding: 10px;
-        width: 90%;
-  }
 
   .whyus-info{
         width: 40%;
@@ -728,22 +714,12 @@ figcaption{
   }
 
 /* market CSS */
-    .marketSize, .industryOutlook,  .laborCosts{
+    .industryOutlook,  .competition{
         flex-direction: row;
     }
-
-    .marketSize div.text{
-        width: 70%;
+    .conclusion{
+        max-width: 800px;
     }
-    .marketSize div.graph{
-        margin-left: 10px;
-        width: 30%;
-    }
-    .marketSize div.graph img{
-        width: 100%;
-        margin-left: 10px;
-    }
-
     .industryOutlook div.text{
         width: 50%;
     }
@@ -751,20 +727,34 @@ figcaption{
         width: 50%;
         margin-right: 10px;
     }
-
-    .laborCosts img{
-        width: 70%;
+    .competition div.text{
+        width: 50%;
+    }
+    .competition img{
+        width: 50%;
         margin-left: 10px;
     }
 
-    /* .hidden{
-      position: absolute;
-      left: -100000px;
-      top: auto;
-      width: 1px;
-      height: 1px;
-      overflow: hidden;
-    } */
+    .marketSize{
+        display: flex;
+        flex-direction: column;
+        width: 90%;
+    }
+    .marketSize .seen{
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+    }
+    .marketSize .seen .div{
+        width: 50%;
+    }
+    .marketSize .diagram{
+        margin-left: 10px;
+        width: 100%;
+    }
+
+
+
 
 /* ourfuture */
     .carousel-main{
