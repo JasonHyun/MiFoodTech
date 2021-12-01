@@ -28,15 +28,15 @@ $("#wok_c").click(function(){
     }
 });
 
-$("#cooking-diagram").click(function(){
-    if ($(window).width()>800){
-        $(".exit").removeClass("hidden");
-        $("#cooking-popup").removeClass("hidden");
-        $("#cooking-div").removeClass("hidden");
-        $(".dim").show();
-        $("body").css("overflow", "hidden");
-    }
-});
+// $("#cooking-diagram").click(function(){
+//     if ($(window).width()>800){
+//         $(".exit").removeClass("hidden");
+//         $("#cooking-popup").removeClass("hidden");
+//         $("#cooking-div").removeClass("hidden");
+//         $(".dim").show();
+//         $("body").css("overflow", "hidden");
+//     }
+// });
 
 $(".exit").click(function(){
     $(".large").addClass("hidden");
