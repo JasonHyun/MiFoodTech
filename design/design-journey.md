@@ -638,12 +638,12 @@ We believe it is the most logically sorted with five distinct sections: about th
 - Team
 - What is FoodTech?
 - Why Us?
-- Our Future
+- Invest
 
 
 > Explain why the names of these pages make sense for your site's audience and their goals.
 
-These names make sense for the site's audience, because each name appropriately categorizes the user's goals. For the potential investors who are thinking on making investments and thus wishing to find out how MiTechFoods differs from other companies, they would navigate to the "Why Us?" webpage. Similarly, for investors who are more curious to see who and what kind of people are involved, they would navigate to the "Team" webpage, and so on. For those looking to see the future company plan and trajectory they would look for our Future. In other words, each name of the webpages semantically correspond to the goals that we have already identified as the user's goals when they visit our website.
+These names make sense for the site's audience, because each name appropriately categorizes the user's goals. For the potential investors who are thinking on making investments and thus wishing to find out how MiTechFoods differs from other companies, they would navigate to the "Why Us?" webpage. Similarly, for investors who are more curious to see who and what kind of people are involved, they would navigate to the "Team" webpage, and so on. For those looking to see the future company plan and trajectory they would look for Invest. In other words, each name of the webpages semantically correspond to the goals that we have already identified as the user's goals when they visit our website.
 
 
 
@@ -701,10 +701,10 @@ We chose Theme 1, mainly because its features most resembled the examples that w
 - Modal design pattern (team page)
     - when you click on an image of someone, that person's bio shows up
     - easy to learn more details about a specific team memver
-- Drop down timeline ( Our Future page)
+- Drop down timeline ( Invest page)
     - titles of stages on timeline and when you click on each stage the drop down with more details shows up
     - useful for investors to see bigger picture before looking for more details
-- Hover on timeline titles (Our Future page)
+- Hover on timeline titles (Invest page)
     - titles of stages on timeline, when you hover over the details show up
     - useful for investors to see bigger picture before looking for more details
 - Timed Carousel of lots of chinese food pictures (home page)
@@ -757,22 +757,22 @@ This sketch maintains the same array idea from the first iteration, except each 
 ![Second Iteration of Mobile Team Page](/design/teamMobile2.jpg)
 Accordingly, the array for this iteration has been expanded to two columns, with each slot consisting of a headshot of a member and their name below said headshot. This allows for free use of space horizontally, where we can fit another slot for another member.
 
-#### Our Future Page (Danielle)
+#### Invest Page (Danielle)
 **First Iteration Desktop**
-![First Iteration of Desktop Our Future](/design/future1.jpg)
+![First Iteration of Desktop Invest](/design/future1.jpg)
 This page uses a streamlined layout which focuses on investment and the future company outlook. This page will use a hover timeline which increases audience interactivity and engagement. Additional information will be provided for interested investors and other uses who want to learn more or are seeking to contact MiTechFood. This design aligns with the overall layout and theme of the other pages and fits seamlessly with our overall design.
 
 **Second Iteration Desktop**
-![Second Iteration of Desktop Our Future](/design/future2.jpg)
+![Second Iteration of Desktop Invest](/design/future2.jpg)
 The second design is slightly less interactive than the first design and employs a more straightforward and basic layout. The timeline will be listed in a horizontal format and remain static. There will also be two paragraphs one focusing on future planning and another of acquisition strategy. This will appeal to the audience because it is both straightforward and functional, but its also full of important investing and outlook information.
 
 **First Iteration Mobile**
-![First Iteration of Desktop Our Future](/design/future3.jpg)
+![First Iteration of Desktop Invest](/design/future3.jpg)
 
 The mobile design closely follows design and layout ideas used in future 1. However, a hamburger menu is employed for the nav bar to help account for the lack of screen size. A carousel is also used to help consolidate the timeline in the desktop version so that the audience a=can easily glance through the years projections with relative ease.
 
 **Second Iteration Mobile**
-![Second Iteration of Desktop Our Future](/design/future4.jpg)
+![Second Iteration of Desktop Invest](/design/future4.jpg)
 The second iteration is similar to the first but instead splits the customer acquisition into a paragraph and an image, This breaks up the page more and make it more readable. There is less text and the information is more easily digestible. A slideshow will be used instead of a carousel to help create a moving timeline that audience members can click through and view.
 
 
@@ -818,8 +818,8 @@ This page will allow for the users to click on  different sections of the market
 #### Team:
 this page will allow for users to click on either the names or headshots of the team's members, which will cause a pop-up banner to show up. Said banner will include the same headshot and name of the member, as well as more detailed descriptions of who they are and what they do in the team.
 
-#### Our Future:
-Our Future will enable investors to see how MiTechFood will progress and develop in the future. Users will be able to view a timeline to view descriptions of future outlook and progression. For the mobile version the timeline will be a carousel where users can click through arrows or dots to go to a specific slide which features certain information for a year. A hamburger menu will also be used for mobile design because of smaller screen size limitations. These aspects improve the usability of the site by making it more engaging and interactive. It also presents information logically and in an appealing manner.
+#### Invest:
+Invest will enable investors to see how MiTechFood will progress and develop in the future. Users will be able to view a timeline to view descriptions of future outlook and progression. For the mobile version the timeline will be a carousel where users can click through arrows or dots to go to a specific slide which features certain information for a year. A hamburger menu will also be used for mobile design because of smaller screen size limitations. These aspects improve the usability of the site by making it more engaging and interactive. It also presents information logically and in an appealing manner.
 
 #### Why Us:
 This page uses a lightbox for interactivity. This will be used on the images of the technology. This includes the three images of the automatic wok and the diagram of cooking shredded potatoes. The user will be able to click on the image and a bigger image will pop up and the user can see it in more detail and the images will be outlined when users hover, so they know they can click on the image. The image will go away when the user x's out of the larger images. This improves the usability because the user can examine the technology and get more familiar with the technology. This is important because the intended audience is investors, so they need to understand the technology before investing. This helps them meet their goals because the investor is trying to learn about the company's product, so helping the audience get a closer look at the diagrams will help them achieve this goal. The mobile design will have a hamburger menu to use space more effectively. It will not utilize a lightbox because the images will be larger to start with. This design is common amongst many mobile website designs.
@@ -839,7 +839,7 @@ At the top of the page is the logo of MiFoodTech next to the company name and a 
 ![Final sketch of Mobile Team Page](/design/teamMobile_final.jpg)
 The final mobile design incorporates most features from the second iteration, where the headshots and names of the members are displayed in vertical pairs, with two columns. As per our client's request, the members will also be divided into three groups: the Founder, Group A (engineering team), and Group B (management team).
 
-![Final Iteration of Desktop Our Future](/design/future3.jpg)
+![Final Iteration of Desktop Invest](/design/future3.jpg)
 
 The mobile design utilizes a hamburger menu for the nav bar. This helps account for the lack of screen size. A carousel is also used to help consolidate the timeline in the desktop version so that the audience a=can easily glance through the years projections with relative ease. This layout is sleek and effective, investors will be able to access important information with ease.
 ![Final sketch of Why Us Mobile Design](/design/whyus_mobile3.jpeg)
@@ -862,7 +862,7 @@ The organization of contents for the final Desktop page will be similar to the M
 
 We chose this design because the site's information is organized in the best way to explain why the company is unique, the technology, and the business model. This order was important to help investors understand the company's product. Additionally, we chose the lightbox interactivity because it will display all of the images at the same time, unlike a carousel, so investors can easily browse and get a close-up view of the technology.
 
-![Final Iteration of Desktop Our Future](/design/future1.jpg)
+![Final Iteration of Desktop Invest](/design/future1.jpg)
 This streamlined layout uses a hover timeline which increases audience interactivity and engagement. When an investor or other user hover the mouse over a year on the timeline additional information will appear. Also, additional information in paragraph form will be provided for interested investors and other uses who want to learn more or are seeking to contact MiTechFood. These design choices allow for content that is appropriately spaced and includes the appropriate amount of interactivity.
 
 ### Design Rationale (Milestone 2)
@@ -879,7 +879,7 @@ This design is appropriate for our audience because it presents information in a
 #### Team Page:
 This design is appropriate for our audience, because it presents the members of the team in a space-efficient manner, consistent with the overall theme we've chose on. It also helps with the goals of the users, specifically for those who wish to know more about the team, both collectively and individually.
 
-#### Our Future Page:
+#### Invest Page:
 This design is appropriate for our audience because it presents important information on company outlook and future projections. It also has connect information and other opportunities if investors of other interested individuals want to reach out to connect with MiTechFood. It is a straightforward way for investors to get information they need to assess whether or not/ how much money and time they would like to invest in MiTechFood. The organization, navigation, and site design/layout meet the goals of my users and employs design patterns such as a timelines hover, carousel, and hamburger menu nav bar (mobile layout) to create an interactive and engaging experience. The use of the hover and carousel feature also draws user attention to important aspects about future trajectory and investment which is an emphasis especially for an audience of investors.
 
 #### Why Us Page:
@@ -999,7 +999,7 @@ when headshot is clicked:
 when close icon clicked:
     add hidden to banner of headshot member
 ```
-#### Our Future Page
+#### Invest Page
 html:
 TIMELINE
  timeline: '<div class="timeline">'
