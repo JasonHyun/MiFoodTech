@@ -668,6 +668,10 @@ figcaption{
         font-weight: bold;
         font-size: 22px;
       }
+      .testrest{
+        display: flex;
+        flex-direction: column;
+      }
 
     }
 /* 800px Dekstop Size*/
