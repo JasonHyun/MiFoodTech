@@ -4,7 +4,7 @@
 var modal = document.getElementById("founder");
 var span = document.getElementsByClassName("close")[0];
 
-$("#MiYan").click(function() {
+$("#MiYanName").click(function() {
   modal.style.display = "block";
 })
 

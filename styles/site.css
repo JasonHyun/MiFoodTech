@@ -447,7 +447,7 @@ figcaption{
   margin: 15% auto;
   padding: 20px;
   width: 80%;
-  background-color: #ffbc98;
+  background-color: #bbd7ff;
 
 }
 
@@ -461,6 +461,11 @@ figcaption{
 .close:focus {
   color: black;
   text-decoration: none;
+  cursor: pointer;
+}
+
+.name:hover {
+  color: gray;
   cursor: pointer;
 }
 
