@@ -1715,12 +1715,13 @@ Why Us Page:
 Invest Page:
 - Rename to “Our Future”
 - Bullet Point Text (customer aq strategy)
+- Get rid of Carousel (unnecessary)
 
 Home Page:
 - Bullet Point Text
 
 ### Re Design Process:
-Because we made many changes to the Market Page and the Why Us Page, we re-card sorted and re-sketched these two pages. Below is the re-card sort:
+Because we made many changes to the Market Page and the Why Us Page, we re-card sorted and re-sketched these two pages. Also for the Our Future Page the mobile design was resketched to reflect the deletion of a carousel. Below is the re-card sort:
 
 ![New CardSort](newCardSort.jpg)
 In this card sort, we separated the business plan from the diagrams because we felt that it was important to be more specific as we were working on a smaller scale (between two pages instead of the whole website). Originally, the business model/plan content was a part of robot technology, but we took Mi's request to separate the content and put it in the cardsort(not adding new content). We also took the user's suggestions to switch the competition comparison with the labor costs graph. This allows the Market page to have more cohesive content, as well as the Why Us page. Additionally, we re-named the "Why Us" page (right) to "Our Technology" based off the user testing results. The new card sort makes sense for the new name since it focuses more on their technology and the benefits.
@@ -1733,6 +1734,10 @@ These are our updated sketches:
 ####Industry Outlook Page
 ![New Industry Outlook Sketch Mobile](industryMobile.jpg)
 ![New Industry Outlook Sketch Desktop](industryDesktop.jpg)
+
+####Our Future Page
+[New Our Future Sketch Mobile](futuremobile.jpg)
+Instead of using a carousel, it was agreed upon that this page would be better off with the unnecessary interactivity. It did not add to the mobile design which would have been just as effective with just a flex row, which is what was used instead. Users confirm that this choice is less distracting and more to the point, for these reasons other interactivity such as hover were not employed from the horizontal and vertical future milestones because it took away from the content and caused more distractions than improvement to content. 
 
 
 ## Final Notes to the Graders (Final Submission)
