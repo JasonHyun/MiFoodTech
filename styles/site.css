@@ -770,14 +770,30 @@ figcaption{
       overflow: hidden;
     } */
 
+/* ourfuture */
     .carousel-main{
       justify-content: center;
     }
 
+    .caq, .milestone{
+      font-size: 23px;
+      font-weight: bold;
+    }
+
     .timeline{
-      display: block;
-      width: 40%;
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      margin: 50px;
+    }
+    .timelineframe{
       margin: 0 auto;
+      width: 33%;
+    }
+
+    .timelinetitle{
+      font-weight: bold;
+      font-size: 22px;
     }
 
     .investp{
@@ -788,7 +804,6 @@ figcaption{
       text-align: center;
       margin: 50px;
     }
-
 
     .testrest{
       display: flex;
