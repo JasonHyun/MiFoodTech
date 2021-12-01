@@ -10,7 +10,7 @@ Working together as a team is critical for your success on this project. Conflic
 
 1. To what goals do we all commit?
 
-We want to be finished with all of the milestones the day before.
+We want to be finished with all of the milestones the day before. We want to communicate often to make sure we are on the same page. We also want to make sure we do our best work and follow best practices. 
 
 
 2. What are our “ground rules”? (Don't make an exhaustive list—stick with just a few.)

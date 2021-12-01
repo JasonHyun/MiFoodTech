@@ -1600,7 +1600,7 @@ Task 3: You want to understand the future plans of MiFoodTech before you decide 
   - There was a general trend of renaming the pages to make them make more sense. The user suggested things that he as an investor was looking for, so it would make sense to follow this advice.  
 
 
-  ### User 5 - Testing Notes (Final Submission)
+### User 5 - Testing Notes (Final Submission)
   > When conducting user testing, you should take notes during the test. Place your notes here.
 
   Task 1:
@@ -1631,7 +1631,7 @@ Task 3: You want to understand the future plans of MiFoodTech before you decide 
   -said the style of website was nice overall
 
 
-  ### User 5 (Final Submission)
+### User 5 (Final Submission)
   > Using your notes from above, describe your user by answering the questions below.
 
   1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
@@ -1643,7 +1643,7 @@ Task 3: You want to understand the future plans of MiFoodTech before you decide 
 
   Yes. My user has a background in providing funds to help startup businesses and help individuals obtain patents. Also has experience advising startups such as MiTechFood and advise them on business strategy and marketing goals to raise capital.
 
-  ### User 5 Results (Final Submission)
+### User 5 Results (Final Submission)
   > Report the results of your user's evaluation. You should explain **what the user did**, describe the user's **reaction/feedback** to the design, **reflect on the user's performance**, determine what **re-design choices** you will make **for EACH task**. You can also add any additional comments.
 
   Task 1: You want to learn more about the founder of MiFoodTech and understand his background. Find what makes him qualified to run this startup.-
@@ -1663,21 +1663,21 @@ Task 3: You want to understand the future plans of MiFoodTech before you decide 
   - **Additional Notes**
   They really want to emphasize getting rid of the interactivity on the team page because they think it is pointless and no one will click on it. I agree with them.
 
-    Task 2: You are a medium sized Chinese restaurant owner and want to know how much you would save if you used MiFoodTech's product. Find out the savings from investment in MiFoodTech's intelligent woks for a medium sized restaurant.
-    - **Did you evaluate the desktop or mobile design?**
+Task 2: You are a medium sized Chinese restaurant owner and want to know how much you would save if you used MiFoodTech's product. Find out the savings from investment in MiFoodTech's intelligent woks for a medium sized restaurant.
+  - **Did you evaluate the desktop or mobile design?**
       - Pick one: Desktop
-    - **How did the user do? Did they meet your expectation?**
+  - **How did the user do? Did they meet your expectation?**
     User met expectations and was able to execute task with no hesitation and was able to read the graph with relative ease. They met my expectations and were successful.
 
-    - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-    The user said the graph was easy enough to find but thought the text on the graph itself was a bit small. They suggested making the graph larger and increasing the font size. They also mentioned possibly putting the graph higher up in the page and really highlighting how much money someone could save using his special type of wok.
+  - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+  The user said the graph was easy enough to find but thought the text on the graph itself was a bit small. They suggested making the graph larger and increasing the font size. They also mentioned possibly putting the graph higher up in the page and really highlighting how much money someone could save using his special type of wok.
 
-    - **Your reflections about the user’s performance to the task**
+  - **Your reflections about the user’s performance to the task**
     The users choice to go to the market page made sense because it had the most the do with task 2. They argued that it could also have been placed in the why us page but said renaming could alleviate this issue. I understand what they are saying and have noted these points.
-    - **Re-design choices**
+  - **Re-design choices**
     Definitely think why us page should be renamed now. Also says to make graph bigger if you can.   
 
-    - **Additional Notes**
+  - **Additional Notes**
     Rename the why us page something less vague. You could literally put any of the content from any pages on the why us page and it would work and make sense to a certain extent. Need to be mre specific like the invest page.
 
   Task 3: You want to understand the future plans of MiFoodTech before you decide to invest. Find out what MiFoodTech plans to accomplish in 2022.
