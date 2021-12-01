@@ -240,6 +240,11 @@ h1, h2, h3{
     margin-bottom: 30px;
 }
 
+figcaption{
+    font-size: 80%;
+
+}
+
 #comp-chart{
     width: 100%;
 }
@@ -250,6 +255,10 @@ h1, h2, h3{
 }
 
 #app-model{
+    width: 100%;
+}
+
+#labor-comparison{
     width: 100%;
 }
 
@@ -625,7 +634,23 @@ h1, h2, h3{
 
   #app-model{
         width: 100%;
-        margin: 20px;
+        /* border: 2px solid; */
+  }
+
+  .labor-flex{
+      display:flex;
+      margin:10px auto;
+      justify-content: center;
+      align-items: center;
+      padding: 10px;
+      width: 90%;
+      /* border: 2px solid; */
+  }
+
+  .labor-info{
+      width: 40%;
+      margin: 10px;
+      /* border: 2px solid; */
   }
 
   .large{
