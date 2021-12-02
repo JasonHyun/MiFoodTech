@@ -989,28 +989,67 @@ elements:
 - button in each box that will appear/disappear for closing the box
 - <p> for the text boxes
 
-- .hidden class for the box that explains what is going on in the graph
+.hidden class for the box that explains what is going on in the graph
     - text box divs default to hidden
-- event: clicking on the buttons on the graph
+```
+event: clicking on the buttons on the graph
 
-- when(button 1 clicked){
+when(button 1 clicked){
     show text box 1
 }
-- when(x button in text box 1 clicked){
+when(x button in text box 1 clicked){
     hide text box 1
 }
-- when(button 2 clicked){
+when(button 2 clicked){
     show text box 2
 }
 - when(x button in text box 2 clicked){
     hide text box 2
 }
-- when(button 3 clicked){
+when(button 3 clicked){
     show text box 3
 }
-- when(x button in text box 3 clicked){
+when(x button in text box 3 clicked){
     hide text box 3
 }
+```
+A note that we recieved on this page after milestone 2 was that the positioning of the text boxes was inconvinient and blocked content. To fix this, we decided to add a scroll part to the interactivity where once a button was clicked, the view would jump/scroll to a point where the textbox would be visible right below the graph. When each text box is closed, the view jumps back so that the graph is centered. 
+
+Revised Pseudocode:
+```
+event: clicking on the buttons on the graph
+
+Variables I will need:
+- top of the graph coordinates
+- textbox 1 bottom coordinates
+- textbox 2 bottom coordinates
+- textbox 3 bottom coordinates
+
+when(button 1 clicked){
+    show text box 1
+    scroll so text box is visible at the bottom of the graph
+}
+when(x button in text box 1 clicked){
+    hide text box 1
+    scroll so graph is back at the top of the page
+}
+when(button 2 clicked){
+    show text box 2
+    scroll so text box is visible at the bottom of the graph
+}
+when(x button in text box 2 clicked){
+    hide text box 2
+    scroll so graph is back at the top of the page
+}
+when(button 3 clicked){
+    show text box 3
+    scroll so text box is visible at the bottom of the graph
+}
+when(x button in text box 3 clicked){
+    hide text box 3
+    scroll so graph is back at the top of the page
+}
+```
 
 #### Team Page
 HTML:
@@ -1806,6 +1845,8 @@ We believed that the competitor analysis belonged on the market page (from the u
 
 ![New Industry Outlook Sketch Desktop](industryDesktop.jpg)
 In this sketch, the competitor analysis information is designed horizontally to effectively use the horizontal space of the browser.
+
+Another note that we recieved on this page was that the positioning of the text boxes was inconvinient and blocked content. To fix this, we moved the boxes further down on the page and added to the interactivity script. The revised pseudocode is in the pseudo code section above.
 
 ####Our Future Page
 ![New Our Future Sketch Mobile](futuremobile.jpg)
