@@ -213,6 +213,10 @@ button:hover{
   width: 100%;
 }
 
+.text-content{
+  padding-right: 5%;
+}
+
 .home{
   text-align: left;
   padding-left: 5%;
@@ -277,7 +281,7 @@ figcaption{
 }
 
 .wok-outer{
-    width: 90%;
+    width: 85%;
     max-width: 450px;
     margin: 0 auto;
     display: block;
@@ -305,25 +309,6 @@ figcaption{
     margin-left: 3%;
 }
 
-#cooking-div{
-    top: 0;
-    display: flex;
-    width: 100%;
-    margin: 0 auto;
-    z-index: 3;
-    position:fixed;
-    height: 100%;
-    align-items: center;
-    justify-content: center;
-}
-
-#cooking-popup{
-    width: 95%;
-    margin: 0 auto;
-    max-width: 1500px;
-    padding-right: 25px;
-}
-
 .dim{
       position: fixed;
       display: none;
@@ -344,6 +329,41 @@ figcaption{
       float: right;
       top: 0;
       right:0;
+}
+
+/* ourfuture */
+.caq, .milestone{
+  font-weight: bold;
+}
+
+.timeline{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 50px;
+}
+
+.timelineframe{
+  margin: 0 auto;
+  width: 75%;
+  margin: 0 auto;
+}
+
+.timelinetitle{
+  font-weight: bold;
+  font-size: 20px;
+}
+.investp{
+  width: 95%;
+}
+
+.investp p{
+  text-align: left;
+  margin: 50px;
+}
+
+.tanr img{
+  width: 100%;
 }
 
 /* industry css */
@@ -415,9 +435,7 @@ figcaption{
 
 .label {
   text-align:center;
-
 }
-
 
 .row {
   display:flex;
@@ -433,129 +451,32 @@ figcaption{
 }
 
 .popup {
-  display: none;
   position: fixed;
   z-index: 1;
   left: 0;
   top: 0;
   width: 100%;
   height: 100%;
-  overflow: auto;
   background-color: rgb(0,0,0,0.4);
 }
 
 .popup-content {
-  margin: 15% auto;
+  margin: 5% auto;
   padding: 20px;
   width: 80%;
+  height: 75%;
   background-color: #bbd7ff;
 
 }
 
-.close1 {
-  color: #aaa;
-  float: right;
-  font-size: 30px;
+.close {
+  text-align:right;
 }
 
-.close1:hover,
-.close1:focus {
-  color: black;
-  text-decoration: none;
+.close:hover {
+  color: white;
   cursor: pointer;
 }
-
-.close2 {
-  color: #aaa;
-  float: right;
-  font-size: 30px;
-}
-
-.close2:hover,
-.close2:focus {
-  color: black;
-  text-decoration: none;
-  cursor: pointer;
-}
-
-.close3 {
-  color: #aaa;
-  float: right;
-  font-size: 30px;
-}
-
-.close3:hover,
-.close3:focus {
-  color: black;
-  text-decoration: none;
-  cursor: pointer;
-}
-
-.close4 {
-  color: #aaa;
-  float: right;
-  font-size: 30px;
-}
-
-.close4:hover,
-.close4:focus {
-  color: black;
-  text-decoration: none;
-  cursor: pointer;
-}
-
-.close5 {
-  color: #aaa;
-  float: right;
-  font-size: 30px;
-}
-
-.close5:hover,
-.close5:focus {
-  color: black;
-  text-decoration: none;
-  cursor: pointer;
-}
-
-.close6 {
-  color: #aaa;
-  float: right;
-  font-size: 30px;
-}
-
-.close6:hover,
-.close6:focus {
-  color: black;
-  text-decoration: none;
-  cursor: pointer;
-}
-
-.close7 {
-  color: #aaa;
-  float: right;
-  font-size: 30px;
-}
-
-.close7:hover,
-.close7:focus {
-  color: black;
-  text-decoration: none;
-  cursor: pointer;
-}
-
-.close8 {
-  color: #aaa;
-  float: right;
-  font-size: 30px;
-}
-
-.close8:hover,
-.close8:focus {
-  color: black;
-  text-decoration: none;
-  cursor: pointer;
-}
-
 
 .name:hover {
   text-decoration: underline;
@@ -564,13 +485,17 @@ figcaption{
   cursor: pointer;
 }
 
+.hidden {
+  display:none;
+}
+
 @media screen and (min-width: 555px) {
   .title{
     font-size: 1.3em;
   }
 }
 
-@media screen and (max-width: 1110px) {
+@media screen and (max-width: 1200px) {
 
   .hidden-m{
     position: absolute;
@@ -583,7 +508,7 @@ figcaption{
 
 }
 
-@media screen and (min-width: 1110px) {
+@media screen and (min-width: 1200px) {
   body{
     font-size: 1.3em;
   }
@@ -618,77 +543,14 @@ figcaption{
   }
 }
 
-/* ourfuture */
-    .carousel-main{
-      justify-content: center;
-    }
-
-    .caq, .milestone{
-      font-size: 23px;
-      font-weight: bold;
-    }
-
-    .timeline{
-      display: flex;
-      flex-direction: row;
-      justify-content: center;
-      margin: 50px;
-    }
-    .timelineframe{
-      margin: 0 auto;
-      width: 33%;
-    }
-
-    .timelinetitle{
-      font-weight: bold;
-      font-size: 22px;
-    }
-
-    .investp{
-      margin: 50px;
-    }
-
-    .investp p{
-      text-align: center;
-      margin: 50px;
-    }
-
-    .testrest{
-      display: flex;
-      flex-direction: row;
-
-    }
-
-    @media(max-width: 900px){
-      .timeline{
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        margin: 50px;
-      }
-      .timelineframe{
-        margin: 0 auto;
-        width: 60%;
-        margin: 0 auto;
-      }
-      .timelinetitle{
-        font-weight: bold;
-        font-size: 22px;
-      }
-      .testrest{
-        display: flex;
-        flex-direction: column;
-        font-size: 18px;
-      }
-
-    }
-/* 800px Dekstop Size*/
+/* 800px Desktop Size*/
 @media(min-width: 800px){
   .group {
     display:flex;
     justify-content: center;
   }
 
+  /* home */
   .content{
     display: flex;
     flex-direction: row;
@@ -705,196 +567,207 @@ figcaption{
     padding-right: 5%;
   }
 
-
-
   #solution{
     display: flex;
     flex-direction: row;
   }
 
 /* our tech CSS desktop*/
-
   .whyus-info{
-        width: 40%;
-        margin: 10px;
+    width: 40%;
+    margin: 10px;
   }
 
   #comp-chart{
-        width: 100%;
+    width: 100%;
   }
 
   .technology{
-        margin: 0px auto;
-        text-align: center;
-        width: 90%;
+    margin: 0px auto;
+    text-align: center;
+    width: 90%;
   }
 
   .figure{
-        width: 60%;
-        margin-bottom: 0px;
-        margin: 10px;
+    width: 60%;
+    margin-bottom: 0px;
+    margin: 10px;
   }
 
   .wok-flex{
-        display: flex;
-        justify-content:center;
-        width: 90%;
-        margin: 10px auto;
-        margin-bottom: 30px;
+    display: flex;
+    justify-content:center;
+    width: 90%;
+    margin: 10px auto;
+    margin-bottom: 30px;
   }
 
   .wok{
-        height: 90%;
+    height: 90%;
   }
 
   .cooking{
-        width: 90%;
-        margin: 0px auto;
-        margin-bottom: 20px;
-        max-width: 1500px;
+    width: 90%;
+    margin: 0px auto;
+    margin-bottom: 20px;
+    max-width: 1500px;
   }
 
   .business-flex{
-        display:flex;
-        margin:10px auto;
-        justify-content: center;
-        align-items: center;
-        padding: 10px;
-        width: 90%;
+    display:flex;
+    margin:10px auto;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    width: 90%;
   }
 
   .business-info{
-        width: 40%;
-        margin: 10px;
+    width: 40%;
+    margin: 10px;
   }
 
   #app-model{
-        width: 100%;
+    width: 100%;
   }
 
   .labor-flex{
-      display:flex;
-      flex-direction: row-reverse;
-      margin:10px auto;
-      justify-content: center;
-      align-items: center;
-      padding: 10px;
-      width: 90%;
+    display:flex;
+    flex-direction: row-reverse;
+    margin:10px auto;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    width: 90%;
   }
 
   .labor-info{
-      width: 40%;
-      margin: 10px;
+    width: 40%;
+    margin: 10px;
   }
 
   .large{
-      width: 100%;
-      display: inline-block;
-      max-width: 550px;
+    width: 100%;
+    display: inline-block;
+    max-width: 550px;
 
   }
 
   .vertical{
-      top: 0;
-      display: flex;
-      width: 65%;
-      margin: 0 auto;
-      z-index: 3;
-      position:fixed;
-      height: 100%;
-      align-items: center;
-      justify-content: center;
+    top: 0;
+    display: flex;
+    width: 65%;
+    margin: 0 auto;
+    z-index: 3;
+    position:fixed;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
 
-  }
-
-  #cooking-div{
-      top: 0;
-      display: flex;
-      width: 100%;
-      margin: 0 auto;
-      z-index: 3;
-      position:fixed;
-      height: 100%;
-      align-items: center;
-      justify-content: center;
-  }
-
-  #cooking-popup{
-      width: 95%;
-      margin: 0 auto;
-      max-width: 1500px;
-      padding-right: 25px;
   }
 
   .light-item:hover{
-        border: 5px solid;
-        border-color:#90beff;
-        cursor: pointer;
+    border: 5px solid;
+    border-color:#90beff;
+    cursor: pointer;
   }
 
   .dim{
-        position: fixed;
-        display: none;
-        background-color: black;
-        opacity: 0.9;
-        z-index: 2;
-        width: 100%;
-        height: 100%;
-        top: 0;
-        right: 0;
-        left: 0;
-        bottom: 0;
+    position: fixed;
+    display: none;
+    background-color: black;
+    opacity: 0.9;
+    z-index: 2;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
   }
 
   .exit{
-        z-index: 4;
-        position: fixed;
-        float: right;
-        top: 0;
-        right:0;
+    z-index: 4;
+    position: fixed;
+    float: right;
+    top: 0;
+    right:0;
   }
 
 /* market CSS */
-    .industryOutlook,  .competition{
-        flex-direction: row;
-    }
-    .conclusion{
-        max-width: 800px;
-    }
-    .industryOutlook div.text{
-        width: 50%;
-    }
-    .industryOutlook img{
-        width: 50%;
-        margin-right: 10px;
-    }
-    .competition div.text{
-        width: 50%;
-    }
-    .competition img{
-        width: 50%;
-        margin-left: 10px;
-    }
+  .industryOutlook,  .competition{
+      flex-direction: row;
+  }
+  .conclusion{
+      max-width: 800px;
+  }
+  .industryOutlook div.text{
+      width: 50%;
+  }
+  .industryOutlook img{
+      width: 50%;
+      margin-right: 10px;
+  }
+  .competition div.text{
+      width: 50%;
+  }
+  .competition img{
+      width: 50%;
+      margin-left: 10px;
+  }
 
-    .marketSize{
-        display: flex;
-        flex-direction: column;
-        width: 90%;
-    }
-    .marketSize .seen{
-        display: flex;
-        flex-direction: row;
-        width: 100%;
-    }
-    .marketSize .seen .div{
-        width: 50%;
-    }
-    .marketSize .diagram{
-        margin-left: 10px;
-        width: 100%;
-    }
+  .marketSize{
+      display: flex;
+      flex-direction: column;
+      width: 90%;
+  }
+  .marketSize .seen{
+      display: flex;
+      flex-direction: row;
+      width: 100%;
+  }
+  .marketSize .seen .div{
+      width: 50%;
+  }
+  .marketSize .diagram{
+      margin-left: 10px;
+      width: 100%;
+  }
 
 
+  /*our future */
+
+  .timelinetitle{
+    font-weight: bold;
+    font-size: 22px;
+  }
+
+  .timeline{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 50px;
+  }
+
+  .timelineframe{
+    margin: 0 auto;
+    width: 33%;
+  }
+
+  .testrest{
+    display: flex;
+    flex-direction: row;
+  }
+
+  .testrest p{
+    width: 50%;
+    margin-left: 0px;
+  }
+
+  .tanr img{
+    width: 80%;
+    padding-left: 70px;
+  }
 
 
 }
