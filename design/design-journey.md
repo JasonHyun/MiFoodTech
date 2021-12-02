@@ -1013,7 +1013,7 @@ when(x button in text box 3 clicked){
     hide text box 3
 }
 ```
-A note that we recieved on this page after milestone 2 was that the positioning of the text boxes was inconvinient and blocked content. To fix this, we decided to add a scroll part to the interactivity where once a button was clicked, the view would jump/scroll to a point where the textbox would be visible right below the graph. When each text box is closed, the view jumps back so that the graph is centered. 
+A note that we recieved on this page after milestone 2 was that the positioning of the text boxes was inconvinient and blocked content. To fix this, we decided to add a scroll part to the interactivity where once a button was clicked, the view would jump/scroll to a point where the textbox would be visible right below the graph. When each text box is closed, the view jumps back so that the graph is centered.
 
 Revised Pseudocode:
 ```
@@ -1066,7 +1066,7 @@ CSS:
 
 JS General Algorithm:
 ```
-when headshot is clicked:
+when name of member is clicked:
     remove hidden from banner of headshot member
 when close icon clicked:
     add hidden to banner of headshot member

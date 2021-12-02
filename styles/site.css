@@ -468,7 +468,6 @@ figcaption{
 }
 
 .popup {
-  display: none;
   position: fixed;
   z-index: 1;
   left: 0;
@@ -480,116 +479,25 @@ figcaption{
 }
 
 .popup-content {
-  margin: 15% auto;
+  margin: 5% auto;
   padding: 20px;
   width: 80%;
+  height: 100%;
   background-color: #bbd7ff;
 
 }
 
-.close1 {
-  color: #aaa;
-  float: right;
-  font-size: 30px;
+.close {
+  text-align:right;
 }
 
-.close1:hover,
-.close1:focus {
-  color: black;
-  text-decoration: none;
+.close:hover {
+  color: white;
   cursor: pointer;
 }
 
-.close2 {
-  color: #aaa;
-  float: right;
-  font-size: 30px;
-}
 
-.close2:hover,
-.close2:focus {
-  color: black;
-  text-decoration: none;
-  cursor: pointer;
-}
 
-.close3 {
-  color: #aaa;
-  float: right;
-  font-size: 30px;
-}
-
-.close3:hover,
-.close3:focus {
-  color: black;
-  text-decoration: none;
-  cursor: pointer;
-}
-
-.close4 {
-  color: #aaa;
-  float: right;
-  font-size: 30px;
-}
-
-.close4:hover,
-.close4:focus {
-  color: black;
-  text-decoration: none;
-  cursor: pointer;
-}
-
-.close5 {
-  color: #aaa;
-  float: right;
-  font-size: 30px;
-}
-
-.close5:hover,
-.close5:focus {
-  color: black;
-  text-decoration: none;
-  cursor: pointer;
-}
-
-.close6 {
-  color: #aaa;
-  float: right;
-  font-size: 30px;
-}
-
-.close6:hover,
-.close6:focus {
-  color: black;
-  text-decoration: none;
-  cursor: pointer;
-}
-
-.close7 {
-  color: #aaa;
-  float: right;
-  font-size: 30px;
-}
-
-.close7:hover,
-.close7:focus {
-  color: black;
-  text-decoration: none;
-  cursor: pointer;
-}
-
-.close8 {
-  color: #aaa;
-  float: right;
-  font-size: 30px;
-}
-
-.close8:hover,
-.close8:focus {
-  color: black;
-  text-decoration: none;
-  cursor: pointer;
-}
 
 
 .name:hover {
@@ -597,6 +505,10 @@ figcaption{
   color: white;
   background-color: #83b6ff;
   cursor: pointer;
+}
+
+.hidden {
+  display:none;
 }
 
 @media screen and (min-width: 555px) {
