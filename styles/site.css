@@ -333,7 +333,6 @@ figcaption{
 
 /* ourfuture */
     .caq, .milestone{
-      /* font-size: 23px; */
       font-weight: bold;
     }
 
@@ -343,10 +342,12 @@ figcaption{
       justify-content: center;
       margin: 50px;
     }
+
     .timelineframe{
       margin: 0 auto;
       width: 33%;
     }
+
     .timelinetitle{
       font-weight: bold;
       font-size: 20px;
@@ -546,15 +547,18 @@ figcaption{
         justify-content: center;
         margin: 50px;
       }
+
       .timelineframe{
         margin: 0 auto;
         width: 60%;
         margin: 0 auto;
       }
+
       .timelinetitle{
         font-weight: bold;
         font-size: 22px;
       }
+
       .testrest{
         display: flex;
         flex-direction: column;
