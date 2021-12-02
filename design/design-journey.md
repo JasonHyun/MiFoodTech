@@ -645,9 +645,10 @@ The new cardsort is appropriate for the audiences and goals because we took the 
 - Why Us?
 - Invest
 
+Revised page names from user testing:
 - Home
-- Team
-- Market
+- The Team
+- Industry Outlook
 - Our Technology
 - Our Future
 
@@ -1881,3 +1882,5 @@ provided slides and notes from meetings. Site brings out the best in the company
 - Learned to communicate with an actual client to produce a website that will go live and be used to attract investors in the industry. This was something new for group members and it taught us how to address Mi's needs and goals
 
 > 3. Tell us anything else you need us to know for when we're looking at the project.
+
+The interactivity on the Our Technology page is only on the desktop version. The hamburger menu is shown when the screen is smaller than 1200px, since in order to show all the names of the pages side by side, the screen must be at least 1200px wide. The placement of the slideshow on the home screen as the first piece of content under the header makes sense because there is content in the images that adds to the user's experience and is not merely a decorative element like hero images. 
