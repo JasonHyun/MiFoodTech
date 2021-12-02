@@ -332,64 +332,39 @@ figcaption{
 }
 
 /* ourfuture */
-    .caq, .milestone{
-      font-weight: bold;
-    }
+.caq, .milestone{
+  font-weight: bold;
+}
 
-    .timeline{
-      display: flex;
-      flex-direction: row;
-      justify-content: center;
-      margin: 50px;
-    }
+.timeline{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 50px;
+}
 
-    .timelineframe{
-      margin: 0 auto;
-      width: 33%;
-    }
+.timelineframe{
+  margin: 0 auto;
+  width: 75%;
+  margin: 0 auto;
+}
 
-    .timelinetitle{
-      font-weight: bold;
-      font-size: 20px;
-    }
+.timelinetitle{
+  font-weight: bold;
+  font-size: 20px;
+}
+.investp{
+  width: 95%;
+}
 
-    .investp p{
-      text-align: center;
-      margin: 50px;
-    }
+.investp p{
+  text-align: left;
+  margin: 50px;
+}
 
-    .testrest{
-      display: flex;
-      flex-direction: row;
-    }
-
-
-        @media(max-width: 900px){
-          .timeline{
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            margin: 50px;
-          }
-
-          .timelineframe{
-            margin: 0 auto;
-            width: 60%;
-            margin: 0 auto;
-          }
-
-          .timelinetitle{
-            font-weight: bold;
-            font-size: 22px;
-          }
-
-          .testrest{
-            display: flex;
-            flex-direction: column;
-            font-size: 18px;
-          }
-
-        }
+.tanr img{
+  width: 100%;
+}
 
 /* industry css */
 .marketSize, .industryOutlook, .competition{
@@ -454,9 +429,7 @@ figcaption{
 
 .label {
   text-align:center;
-
 }
-
 
 .row {
   display:flex;
@@ -498,10 +471,6 @@ figcaption{
   color: white;
   cursor: pointer;
 }
-
-
-
-
 
 .name:hover {
   text-decoration: underline;
@@ -568,13 +537,14 @@ figcaption{
   }
 }
 
-/* 800px Dekstop Size*/
+/* 800px Desktop Size*/
 @media(min-width: 800px){
   .group {
     display:flex;
     justify-content: center;
   }
 
+  /* home */
   .content{
     display: flex;
     flex-direction: row;
@@ -591,8 +561,6 @@ figcaption{
     padding-right: 5%;
   }
 
-
-
   #solution{
     display: flex;
     flex-direction: row;
@@ -600,167 +568,200 @@ figcaption{
 
 /* our tech CSS desktop*/
   .whyus-info{
-        width: 40%;
-        margin: 10px;
+    width: 40%;
+    margin: 10px;
   }
 
   #comp-chart{
-        width: 100%;
+    width: 100%;
   }
 
   .technology{
-        margin: 0px auto;
-        text-align: center;
-        width: 90%;
+    margin: 0px auto;
+    text-align: center;
+    width: 90%;
   }
 
   .figure{
-        width: 60%;
-        margin-bottom: 0px;
-        margin: 10px;
+    width: 60%;
+    margin-bottom: 0px;
+    margin: 10px;
   }
 
   .wok-flex{
-        display: flex;
-        justify-content:center;
-        width: 90%;
-        margin: 10px auto;
-        margin-bottom: 30px;
+    display: flex;
+    justify-content:center;
+    width: 90%;
+    margin: 10px auto;
+    margin-bottom: 30px;
   }
 
   .wok{
-        height: 90%;
+    height: 90%;
   }
 
   .cooking{
-        width: 90%;
-        margin: 0px auto;
-        margin-bottom: 20px;
-        max-width: 1500px;
+    width: 90%;
+    margin: 0px auto;
+    margin-bottom: 20px;
+    max-width: 1500px;
   }
 
   .business-flex{
-        display:flex;
-        margin:10px auto;
-        justify-content: center;
-        align-items: center;
-        padding: 10px;
-        width: 90%;
+    display:flex;
+    margin:10px auto;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    width: 90%;
   }
 
   .business-info{
-        width: 40%;
-        margin: 10px;
+    width: 40%;
+    margin: 10px;
   }
 
   #app-model{
-        width: 100%;
+    width: 100%;
   }
 
   .labor-flex{
-      display:flex;
-      flex-direction: row-reverse;
-      margin:10px auto;
-      justify-content: center;
-      align-items: center;
-      padding: 10px;
-      width: 90%;
+    display:flex;
+    flex-direction: row-reverse;
+    margin:10px auto;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    width: 90%;
   }
 
   .labor-info{
-      width: 40%;
-      margin: 10px;
+    width: 40%;
+    margin: 10px;
   }
 
   .large{
-      width: 100%;
-      display: inline-block;
-      max-width: 550px;
+    width: 100%;
+    display: inline-block;
+    max-width: 550px;
 
   }
 
   .vertical{
-      top: 0;
-      display: flex;
-      width: 65%;
-      margin: 0 auto;
-      z-index: 3;
-      position:fixed;
-      height: 100%;
-      align-items: center;
-      justify-content: center;
+    top: 0;
+    display: flex;
+    width: 65%;
+    margin: 0 auto;
+    z-index: 3;
+    position:fixed;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
 
   }
 
   .light-item:hover{
-        border: 5px solid;
-        border-color:#90beff;
-        cursor: pointer;
+    border: 5px solid;
+    border-color:#90beff;
+    cursor: pointer;
   }
 
   .dim{
-        position: fixed;
-        display: none;
-        background-color: black;
-        opacity: 0.9;
-        z-index: 2;
-        width: 100%;
-        height: 100%;
-        top: 0;
-        right: 0;
-        left: 0;
-        bottom: 0;
+    position: fixed;
+    display: none;
+    background-color: black;
+    opacity: 0.9;
+    z-index: 2;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
   }
 
   .exit{
-        z-index: 4;
-        position: fixed;
-        float: right;
-        top: 0;
-        right:0;
+    z-index: 4;
+    position: fixed;
+    float: right;
+    top: 0;
+    right:0;
   }
 
 /* market CSS */
-    .industryOutlook,  .competition{
-        flex-direction: row;
-    }
-    .conclusion{
-        max-width: 800px;
-    }
-    .industryOutlook div.text{
-        width: 50%;
-    }
-    .industryOutlook img{
-        width: 50%;
-        margin-right: 10px;
-    }
-    .competition div.text{
-        width: 50%;
-    }
-    .competition img{
-        width: 50%;
-        margin-left: 10px;
-    }
+  .industryOutlook,  .competition{
+      flex-direction: row;
+  }
+  .conclusion{
+      max-width: 800px;
+  }
+  .industryOutlook div.text{
+      width: 50%;
+  }
+  .industryOutlook img{
+      width: 50%;
+      margin-right: 10px;
+  }
+  .competition div.text{
+      width: 50%;
+  }
+  .competition img{
+      width: 50%;
+      margin-left: 10px;
+  }
 
-    .marketSize{
-        display: flex;
-        flex-direction: column;
-        width: 90%;
-    }
-    .marketSize .seen{
-        display: flex;
-        flex-direction: row;
-        width: 100%;
-    }
-    .marketSize .seen .div{
-        width: 50%;
-    }
-    .marketSize .diagram{
-        margin-left: 10px;
-        width: 100%;
-    }
+  .marketSize{
+      display: flex;
+      flex-direction: column;
+      width: 90%;
+  }
+  .marketSize .seen{
+      display: flex;
+      flex-direction: row;
+      width: 100%;
+  }
+  .marketSize .seen .div{
+      width: 50%;
+  }
+  .marketSize .diagram{
+      margin-left: 10px;
+      width: 100%;
+  }
 
 
+  /*our future */
+
+  .timelinetitle{
+    font-weight: bold;
+    font-size: 22px;
+  }
+
+  .timeline{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 50px;
+  }
+
+  .timelineframe{
+    margin: 0 auto;
+    width: 33%;
+  }
+
+  .testrest{
+    display: flex;
+    flex-direction: row;
+  }
+
+  .testrest p{
+    width: 50%;
+    margin-left: 0px;
+  }
+
+  .tanr img{
+    width: 80%;
+    padding-left: 70px;
+  }
 
 
 }

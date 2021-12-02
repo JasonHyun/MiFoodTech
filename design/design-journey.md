@@ -1877,7 +1877,7 @@ provided slides and notes from meetings. Site brings out the best in the company
 
 - Value of fulfilling client's needs but also adhering to best design practices learned throughout the course
 - Collaboration is key to having a successful project, our team communicated through Facebook messenger and scheduled meetings with lettucemeet to try and keep everyone informed and accommodate everyone's busy schedules
--Became familiar with pushing and pulling to Git which is a valuable skill for future jobs and internships
--Learned to communicate with an actual client to produce a website that will go live and be used to attract investors in the industry. This was something new for group members and it taught us how to address Mi's needs and goals
+- Became familiar with pushing and pulling to Git which is a valuable skill for future jobs and internships
+- Learned to communicate with an actual client to produce a website that will go live and be used to attract investors in the industry. This was something new for group members and it taught us how to address Mi's needs and goals
 
 > 3. Tell us anything else you need us to know for when we're looking at the project.
