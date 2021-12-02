@@ -332,12 +332,8 @@ figcaption{
 }
 
 /* ourfuture */
-    .carousel-main{
-      justify-content: center;
-    }
-
     .caq, .milestone{
-      font-size: 23px;
+      /* font-size: 23px; */
       font-weight: bold;
     }
 
@@ -351,14 +347,9 @@ figcaption{
       margin: 0 auto;
       width: 33%;
     }
-
     .timelinetitle{
       font-weight: bold;
-      font-size: 22px;
-    }
-
-    .investp{
-      margin: 50px;
+      font-size: 20px;
     }
 
     .investp p{
@@ -369,7 +360,6 @@ figcaption{
     .testrest{
       display: flex;
       flex-direction: row;
-
     }
 
 /* industry css */
@@ -548,8 +538,6 @@ figcaption{
     overflow: hidden;
   }
 }
-
-
 
     @media(max-width: 900px){
       .timeline{
