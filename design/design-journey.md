@@ -110,7 +110,7 @@ We plan on making 5 pages for the client as they suggested in the meeting. This 
 
 **MiFoodTech General Info**
 - mi food tech
-- designing differnet robots to help   - prepare chinese quizine
+- designing different robots to help   - prepare chinese cuisine
 - chinese cuisine more complex than other cuisines
 - stir and fry
 
@@ -151,9 +151,9 @@ Present slide:
     - homepage shows the problem on the homepage
     - covid want to reduce human to human problem
     - challenges in industry and show how we can provide solution to industry
-    - testimonial from customes
+    - testimonial from customers
     - application of technology to other companies
-    - hotel is simalar to restaurant
+    - hotel is similar to restaurant
 - Doordash: https://www.doordash.com/
 
 **Theme/Aesthetic**
@@ -202,12 +202,12 @@ slack:
 - any users to reach out to?
 - talk about it at a later date
 - interview team members
- - one team memeber is a chef
+ - one team member is a chef
  - another worked at michelin star restaurant
  - reach out to people in industry
 
 **How to get more content**
-- google labor costs in restuarants
+- google labor costs in restaurants
 - you'll see lots of reports
 - rephrase sentences from
 - let know if need more text
@@ -225,7 +225,7 @@ Synthesize user interviews and write goals: Team Meeting ASAP
 Plan content: Team Meeting ASAP (Same one)
 Content organization / card sorting: After lab 11/5
 Design and plan interactivity + sketches: After lab 11/12
-Client feedback mtg: TBD, Between 12th and 13th, 14th if neccesary
+Client feedback mtg: TBD, Between 12th and 13th, 14th if neccessary
 Draft website: On your own time, ASAP after feedback meeting, done by 11/16
 
 Recruit user testing people: 11/17-11/19
@@ -288,7 +288,7 @@ No- she has not personally invested before. However, she is explaining through t
     - What is the most important piece of information that influenced your decision to invest?
     - How did you feel about the {business, company, startup, etc} you decided to invest in?
 
-She has not invested yet, but she says that when she is looking at companies, she would seek out market trends and how the industry is doing pre and post covid. She wants to know if a product is something that a market would even need (saturation?) and if a product is something that people would be open to implementing. She alsos say that she would want to see a lot more information about competitors and logistics of the product.
+She has not invested yet, but she says that when she is looking at companies, she would seek out market trends and how the industry is doing pre and post covid. She wants to know if a product is something that a market would even need (saturation?) and if a product is something that people would be open to implementing. She also say that she would want to see a lot more information about competitors and logistics of the product.
 
 
 3. Is there any information you wish you had known about your investment beforehand or information you weren’t able to find?
@@ -300,7 +300,7 @@ She says that she finds it hard to find quantitative information about smaller c
 
 Interviewee one says that when she is analyzing a company, she always wants to know about incumbents and how realistic it is for this small company to make a space and a name for themselves.
 
-She mentions the Fintech industry: Paypal is the incumbent and they have literally 48% of the market share. She would only be looking at small startups that have a wild differentiating factor becuase brand and reputation, which incumbents already have is super valuable.
+She mentions the Fintech industry: Paypal is the incumbent and they have literally 48% of the market share. She would only be looking at small startups that have a wild differentiating factor because brand and reputation, which incumbents already have is super valuable.
 
 
 6. When investing, is learning about your investees background important? Why or why not?
@@ -314,7 +314,7 @@ She would need to understand the business model completely and know each member 
 
 8. Do you have any considerations or reservations, if any, about investing in MiFoodTech? Why or why not?
 
-She thinks that she personally does not know as much about the foodtech industry as she would like to and wants to know more about how MiFoodTech fits in.
+She thinks that she personally does not know as much about the food tech industry as she would like to and wants to know more about how MiFoodTech fits in.
 
 
 9. What haven’t I asked you today that you think would be valuable for me to know?
@@ -350,7 +350,7 @@ It depends on how much money she would invest. If it is a lot she would want to 
 No jobs for people in the community.
 
 9. What haven’t I asked you today that you think would be valuable for me to know?
-She is excited to see MiTechFood when they come to Ithaca and hopes people in the community will be receptive since Ithaca is a small collegetown.
+She is excited to see MiTechFood when they come to Ithaca and hopes people in the community will be receptive since Ithaca is a small college town.
 
 
 **Interviewee 3:**
@@ -378,7 +378,7 @@ Interviewee 3 is a senior at Cornell studying Computer Science and is a member o
  - yes, to some extent if you have time; could align on personal values and estimated returns ; looking at what they working on , more potential in future for newer companies
 7. (Optional) How long or how well do you have to know an individual or startup like MiTechFood before you would feel comfortable investing in them?
 8. Do you have any considerations or reservations, if any, about investing in MiFoodTech? Why or why not?
-  - would want to talk to ppl behind it, see why they are doing it, “Story behind company is really interesting”, how they plan on achieving their goals, what they are doing does influence , product roadmap, how they want to scale it, if it’s viable or not
+  - would want to talk to people behind it, see why they are doing it, “Story behind company is really interesting”, how they plan on achieving their goals, what they are doing does influence , product roadmap, how they want to scale it, if it’s viable or not
 9. What haven’t I asked you today that you think would be valuable for me to know?
 - NA
 
@@ -422,7 +422,7 @@ Yes
 2b.  How did you feel about the {business, company, startup, etc} you decided to invest in?
 
 - i felt that there could be a potential for growth and it was a worth wild investment for the future even if it ended up not working.
-- eg. my investment into bitcoin miners since there is still a possibility that it could crash tomorrow. i was willing to risk the initial investment to buy the hardware needed. I felt that there was a safe place to simply store my money without fear of it being consumed by inflation.
+- eg. my investment into bitcoin miners since there is still a possibility that it could crash tomorrow. I was willing to risk the initial investment to buy the hardware needed. I felt that there was a safe place to simply store my money without fear of it being consumed by inflation.
 
 3. Is there any information you wish you had known about your investment beforehand or information you weren’t able to find?
 
@@ -439,7 +439,7 @@ Yes
 - their overall growth in the past 5 years
 - financial statements to analyze if they are in debt or profit
 - their future ventures that they are attempting to make.
-==> it allows me to throughly see if they would utilize my investment for the growth of the company.
+==> it allows me to thoroughly see if they would utilize my investment for the growth of the company.
 
 6. When investing, is learning about your investees background important? Why or why not?
 
@@ -492,7 +492,7 @@ The past activities and price values of the companies are the most crucial infor
 
 6. When investing, is learning about your investees background important? Why or why not?
 
-Definitely important, because investees are part of the company you'd be investing for and they will in one way or the other affect the furture trends of the company itself, especially if they're a representative or a director
+Definitely important, because investees are part of the company you'd be investing for and they will in one way or the other affect the future trends of the company itself, especially if they're a representative or a director
 
 7. (Optional) How long or how well do you have to know an individual or startup like MiTechFood before you would feel comfortable investing in them?
 
@@ -514,7 +514,7 @@ Goal 1: differentiate MiFoodTech
   - Have either a page or an infographic/table dedicated to comparison between MiFoodTech and other similar companies
   - This image should be the primary content of the page for ease of reading purposes and because this is such an important thing for most users
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
-  - Many of the user interviewees noted that if they were putting their money somewhere, they would want to know what makes this company unique and therefore likely to suceed. Interviewee 1 specifically said that she would need the company to be wildly different from any incumbents as that would signify the possibility of capturing a niche to her.
+  - Many of the user interviewees noted that if they were putting their money somewhere, they would want to know what makes this company unique and therefore likely to succeed. Interviewee 1 specifically said that she would need the company to be wildly different from any incumbents as that would signify the possibility of capturing a niche to her.
 
 Goal 2: understand the market/industry
 - **Design Ideas and Choices** _How will you meet those goals in your design?_  
@@ -622,7 +622,7 @@ The five categories from the second iteration are maintained, except the specifi
 
 *New Changes to Cardsort (from re-design process)*
 ![New CardSort](newCardSort.jpg)
-Originally, the business model/plan content was a part of robot technology, but we took Mi's request to separate the content and put it in the cardsort(not adding new content). After user testing, we also took the user's suggestions to switch the competition comparison with the labor costs graph. This allows the Market page to have more cohesive content, as well as the Why Us page. The competitor benchmarking information seemed to make more sense with the Market page information, since it is referring to other companies with competing products in the market. The labor costs comparison graph made sense with the Why Us page because it demonstrates benefits of the actual technology for businesses. Additionally, we re-named the "Why Us" page (right) to "Our Technology" based off the user testing results. The new card sort makes sense for the new name since it focuses more on their technology and the benefits.
+Originally, the business model/plan content was a part of robot technology, but we took Mi's request to separate the content and put it in the cardsort (not adding new content). After user testing, we also took the user's suggestions to switch the competition comparison with the labor costs graph. This allows the Market page to have more cohesive content, as well as the Why Us page. The competitor benchmarking information seemed to make more sense with the Market page information, since it is referring to other companies with competing products in the market. The labor costs comparison graph made sense with the Why Us page because it demonstrates benefits of the actual technology for businesses. Additionally, we re-named the "Why Us" page (right) to "Our Technology" based off the user testing results. The new card sort makes sense for the new name since it focuses more on their technology and the benefits.
 
 ### Final Content Organization (Milestone 2)
 > Which iteration of card sorting will you use for your website?
@@ -687,7 +687,7 @@ Theme 2: Geometric
     - looks like explicit shapes/rectangles to match the images
 
 Theme 3: Homey/Rustic
-- Appropraite because restaurants and chinese food are comforting
+- Appropriate because restaurants and chinese food are comforting
 - Bold/Jewel tone colors
     - less white space (because white space feels cold)
 - warmer, more welcoming and inviting feeling
@@ -755,7 +755,7 @@ In this iteration, I chose to use circular images (which I could create myself w
 In this iteration, I moved the headers for each section to above the section instead of next to the graph in the section. This might make it more clear which section is what.
 
 ![First Iteration of Mobile Market Page](/design/marketMobile1.jpg)
-In this version, the navigation bar is replaced by a hamurger menu becuase it is a common design pattern that is prominent on many mobile websies. The content is the same, but it is stacked in one column with the images and headders above the relevant paragraphs/explanation. I based this sketch off of the first iteration of the Desktop page as I liked that version more.
+In this version, the navigation bar is replaced by a hamburger menu because it is a common design pattern that is prominent on many mobile websites. The content is the same, but it is stacked in one column with the images and headers above the relevant paragraphs/explanation. I based this sketch off of the first iteration of the Desktop page as I liked that version more.
 
 #### Team Page (Jason)
 ![First Iteration of Desktop Team Page](/design/teamDesk1.jpg)
@@ -790,7 +790,7 @@ The second iteration is similar to the first but instead splits the customer acq
 **First Iteration Desktop**
 ![First Iteration of Desktop Why Us Page](/design/whyus_desktop1.jpg)
 
-The sketch starts with the reasons that make MiFoodTech unique, with the competitor benchmarking table. Then we add the content which explains the technology that the company is working on. This makes sense because the page is called "Why Us", so we tell the user why MiFoodTech is special and then describe the company further. The paragraphs will be right next to the images because then the user can visually see what the company is working on and they they should invest, as they are reading. This sketch puts the images of automatic wok images into a carousel so the user can explore images of the technology. At the bottom of the page, we added the image of the process of cooking the shredded potatoes dish because cooking comes after developing the technology, so it should come after.
+The sketch starts with the reasons that make MiFoodTech unique, with the competitor benchmarking table. Then we add the content which explains the technology that the company is working on. This makes sense because the page is called "Why Us", so we tell the user why MiFoodTech is special and then describe the company further. The paragraphs will be right next to the images because then the user can visually see what the company is working on and they should invest, as they are reading. This sketch puts the images of automatic wok images into a carousel so the user can explore images of the technology. At the bottom of the page, we added the image of the process of cooking the shredded potatoes dish because cooking comes after developing the technology, so it should come after.
 
 **Second Iteration Desktop**
 ![Second Iteration of Desktop Why Us Page](/design/whyus_desktop2.jpg)
@@ -820,7 +820,7 @@ I added the business model information to the sketch. The mobile version has the
 > Explain how the interactivity improves the usability of the site and helps the site's audiences meet their goals.
 
 #### Home:
-There is a slideshow/timed carosuel beneath the header that gives the audience of potential investors a sense of what to expect as they navigate through the website. There are left and right arrows that lead to the next slide if the users want to skim through the slides, and indicator dots that show the user which slide they are on. The image being displayed will change after a specific time interval and the active indicator dot will also change position. The interactivity improves the usability of the site and helps the audience of potential investors to meet their goal of understanding MiFoodTech's product and how it is unique with engaging large images that tell MiFoodTech's story which help form the first impression the audience has of the company.
+There is a slideshow/timed carousel beneath the header that gives the audience of potential investors a sense of what to expect as they navigate through the website. There are left and right arrows that lead to the next slide if the users want to skim through the slides, and indicator dots that show the user which slide they are on. The image being displayed will change after a specific time interval and the active indicator dot will also change position. The interactivity improves the usability of the site and helps the audience of potential investors to meet their goal of understanding MiFoodTech's product and how it is unique with engaging large images that tell MiFoodTech's story which help form the first impression the audience has of the company.
 
 #### Market:
 This page will allow for the users to click on  different sections of the market sizing graph to learn about what they stand for and why they are significant. The labels of the sections will be like buttons themselves and when clicked on, little pop up boxes will appear.
@@ -1073,16 +1073,24 @@ when close icon clicked:
 ```
 #### Invest Page
 html:
-TIMELINE
- timeline: '<div class="timeline">'
-CAROUSEL
+TIMELINE:
+ timeline: '<div class="timeline">
+ UPDATED TIMELINE:
+  timeline: '<div class="timeline">
+ <section class="investp">
+ <div class="milestone">
+ <div class="timelineframe">
+ <div class="timelinetitle">
+ <div class="testrest">
+ <div class= "tanr">
+CAROUSEL:
 right button: `button id="right"`
 left button: `button id="left"`
 first dot: `button class = "dot active"`
 dots: `button class = "dot"`
 first slide:`<img class="slide" id="slide1" src="images/slide1.jpg" alt="Slide 1"/>`
 other slide: `<img class="slide hidden" id="slide2" src="images/slide2.jpg" alt="Slide 2"/>`
-HAMBURGER
+HAMBURGER:
 hamburger menu: `button id="hamburger"`
 close button: `button class="hidden-m" id="close"`
 
@@ -1092,7 +1100,7 @@ css classes
 `.hidden` - hide elements
 `button:hover` - change background color and cursor on hovers
 
-
+js planning
 ```
 // when #next-button clicked: (on-click-event snippet)
 //   show next slide (next slide snippet
@@ -1243,7 +1251,7 @@ Going through sketches:
     - A story to tell with images?
     - Use images of food from slides
     - Company background ⇒ story of how you and team thought of MiFoodTech.. Personal story
-    - He will write a paragraph to send.. My story is after pandemic and after wife was pregnant, he was incharge of cooking. 30-40 minutes to prep. Very time consuming. Another 30 minutes for cooking. Spend another 2 hours every day. It’s a lot. Let’s use technology
+    - He will write a paragraph to send.. My story is after pandemic and after wife was pregnant, he was in charge of cooking. 30-40 minutes to prep. Very time consuming. Another 30 minutes for cooking. Spend another 2 hours every day. It’s a lot. Let’s use technology
     More images of robot tech?
     - Several more, but not a lot
     - Currently using work to prototype the work?
@@ -1401,7 +1409,7 @@ Task 1: You want to learn more about the founder of MiFoodTech and understand hi
   - however, lack of affordances for interactive image means that it is hard for users to see the hidden content
 - **Re-design choices**
   - make headshot seem more clickable (ie adding dropshadow to make it seem more like a button or hover + border around image + change cursor) or add text that says something like "learn more" that show the background of each member when clicked
-  - revise text on team page to be gramatically correct
+  - revise text on team page to be grammatically correct
 - **Additional Notes**
   - need to add more affordances to team page interactivity since it wasn't immediately obvious to the user that the headshot was clickable
   - content should be free of grammatical errors to make user trust company more
@@ -1630,18 +1638,18 @@ Task 1:
 - First visited Why Us page
 - Then visited Team page
 - Clicked on founder image, read about founder
-- Task Succesful
+- Task Successful
 
 Task 2:
 - First visited Why Us page
 - Then visits Invest page
 - Then visits Home page
-- Task Unsuccesful
+- Task Unsuccessful
 
 Task 3:
 - First visits Invest page
 - Found slide show, clicked through to 2022
-- Task Succesful
+- Task successful
 
 User Notes:
 - My user remarked that the Why Us name was misleading, as his first instinct for the first two tasks was to go to that page. Additionally, he mentioned that he thought the "market" page was poorly titled as he never felt like visiting that page was important and that the paragraphs on the home page were difficult to read. He also said that he felt like he was not prompted to click on the founder's headshot, he just did it by accident. Finally, he suggested that we swap some content as a competition analysis seems like it belongs on the market page and the labor savings table seems like it belongs with the diagrams of the product itself.
@@ -1682,7 +1690,7 @@ Task 1: You want to learn more about the founder of MiFoodTech and understand hi
   - **How did the user do? Did they meet your expectation?**
     - My user did not meet my expectations. I thought they would at least navigate to the page that had the information on it but they were unable to.
   - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-    - The user did not go to the "market page" but they did start with the why us page again as they assumed that information about how much a restaurant would save would be on that page. They then went to the invest page as the name might imply that a restaurant should invest in the smart woks but were unsuccesful there as well. Finally, they went to the home page as a default and said that even if there was information on that page, there was too much text to read. My user also remarked that there was a lot of scrolling in general and after he asked me to show him where the information was actually located, he said that it belonged in the "why us" section. He also commented that the "why us" section should not start with a competition analysis.
+    - The user did not go to the "market page" but they did start with the why us page again as they assumed that information about how much a restaurant would save would be on that page. They then went to the invest page as the name might imply that a restaurant should invest in the smart woks but were unsuccessful there as well. Finally, they went to the home page as a default and said that even if there was information on that page, there was too much text to read. My user also remarked that there was a lot of scrolling in general and after he asked me to show him where the information was actually located, he said that it belonged in the "why us" section. He also commented that the "why us" section should not start with a competition analysis.
   - **Your reflections about the user’s performance to the task**
     - I felt that the choice to go to each of these pages made sense and this reaffirms my suspicion that changing the names of pages would be a good move.
   - **Re-design choices**
@@ -1783,7 +1791,7 @@ Task 2: You are a medium sized Chinese restaurant owner and want to know how muc
     Definitely think why us page should be renamed now. Also says to make graph bigger if you can.   
 
   - **Additional Notes**
-    Rename the why us page something less vague. You could literally put any of the content from any pages on the why us page and it would work and make sense to a certain extent. Need to be mre specific like the invest page.
+    Rename the why us page something less vague. You could literally put any of the content from any pages on the why us page and it would work and make sense to a certain extent. Need to be more specific like the invest page.
 
   Task 3: You want to understand the future plans of MiFoodTech before you decide to invest. Find out what MiFoodTech plans to accomplish in 2022.
   - **Did you evaluate the desktop or mobile design?**
@@ -1857,9 +1865,9 @@ Instead of using a carousel, it was agreed upon that this page would be better o
 > 1. Give us three specific strengths of your site that sets it apart from the previous website of the client (if applicable) and/or from other websites. Think of this as your chance to argue for the things you did really well.
 
 1. Sites design is modern, professional, and has a clear color theme throughout.
-2. Sites interactivity which includes carousels and hover features adds to usability and effectively engages the audience.
+2. Sites interactivity which includes carousels and hover features adds to usability and effectively engages the audience. Takes into account user feedback and made revisions that support and enhance user experience.
 3. Site sorts and highlights important information about MiFoodTech from clients
-provided slides and notes from meetings. Site brings out the best in the company and what it can offer investors through strong layout and planning.
+provided slides and notes from meetings. Site brings out the best in the company and what it can offer investors through strong layout and specific planning.
 
 
 
