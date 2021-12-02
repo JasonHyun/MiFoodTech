@@ -656,7 +656,7 @@ Revised page names from user testing:
 
 These names make sense for the site's audience, because each name appropriately categorizes the user's goals. For the potential investors who are thinking on making investments and thus wishing to find out how MiTechFoods differs from other companies, they would navigate to the "Why Us?" webpage. Similarly, for investors who are more curious to see who and what kind of people are involved, they would navigate to the "Team" webpage, and so on. For those looking to see the future company plan and trajectory they would look for Invest. In other words, each name of the webpages semantically correspond to the goals that we have already identified as the user's goals when they visit our website.
 
-After user testing, we decided to change the names of Our Technology and Our Future, which was justified in the re-design process. Many users were confused to find content on the Why Us page that was related to technology. Changing the name to Our Technology, especially with the new cardsort, clears up what information is on what page for the users. Additionally, we changed the Invest page to Our Future because the main idea of the page is on the future plans. However, our client wanted people to have a page they could go to invest in his company, so we combined the ideas and called it OUR Future.
+After user testing, we decided to change the names of pages to Our Technology, Market, and Our Future, which was justified in the re-design process. Many users were confused to find content on the Why Us page that was related to technology. Changing the name to Our Technology, especially with the new cardsort, clears up what information is on what page for the users. Also, we changed Market to Industry Outlook based on user testing feedback because it was somewhat vague. It gives users a clearer picture of what information such as graphs and other information pertaining to industry outlook are on the page. Additionally, we changed the Invest page to Our Future because the main idea of the page is on the future plans. However, our client wanted people to have a page they could go to invest in his company, so we combined the ideas and called it OUR Future.
 
 ## Design (Milestone 2)
 
@@ -1837,7 +1837,17 @@ Home Page:
 - Bullet Point Text
 
 ### Re Design Process:
-Because we made many changes to the Market Page and the Why Us Page, we re-card sorted and re-sketched these two pages. Also for the Our Future Page the mobile design was resketched to reflect the deletion of a carousel. Below is the re-card sort:
+
+Renaming of Pages (as mentioned previously):
+The Market Page was renamed to Industry Outlook based on user testing feedback. Industry Outlook gives the site's audience a clear idea of what to find on this page and enables investors to seamlessly find information and graphs based on industry data. It is more specific and better addresses the scope of the content.
+
+The Why Us Page was renamed to Our Technology because of feedback and results from user testing. The Why Us page title proved confusing for numerous users because it was too vague. To be more specific and to avoid ambiguity and confusion, it was renamed because the page focuses on MiTechFood technology.
+
+The Invest Page was renamed to Our Future because user testing and feedback showed that this would be a more informative and appropriate title for the page. Invest proved too misleading and did not encompass the scope of all of the material listed on the page, which all focused on MiTechFood's future. Below is the re-card sort:
+
+Re-Cardsorting and Re-Sketching:
+Because we made many changes to the Market Page and the Why Us Page, we re-card sorted and re-sketched these two pages. Also for the Our Future Page the mobile design was resketched to reflect the deletion of a carousel and addition of a flex column.
+
 
 ![New CardSort](newCardSort.jpg)
 In this card sort, we separated the business plan from the diagrams because we felt that it was important to be more specific as we were working on a smaller scale (between two pages instead of the whole website). Originally, the business model/plan content was a part of robot technology, but we took Mi's request to separate the content and put it in the cardsort(not adding new content). We also took the user's suggestions to switch the competition comparison with the labor costs graph. This allows the Market page to have more cohesive content, as well as the Why Us page. Additionally, we re-named the "Why Us" page (right) to "Our Technology" based off the user testing results. The new card sort makes sense for the new name since it focuses more on their technology and the benefits.
@@ -1857,7 +1867,7 @@ We believed that the competitor analysis belonged on the market page (from the u
 ![New Industry Outlook Sketch Desktop](industryDesktop.jpg)
 In this sketch, the competitor analysis information is designed horizontally to effectively use the horizontal space of the browser.
 
-Another note that we recieved on this page was that the positioning of the text boxes was inconvinient and blocked content. To fix this, we moved the boxes further down on the page and added to the interactivity script. The revised pseudocode is in the pseudo code section above.
+Another note that we received on this page was that the positioning of the text boxes was inconvenient and blocked content. To fix this, we moved the boxes further down on the page and added to the interactivity script. The revised pseudocode is in the pseudo code section above.
 
 ####Our Future Page
 ![New Our Future Sketch Mobile](futuremobile.jpg)
@@ -1883,4 +1893,4 @@ provided slides and notes from meetings. Site brings out the best in the company
 
 > 3. Tell us anything else you need us to know for when we're looking at the project.
 
-The interactivity on the Our Technology page is only on the desktop version. The hamburger menu is shown when the screen is smaller than 1200px, since in order to show all the names of the pages side by side, the screen must be at least 1200px wide. The placement of the slideshow on the home screen as the first piece of content under the header makes sense because there is content in the images that adds to the user's experience and is not merely a decorative element like hero images. 
+The interactivity on the Our Technology page is only on the desktop version. The hamburger menu is shown when the screen is smaller than 1200px, since in order to show all the names of the pages side by side, the screen must be at least 1200px wide. The placement of the slideshow on the home screen as the first piece of content under the header makes sense because there is content in the images that adds to the user's experience and is not merely a decorative element like hero images.
