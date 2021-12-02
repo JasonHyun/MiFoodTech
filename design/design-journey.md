@@ -1075,6 +1075,7 @@ when close icon clicked:
 html:
 TIMELINE:
  timeline: '<div class="timeline">
+ 
  UPDATED TIMELINE:
   timeline: '<div class="timeline">
  <section class="investp">
@@ -1083,6 +1084,7 @@ TIMELINE:
  <div class="timelinetitle">
  <div class="testrest">
  <div class= "tanr">
+
 CAROUSEL:
 right button: `button id="right"`
 left button: `button id="left"`
