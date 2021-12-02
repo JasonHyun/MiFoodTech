@@ -213,6 +213,10 @@ button:hover{
   width: 100%;
 }
 
+.text-content{
+  padding-right: 5%;
+}
+
 .home{
   text-align: left;
   padding-left: 5%;
