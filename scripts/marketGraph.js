@@ -12,35 +12,41 @@ var diagramTop = document.getElementById("Diagram");
 $("#TAM").click(function() {
   $("#TAMtext").removeClass("hidden-text");
   $("#TAMclose").removeClass("hidden-text");
+  $("#TAMbox").removeClass("hidden-text");
   tamBox.scrollIntoView(false);s
 });
 
 $("#TAMclose").click(function() {
   $("#TAMtext").addClass("hidden-text");
   $("#TAMclose").addClass("hidden-text");
+  $("#TAMbox").addClass("hidden-text");
   diagramTop.scrollIntoView();
 });
 
 $("#SAM").click(function() {
   $("#SAMtext").removeClass("hidden-text");
   $("#SAMclose").removeClass("hidden-text");
+  $("#SAMbox").removeClass("hidden-text");
   samBox.scrollIntoView(false);
 });
 
 $("#SAMclose").click(function() {
   $("#SAMtext").addClass("hidden-text");
   $("#SAMclose").addClass("hidden-text");
+  $("#SAMbox").addClass("hidden-text");
   diagramTop.scrollIntoView();
 });
 
 $("#SOM").click(function() {
   $("#SOMtext").removeClass("hidden-text");
   $("#SOMclose").removeClass("hidden-text");
+  $("#SOMbox").removeClass("hidden-text");
   somBox.scrollIntoView(false);
 });
 
 $("#SOMclose").click(function() {
   $("#SOMtext").addClass("hidden-text");
   $("#SOMclose").addClass("hidden-text");
+  $("#SOMbox").addClass("hidden-text");
   diagramTop.scrollIntoView();
 });

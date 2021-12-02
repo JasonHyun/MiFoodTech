@@ -397,9 +397,15 @@ figcaption{
     bottom: 32.5%;
     left: 37.5%;
 }
+.textBox{
+    border: 2px solid #90beff;
+    padding: 10px;
+}
+
 .hidden-text{
     display: none;
 }
+
 /*Team CSS*/
 .founder {
   display:flex;
