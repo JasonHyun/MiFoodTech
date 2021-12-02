@@ -346,6 +346,47 @@ figcaption{
       right:0;
 }
 
+/* ourfuture */
+    .carousel-main{
+      justify-content: center;
+    }
+
+    .caq, .milestone{
+      font-size: 23px;
+      font-weight: bold;
+    }
+
+    .timeline{
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      margin: 50px;
+    }
+    .timelineframe{
+      margin: 0 auto;
+      width: 33%;
+    }
+
+    .timelinetitle{
+      font-weight: bold;
+      font-size: 22px;
+    }
+
+    .investp{
+      margin: 50px;
+    }
+
+    .investp p{
+      text-align: center;
+      margin: 50px;
+    }
+
+    .testrest{
+      display: flex;
+      flex-direction: row;
+
+    }
+
 /* industry css */
 .marketSize, .industryOutlook, .competition{
     display: flex;
@@ -564,7 +605,7 @@ figcaption{
   }
 }
 
-@media screen and (max-width: 1110px) {
+@media screen and (max-width: 1200px) {
 
   .hidden-m{
     position: absolute;
@@ -577,7 +618,7 @@ figcaption{
 
 }
 
-@media screen and (min-width: 1110px) {
+@media screen and (min-width: 1200px) {
   body{
     font-size: 1.3em;
   }
@@ -612,46 +653,7 @@ figcaption{
   }
 }
 
-/* ourfuture */
-    .carousel-main{
-      justify-content: center;
-    }
 
-    .caq, .milestone{
-      font-size: 23px;
-      font-weight: bold;
-    }
-
-    .timeline{
-      display: flex;
-      flex-direction: row;
-      justify-content: center;
-      margin: 50px;
-    }
-    .timelineframe{
-      margin: 0 auto;
-      width: 33%;
-    }
-
-    .timelinetitle{
-      font-weight: bold;
-      font-size: 22px;
-    }
-
-    .investp{
-      margin: 50px;
-    }
-
-    .investp p{
-      text-align: center;
-      margin: 50px;
-    }
-
-    .testrest{
-      display: flex;
-      flex-direction: row;
-
-    }
 
     @media(max-width: 900px){
       .timeline{
