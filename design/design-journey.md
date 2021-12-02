@@ -1075,7 +1075,7 @@ when close icon clicked:
 html:
 TIMELINE:
  timeline: '<div class="timeline">
- 
+
  UPDATED TIMELINE:
   timeline: '<div class="timeline">
  <section class="investp">
@@ -1860,16 +1860,16 @@ Another note that we recieved on this page was that the positioning of the text 
 
 ####Our Future Page
 ![New Our Future Sketch Mobile](futuremobile.jpg)
-Instead of using a carousel, it was agreed upon that this page would be better off without the unnecessary interactivity. It did not add to the mobile design which would have been just as effective with just a flex row, which is what was used instead. This way the users can see all the information laid out before them without having to click through the carousel or have the annoyance of having to do extra work to see very basic and straightforward bullets. Users confirm that this choice is less distracting and more to the point, for these reasons other interactivity such as hover and dropdown were not employed from the horizontal and vertical future milestones because it took away from the content and caused more distractions than improvement to content. Also, since these were features of almost all other pages, the idea would have been consistent, yet redundant for users and been an annoyance to keep hovering or clicking to view content that in this case, can be easily viewed without more elaborate steps. This was an important design choice because we did not want to have interactivity just for the sake of interactivity as discussed in class.
+Instead of using a carousel, it was agreed upon that this page would be better off without the unnecessary interactivity. It did not add to the mobile design which would have been just as effective with just a flex row, which is what was used instead. This way the users can see all the information laid out before them without having to click through the carousel or have the annoyance of having to do extra work to see very basic and straightforward bullets. Users confirm that this choice is less distracting and more to the point, for these reasons other interactivity such as hover and dropdown were not employed from the horizontal and vertical future milestones because it took away from the content and caused more distractions than improvement to content. Also, since these were features of almost all other pages, the idea would have been consistent, yet redundant for users and been an annoyance to keep hovering or clicking to view content that in this case, can be easily viewed without more elaborate steps. This was an important design choice because we did not want to have interactivity just for the sake of interactivity, as discussed in class.
 
 
 ## Final Notes to the Graders (Final Submission)
 > 1. Give us three specific strengths of your site that sets it apart from the previous website of the client (if applicable) and/or from other websites. Think of this as your chance to argue for the things you did really well.
 
-1. Sites design is modern, professional, and has a clear color theme throughout.
-2. Sites interactivity which includes carousels and hover features adds to usability and effectively engages the audience. Takes into account user feedback and made revisions that support and enhance user experience.
+1. Site's design is modern, professional, and has a clear color theme throughout. A lot of attention to detail was focused on the aesthetic appeal of the site and inspiration was drawn from professional chain site's such as Junzi to really improve our design.
+2. Attention to user feedback. Sites interactivity which includes carousels and hover features adds to usability and effectively engages the audience. Takes into account user feedback and made extensive revisions that support and enhance user experience.
 3. Site sorts and highlights important information about MiFoodTech from clients
-provided slides and notes from meetings. Site brings out the best in the company and what it can offer investors through strong layout and specific planning.
+provided slides and notes from meetings. Site brings out the best in the company and what it can offer investors through strong layout and specific planning. This was accomplished through many iterations of cardsorting/sketching.
 
 
 
@@ -1877,5 +1877,7 @@ provided slides and notes from meetings. Site brings out the best in the company
 
 - Value of fulfilling client's needs but also adhering to best design practices learned throughout the course
 - Collaboration is key to having a successful project, our team communicated through Facebook messenger and scheduled meetings with lettucemeet to try and keep everyone informed and accommodate everyone's busy schedules
+-Became familiar with pushing and pulling to Git which is a valuable skill for future jobs and internships
+-Learned to communicate with an actual client to produce a website that will go live and be used to attract investors in the industry. This was something new for group members and it taught us how to address Mi's needs and goals
 
 > 3. Tell us anything else you need us to know for when we're looking at the project.
