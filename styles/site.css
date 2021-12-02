@@ -363,6 +363,34 @@ figcaption{
       flex-direction: row;
     }
 
+
+        @media(max-width: 900px){
+          .timeline{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            margin: 50px;
+          }
+
+          .timelineframe{
+            margin: 0 auto;
+            width: 60%;
+            margin: 0 auto;
+          }
+
+          .timelinetitle{
+            font-weight: bold;
+            font-size: 22px;
+          }
+
+          .testrest{
+            display: flex;
+            flex-direction: column;
+            font-size: 18px;
+          }
+
+        }
+
 /* industry css */
 .marketSize, .industryOutlook, .competition{
     display: flex;
@@ -540,32 +568,6 @@ figcaption{
   }
 }
 
-    @media(max-width: 900px){
-      .timeline{
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        margin: 50px;
-      }
-
-      .timelineframe{
-        margin: 0 auto;
-        width: 60%;
-        margin: 0 auto;
-      }
-
-      .timelinetitle{
-        font-weight: bold;
-        font-size: 22px;
-      }
-
-      .testrest{
-        display: flex;
-        flex-direction: column;
-        font-size: 18px;
-      }
-
-    }
 /* 800px Dekstop Size*/
 @media(min-width: 800px){
   .group {
