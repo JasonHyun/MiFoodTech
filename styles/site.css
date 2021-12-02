@@ -309,25 +309,6 @@ figcaption{
     margin-left: 3%;
 }
 
-#cooking-div{
-    top: 0;
-    display: flex;
-    width: 100%;
-    margin: 0 auto;
-    z-index: 3;
-    position:fixed;
-    height: 100%;
-    align-items: center;
-    justify-content: center;
-}
-
-#cooking-popup{
-    width: 95%;
-    margin: 0 auto;
-    max-width: 1500px;
-    padding-right: 25px;
-}
-
 .dim{
       position: fixed;
       display: none;
@@ -624,7 +605,6 @@ figcaption{
   }
 
 /* our tech CSS desktop*/
-
   .whyus-info{
         width: 40%;
         margin: 10px;
@@ -716,25 +696,6 @@ figcaption{
       align-items: center;
       justify-content: center;
 
-  }
-
-  #cooking-div{
-      top: 0;
-      display: flex;
-      width: 100%;
-      margin: 0 auto;
-      z-index: 3;
-      position:fixed;
-      height: 100%;
-      align-items: center;
-      justify-content: center;
-  }
-
-  #cooking-popup{
-      width: 95%;
-      margin: 0 auto;
-      max-width: 1500px;
-      padding-right: 25px;
   }
 
   .light-item:hover{
